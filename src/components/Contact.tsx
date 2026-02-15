@@ -62,7 +62,7 @@ export default function Contact() {
                   <Clock className="text-amber-700" size={24} />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-800 mb-2">Időpont Egyeztetés</h3>
+                  <h3 className="font-semibold text-gray-800 mb-2">Időpont egyeztetés</h3>
                   <p className="text-gray-700">
                     Hívjon vagy írjon emailt az időpont egyeztetéséhez
                   </p>
@@ -72,7 +72,7 @@ export default function Contact() {
 
             <div className="bg-white rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-bold text-gray-800 mb-6">
-                Szükséges Információk
+                Szükséges információk
               </h3>
               <div className="space-y-4 text-gray-700">
                 <p>
