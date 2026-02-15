@@ -63,7 +63,6 @@ export default function Pricing() {
           </div>
 
           <div className="mt-8 text-center text-gray-600">
-            <p>Hívjon bizalommal időpont egyeztetésért!</p>
           </div>
         </div>
       </div>
