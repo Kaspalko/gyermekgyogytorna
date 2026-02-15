@@ -11,7 +11,7 @@ export default function Footer() {
                 Kasparek Pál
               </h3>
               <p className="text-gray-300">
-                Gyermek Gyógytornász
+                Gyermek gyógytornász
               </p>
               <p className="text-gray-400 text-sm mt-2">
                 0-6 éves korig
