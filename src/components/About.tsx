@@ -10,7 +10,7 @@ export default function About() {
               Rólam
             </h2>
             <p className="text-lg text-gray-600">
-              Kasparek Pál - Gyermek Gyógytornász
+              Kasparek Pál - Gyermek gyógytornász
             </p>
           </div>
 
@@ -27,7 +27,7 @@ export default function About() {
                       <Award className="text-amber-700" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-800 mb-1">Szakmai Tapasztalat</h3>
+                      <h3 className="font-semibold text-gray-800 mb-1">Szakmai tapasztalat</h3>
                       <p className="text-gray-600">
                         Kórházi gyakorlattal rendelkező gyermekgyógytornász
                       </p>
@@ -39,7 +39,7 @@ export default function About() {
                       <Building2 className="text-amber-700" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-800 mb-1">Házhoz Járó Szolgáltatás</h3>
+                      <h3 className="font-semibold text-gray-800 mb-1">Házhoz járó szolgáltatás</h3>
                       <p className="text-gray-600">
                         Kényelmes és biztonságos fejlesztés az otthon melegében
                       </p>
