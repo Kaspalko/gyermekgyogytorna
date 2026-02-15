@@ -17,7 +17,7 @@ export default function Pricing() {
           <div className="bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 rounded-3xl p-8 md:p-12 shadow-xl">
             <div className="text-center mb-8">
               <div className="inline-block bg-amber-700 text-white px-6 py-2 rounded-full text-sm font-medium mb-4">
-                Egyéni Fejlesztés
+                Egyéni fejlesztés
               </div>
               <div className="text-5xl md:text-6xl font-bold text-gray-800 mb-2">
                 14.000 Ft
