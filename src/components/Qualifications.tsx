@@ -34,7 +34,7 @@ export default function Qualifications() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Végzettségek & Tanfolymok
+              Végzettségek & Tanfolyamok
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Folyamatos szakmai továbbképzéseknek vagyok részese, hogy a legújabb módszereket tudjam alkalmazni
