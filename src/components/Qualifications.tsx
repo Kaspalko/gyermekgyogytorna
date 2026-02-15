@@ -9,6 +9,10 @@ const qualifications = [
     title: 'Kinezio Tape',
     description: 'Kinesio tape technika alkalmazása a mozgásoktatásban',
   },
+   {
+    title: 'Babamasszázs',
+    description: 'Az érintés a baba anyanyelve és a masszázs az  egyik legtermészetesebb és legkellemesebb módszere ennek a korai gondoskodó kapcsolatnak a biztosítására.',
+  },
   {
     title: 'Neuro-Hidroterápia 1. (NHT 1.)',
     description: 'Vízben végzett speciális neuroterápiás módszer',
