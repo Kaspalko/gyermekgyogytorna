@@ -6,7 +6,7 @@ const qualifications = [
     description: 'Idegrendszer fejlesztésére fókuszáló terápia',
   },
   {
-    title: 'Kinezio Tape',
+    title: 'Kinesio Tape',
     description: 'Kinesio tape technika alkalmazása a mozgásoktatásban',
   },
    {
