@@ -17,7 +17,7 @@ export default function Header() {
               Kasparek Pál
             </div>
             <div className="hidden md:block text-sm text-gray-600">
-              Gyermek Gyógytornász
+              Gyermek gyógytornász
             </div>
           </div>
 
