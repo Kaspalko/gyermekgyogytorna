@@ -65,7 +65,7 @@ export default function About() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-amber-600 to-orange-500 rounded-3xl transform rotate-3"></div>
                 <img
-                  src="/kasparek-pal.png"
+                  src="/profilkep.jpg"
                   alt="Kasparek Pál"
                   className="relative rounded-3xl shadow-2xl w-full object-cover aspect-square"
                 />
