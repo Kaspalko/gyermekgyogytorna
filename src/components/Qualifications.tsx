@@ -34,7 +34,7 @@ export default function Qualifications() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Végzettségek & Tanfolyamok
+              Végzettségek & tanfolyamok
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Folyamatos szakmai továbbképzéseknek vagyok részese, hogy a legújabb módszereket tudjam alkalmazni
@@ -67,7 +67,7 @@ export default function Qualifications() {
           <div className="mt-12 bg-gradient-to-r from-amber-100 to-yellow-100 rounded-2xl p-8 text-center border border-amber-200">
             <div className="flex items-center justify-center gap-3 mb-4">
               <Award className="text-amber-700" size={28} />
-              <h3 className="text-xl font-bold text-gray-800">Szakmai Elkötelezettség</h3>
+              <h3 className="text-xl font-bold text-gray-800">Szakmai elkötelezettség</h3>
             </div>
             <p className="text-gray-700 text-lg">
               Jelenleg az alábbiakban felsorolt tanfolyamokat és képzéseket végeztem el. Ezek biztosítják,
