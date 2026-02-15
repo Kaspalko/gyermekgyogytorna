@@ -10,7 +10,7 @@ const qualifications = [
     description: 'Kinesio tape technika alkalmazása a mozgásoktatásban',
   },
   {
-    title: 'Neuro-Hidroterápia 1 (NHT 1)',
+    title: 'Neuro-Hidroterápia 1. (NHT 1.)',
     description: 'Vízben végzett speciális neuroterápiás módszer',
   },
   {
@@ -30,7 +30,7 @@ export default function Qualifications() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Képzettség & Tanfolymok
+              Végzettségek & Tanfolymok
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Folyamatos szakmai továbbképzéseknek vagyok részese, hogy a legújabb módszereket tudjam alkalmazni
@@ -66,7 +66,7 @@ export default function Qualifications() {
               <h3 className="text-xl font-bold text-gray-800">Szakmai Elkötelezettség</h3>
             </div>
             <p className="text-gray-700 text-lg">
-              Az alábbiakban felsorolt tanfolyamokat és képzéseket absolvált. Ezek biztosítják,
+              Jelenleg az alábbiakban felsorolt tanfolyamokat és képzéseket végeztem el. Ezek biztosítják,
               hogy a gyermekek a legkorszerűbb és leghatékonyabb terápiás módszereket kapják meg.
             </p>
           </div>
