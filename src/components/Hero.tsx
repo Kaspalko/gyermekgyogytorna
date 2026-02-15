@@ -21,7 +21,7 @@ export default function Hero() {
             </div>
 
             <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6">
-              Gyermek Mozgásfejlesztés
+              Gyermek mozgásfejlesztés
               <br />
               <span className="text-amber-700">Figyelemmel és elhivatottsággal</span>
             </h1>
@@ -52,7 +52,7 @@ export default function Hero() {
                 <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Heart className="text-amber-700" size={28} />
                 </div>
-                <h3 className="font-semibold text-gray-800 mb-2">Szakértő Ellátás</h3>
+                <h3 className="font-semibold text-gray-800 mb-2">Családközpontú ellátás</h3>
                 <p className="text-gray-600 text-sm">
                   Kórházi gyakorlattal rendelkező gyermekgyógytornász
                 </p>
@@ -62,7 +62,7 @@ export default function Hero() {
                 <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Home className="text-amber-700" size={28} />
                 </div>
-                <h3 className="font-semibold text-gray-800 mb-2">Házhoz Megyek</h3>
+                <h3 className="font-semibold text-gray-800 mb-2">Házhoz megyek</h3>
                 <p className="text-gray-600 text-sm">
                   Kényelmes otthoni környezetben, a gyermek számára ismerős térben
                 </p>
@@ -72,7 +72,7 @@ export default function Hero() {
                 <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Baby className="text-amber-700" size={28} />
                 </div>
-                <h3 className="font-semibold text-gray-800 mb-2">0-6 Éves Korig</h3>
+                <h3 className="font-semibold text-gray-800 mb-2">0-6 éves korig</h3>
                 <p className="text-gray-600 text-sm">
                   Korai fejlesztés a legfontosabb életszakaszban
                 </p>
