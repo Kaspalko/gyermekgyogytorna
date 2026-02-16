@@ -41,7 +41,7 @@ export default function About() {
                     <div>
                       <h3 className="font-semibold text-gray-800 mb-1">Házhoz járó szolgáltatás</h3>
                       <p className="text-gray-600">
-                        Kényelmes és biztonságos fejlesztés az otthon melegében
+                        Kényelmes és biztonságos fejlesztés a gyermek otthonában
                       </p>
                     </div>
                   </div>
