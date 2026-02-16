@@ -23,7 +23,7 @@ export default function Hero() {
             <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6">
               Gyermek mozgásfejlesztés
               <br />
-              <span className="text-amber-700">Figyelemmel és elhivatottsággal</span>
+              <span className="text-amber-700">Türelemmel és figyelemmel</span>
             </h1>
 
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
