@@ -29,7 +29,7 @@ const qualifications = [
 
 export default function Qualifications() {
   return (
-    <section id="tanfolyamok" className="scroll-mt-24 py-20 bg-white">
+    <section id="tanfolyamok" className="scroll-mt-32 py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
