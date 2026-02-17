@@ -1,5 +1,6 @@
 import { Heart } from 'lucide-react';
 import { Facebook } from 'lucide-react';
+
 export default function Footer() {
   return (
     <footer className="bg-gray-800 text-white py-12">
@@ -10,9 +11,7 @@ export default function Footer() {
               <h3 className="text-xl font-bold mb-4 text-amber-600">
                 Kasparek Pál
               </h3>
-              <p className="text-gray-300">
-                Gyermek gyógytornász
-              </p>
+              <p className="text-gray-300">Gyermek gyógytornász</p>
               <p className="text-gray-400 text-sm mt-2">
                 0-6 éves korig
               </p>
@@ -23,7 +22,9 @@ export default function Footer() {
               <div className="space-y-2 text-gray-300 text-sm">
                 <p>+36 70 554 0283</p>
                 <p>pal.kasparek@gmail.com</p>
-                <p className="text-gray-400">Budapest (X., XIII., XIV., XV. ker.)</p>
+                <p className="text-gray-400">
+                  Budapest (X., XIII., XIV., XV. ker.)
+                </p>
               </div>
             </div>
 
@@ -36,29 +37,38 @@ export default function Footer() {
               </div>
             </div>
           </div>
+
           <div className="border-t border-gray-700 pt-8">
-            <<div className="flex flex-col md:flex-row justify-between items-center gap-4">
-  <p className="text-gray-400 text-sm">
-    © {new Date().getFullYear()} Kasparek Pál. Minden jog fenntartva.
-  </p>
+            <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+              <p className="text-gray-400 text-sm">
+                © {new Date().getFullYear()} Kasparek Pál. Minden jog fenntartva.
+              </p>
 
-  <div className="flex items-center gap-6">
-    <div className="flex items-center gap-2 text-gray-400 text-sm">
-      <span>Készítve</span>
-      <Heart size={14} className="text-amber-600 fill-amber-600" />
-      <span>-tal gyermekek fejlődéséért</span>
-    </div>
+              <div className="flex items-center gap-6">
+                <div className="flex items-center gap-2 text-gray-400 text-sm">
+                  <span>Készítve</span>
+                  <Heart
+                    size={14}
+                    className="text-amber-600 fill-amber-600"
+                  />
+                  <span>-tal gyermekek fejlődéséért</span>
+                </div>
 
-    <a
-      href="https://www.facebook.com/profile.php?id=61586722710121"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="text-gray-400 hover:text-amber-600 transition-colors"
-    >
-      <Facebook size={20} />
-    </a>
-  </div>
-</div>
+                <a
+                  href="https://www.facebook.com/profile.php?id=61586722710121"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-amber-600 transition-colors"
+                >
+                  <Facebook size={20} />
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
     </footer>
   );
 }
+
