@@ -35,7 +35,7 @@ export default function Header() {
               Rólam
             </button>
             <button
-              onClick={() => scrollToSection('tanfolymok')}
+              onClick={() => scrollToSection('tanfolyamok')}
               className="text-gray-700 hover:text-amber-700 transition-colors"
             >
               Képzettség
