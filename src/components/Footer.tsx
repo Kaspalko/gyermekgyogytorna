@@ -7,6 +7,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+
             <div>
               <h3 className="text-xl font-bold mb-4 text-amber-600">
                 Kasparek Pál
@@ -20,8 +21,21 @@ export default function Footer() {
             <div>
               <h4 className="font-semibold mb-4">Elérhetőség</h4>
               <div className="space-y-2 text-gray-300 text-sm">
-                <p>+36 70 554 0283</p>
-                <p>pal.kasparek@gmail.com</p>
+
+                <a
+                  href="tel:+36705540283"
+                  className="block hover:text-amber-400 transition-colors"
+                >
+                  +36 70 554 0283
+                </a>
+
+                <a
+                  href="mailto:pal.kasparek@gmail.com?subject=Időpont kérés"
+                  className="block hover:text-amber-400 transition-colors"
+                >
+                  pal.kasparek@gmail.com
+                </a>
+
                 <p className="text-gray-400">
                   Budapest (X., XIII., XIV., XV. ker.)
                 </p>
@@ -36,6 +50,7 @@ export default function Footer() {
                 <p>Egyéni fejlesztési tervek</p>
               </div>
             </div>
+
           </div>
 
           <div className="border-t border-gray-700 pt-8">
