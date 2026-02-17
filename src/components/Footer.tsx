@@ -58,9 +58,10 @@ export default function Footer() {
                   href="https://www.facebook.com/profile.php?id=61586722710121"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-amber-600 transition-colors"
+                  className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-3 py-1 rounded-lg transition-colors"
                 >
-                  <Facebook size={20} />
+                  <Facebook size={18} />
+                  Facebook
                 </a>
               </div>
             </div>
