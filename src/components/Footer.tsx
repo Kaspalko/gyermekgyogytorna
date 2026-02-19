@@ -78,6 +78,14 @@ export default function Footer() {
                   <Facebook size={18} />
                   Facebook
                 </a>
+                <a
+  href="IDE_ILLESZD_BE_A_GOOGLE_FORM_LINKED"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white px-3 py-1 rounded-lg transition-colors"
+>
+  Szülői visszajelzés
+</a>
               </div>
             </div>
           </div>
