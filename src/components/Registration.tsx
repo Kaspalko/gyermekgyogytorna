@@ -1,6 +1,6 @@
 export default function Registration() {
   return (
-    <section id="jelentkezes" className="py-20 bg-gray-50">
+    <section id="jelentkezes" className="py-20">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           
@@ -8,7 +8,7 @@ export default function Registration() {
             Jelentkezés gyermek gyógytornára
           </h2>
 
-          <div className="bg-white rounded-2xl shadow-lg p-4">
+          <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-4">
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLScb1msYR5ATpmfXJ-A16C_bQspjxoqHaMYHYIkVnNGtHfBM4g/viewform?embedded=true"
               width="100%"
