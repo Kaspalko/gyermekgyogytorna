@@ -4,6 +4,7 @@ import Services from './components/Services';
 import About from './components/About';
 import Qualifications from './components/Qualifications';
 import Pricing from './components/Pricing';
+import Registration from "./components/Registration";
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -18,6 +19,7 @@ function App() {
         <Qualifications />
         <Pricing />
         <Contact />
+        <Registration />
       </main>
       <Footer />
     </div>
