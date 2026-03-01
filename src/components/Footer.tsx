@@ -79,7 +79,7 @@ export default function Footer() {
                   Facebook
                 </a>
                 <a
-  href="https://forms.gle/qe7XLtFF3LeCSq6Y9"
+  href="https://forms.gle/FqtcFStrSwFEgpok6"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white px-3 py-1 rounded-lg transition-colors"
