@@ -23,7 +23,7 @@ export default function Hero() {
             <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6">
               Korai fejlesztés és gyermek gyógytorna
               <br />
-              <span className="text-amber-700">Apró jelek - Fontos lépések.</span>
+              <span className="text-amber-700">Apró jelek - Fontos lépések</span>
             </h1>
 
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
