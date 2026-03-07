@@ -78,28 +78,13 @@ export default function Contact() {
                 <p>
                   Az időpont egyeztetéséhez kérem, készítse elő az alábbi információkat:
                 </p>
-                <ul className="space-y-3 ml-4">
-                  <li className="flex items-start gap-2">
-                    <span className="text-rose-400 mt-1">•</span>
-                    <span>Gyermek neve és életkora</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-rose-400 mt-1">•</span>
-                    <span>Rövid leírás a problémáról</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-rose-400 mt-1">•</span>
-                    <span>Van-e szakorvosi diagnózis</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-rose-400 mt-1">•</span>
-                    <span>Pontos cím (kerület és utca)</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-rose-400 mt-1">•</span>
-                    <span>Előnyben részesített időpontok</span>
-                  </li>
-                </ul>
+                <ul className="list-disc pl-5 space-y-2 marker:text-rose-400 text-gray-700">
+  <li>Gyermek neve és életkora</li>
+  <li>Rövid leírás a problémáról</li>
+  <li>Van-e szakorvosi diagnózis</li>
+  <li>Pontos cím (kerület és utca)</li>
+  <li>Előnyben részesített időpontok</li>
+</ul>
                 <p className="pt-4 text-sm bg-amber-50 rounded-xl p-4 border border-amber-200">
                   <strong>Fontos:</strong> Az első alkalom előtt telefonon vagy emailben
                   egyeztetjük a részleteket, hogy a legjobb ellátást tudjam biztosítani
