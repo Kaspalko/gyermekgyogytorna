@@ -33,10 +33,10 @@ function App() {
 
         <main>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/tudastar" element={<Tudastar />} />
-            <Route path="/tudastar/korai-felismeres" element={<KoraiFelismeres />} />
-          </Routes>
+  <Route path="/" element={<Home />} />
+  <Route path="/tudastar" element={<Tudastar />} />
+  <Route path="/tudastar/:slug" element={<KoraiFelismeres />} />
+</Routes>
         </main>
 
         <Footer />
