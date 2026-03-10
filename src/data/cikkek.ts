@@ -8,6 +8,7 @@ export const cikkek = [
     
     date: "2026. január",
     readingtime: "6 perc",
+  }
 
     content: `
 A korai felismerés szerepe a gyermek fejlődésében
