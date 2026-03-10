@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { cikkek } from "../data/cikkek";
 
 export default function Tudastar() {
   return (
