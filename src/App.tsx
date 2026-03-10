@@ -35,10 +35,14 @@ function App() {
         <Header />
 
         <main>
-          <Routes>
+         <Routes>
+
   <Route path="/" element={<Home />} />
+
   <Route path="/tudastar" element={<Tudastar />} />
-  <Route path="/tudastar/:slug" element={<KoraiFelismeres />} />
+
+  <Route path="/tudastar/:slug" element={<Cikk />} />
+
 </Routes>
         </main>
 
