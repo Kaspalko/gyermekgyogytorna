@@ -2,6 +2,13 @@ export default function KoraiFelismeres() {
   return (
     <section className="py-20 bg-white">
       <div className="max-w-3xl mx-auto px-4">
+        <div className="text-sm text-gray-500 mb-6">
+  <a href="/" className="hover:text-amber-700">Főoldal</a>
+  <span className="mx-2">/</span>
+  <a href="/tudastar" className="hover:text-amber-700">Tudástár</a>
+  <span className="mx-2">/</span>
+  <span className="text-gray-700">Korai felismerés</span>
+</div>
 
         <img
           src="/images/pexels-fotios-photos-5435599.jpg"
