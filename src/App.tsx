@@ -41,7 +41,7 @@ function App() {
 
   <Route path="/tudastar" element={<Tudastar />} />
 
-  <Route path="/tudastar/:slug" element={<cikk />} />
+  <Route path="/tudastar/:slug" element={<Cikk />} />
 
 </Routes>
         </main>
