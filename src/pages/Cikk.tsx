@@ -2,7 +2,6 @@ import { useParams } from "react-router-dom";
 import { cikkek } from "../data/cikkek";
 
 export default function Cikk() {
-
   const { slug } = useParams();
   const cikk = cikkek.find((c) => c.slug === slug);
 
@@ -24,6 +23,7 @@ export default function Cikk() {
 
         <img
           src={cikk.image}
+          alt={cikk.title}
           className="w-full h-72 object-cover rounded-xl mb-8"
         />
 
@@ -35,16 +35,12 @@ export default function Cikk() {
           {cikk.description}
         </p>
 
-        <div className="prose max-w-none text-gray-700">
-          {cikk.content.split("\n").map((p, i) => (
-            <p key={i}>{p}</p>
+        <div className="text-gray-700 space-y-6">
+          {cikk.content.split("\n").map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
           ))}
         </div>
 
-      </div>
-    </section>
-  );
-}
       </div>
     </section>
   );
