@@ -6,7 +6,7 @@ const articles = [
     description:
       "Miért fontos a gyermek fejlődésének korai nyomon követése és a szűrővizsgálatok szerepe.",
     link: "/tudastar/korai-felismeres",
-    image: "/images/korai-fejlodes.jpg",
+    image: "/images/pexels-fotios-photos-5435599.jpg",
   },
   {
     title: "Miért fontos a hason fekvés?",
