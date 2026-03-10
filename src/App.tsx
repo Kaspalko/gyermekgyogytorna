@@ -11,6 +11,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Tudastar from "./pages/Tudastar";
 import BlogPreview from "./components/BlogPreview";
+import Cikk from "./pages/Cikk";
 
 function Home() {
   return (
