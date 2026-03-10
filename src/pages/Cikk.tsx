@@ -2,17 +2,16 @@ import { useParams } from "react-router-dom";
 import { cikkek } from "../data/cikkek";
 
 export default function Cikk() {
+
   const { slug } = useParams();
   const cikk = cikkek.find((c) => c.slug === slug);
 
-if (!cikk) {
-  return <div className="p-20">Cikk nem található</div>;
-}
-
-const words = cikk.content.split(" ").length;
-const readingTime = Math.ceil(words / 200);
-
+  if (!cikk) {
+    return <div className="p-20">Cikk nem található</div>;
   }
+
+  const words = cikk.content.split(" ").length;
+  const readingTime = Math.ceil(words / 200);
 
   return (
     <section className="py-20 bg-white">
@@ -35,9 +34,11 @@ const readingTime = Math.ceil(words / 200);
         <h1 className="text-4xl font-bold text-gray-800 mb-6">
           {cikk.title}
         </h1>
-<p className="text-sm text-gray-500 mb-4">
-  {cikk.date} • {readingTime} perc olvasás
-</p>
+
+        <p className="text-sm text-gray-500 mb-4">
+          {cikk.date} • {readingTime} perc olvasás
+        </p>
+
         <p className="text-lg text-gray-600 mb-10">
           {cikk.description}
         </p>
