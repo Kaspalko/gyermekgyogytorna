@@ -1,22 +1,28 @@
-import { Phone, Mail } from 'lucide-react';
+import { Phone } from 'lucide-react';
 
 export default function Header() {
+
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
+
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
+    } else {
+      window.location.href = `/#${id}`;
     }
   };
 
   return (
     <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
       <div className="container mx-auto px-4 py-4">
+
         <div className="flex items-center justify-between">
 
           <div className="flex items-center gap-3">
-            <div className="text-2xl font-bold text-amber-700">
+            <a href="/" className="text-2xl font-bold text-amber-700">
               Kasparek Pál
-            </div>
+            </a>
+
             <div className="hidden md:block text-sm text-gray-600">
               Gyermek gyógytornász
             </div>
@@ -52,7 +58,6 @@ export default function Header() {
               Árak
             </button>
 
-            {/* ÚJ MENÜPONT */}
             <a
               href="/tudastar"
               className="text-gray-700 hover:text-amber-700 transition-colors"
@@ -76,6 +81,7 @@ export default function Header() {
           </div>
 
         </div>
+
       </div>
     </header>
   );
