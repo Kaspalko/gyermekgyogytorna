@@ -1,8 +1,4 @@
-import { useParams } from "react-router-dom";
-
 export default function KoraiFelismeres() {
-
-  const { slug } = useParams();
   return (
     <section className="py-20 bg-white">
       <div className="max-w-3xl mx-auto px-4">
@@ -17,22 +13,25 @@ export default function KoraiFelismeres() {
           2026 • 6 perc olvasás
         </p>
 
-        <h1 className="text-4xl font-bold text-gray-800 mb-8">
+        <h1 className="text-4xl font-bold text-gray-800 mb-6">
           A korai felismerés szerepe a gyermek fejlődésében
         </h1>
+
         <p className="text-lg text-gray-600 mb-10">
-Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítenek a szűrővizsgálatok a gyermek fejlődésének támogatásában.
-</p>
-        <p className="text-gray-700 mb-6">
-          A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny folyamat.
-          Ebben az időszakban alakulnak ki a mozgás, a kommunikáció, az érzékelés,
-          a gondolkodás és a szociális kapcsolatok alapjai.
+          Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítenek
+          a szűrővizsgálatok a gyermek fejlődésének támogatásában.
         </p>
 
         <p className="text-gray-700 mb-6">
-          Éppen ezért különösen fontos, hogy a gyermek fejlődését már a legkorábbi
-          életkorban figyelemmel kísérjük, és szükség esetén időben biztosítsunk
-          számára megfelelő támogatást.
+          A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny
+          folyamat. Ebben az időszakban alakulnak ki a mozgás, a kommunikáció,
+          az érzékelés, a gondolkodás és a szociális kapcsolatok alapjai.
+        </p>
+
+        <p className="text-gray-700 mb-6">
+          Éppen ezért különösen fontos, hogy a gyermek fejlődését már a
+          legkorábbi életkorban figyelemmel kísérjük, és szükség esetén
+          időben biztosítsunk számára megfelelő támogatást.
         </p>
 
         <p className="text-gray-700 mb-10">
@@ -50,8 +49,8 @@ Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítene
         </p>
 
         <p className="text-gray-700 mb-6">
-          A szűrés nem diagnózis, hanem egy első lépés. Segít felismerni azokat a
-          jeleket, amelyek esetleg további vizsgálatot indokolhatnak.
+          A szűrés nem diagnózis, hanem egy első lépés. Segít felismerni azokat
+          a jeleket, amelyek esetleg további vizsgálatot indokolhatnak.
         </p>
 
         <p className="text-gray-700 mb-4">
@@ -109,18 +108,18 @@ Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítene
         </h2>
 
         <p className="text-gray-700 mb-6">
-          A gyermekek fejlődése természetesen nem teljesen egyforma. Minden
-          gyermeknek megvan a saját fejlődési tempója.
+          A gyermekek fejlődése természetesen nem teljesen egyforma.
+          Minden gyermeknek megvan a saját fejlődési tempója.
         </p>
 
         <p className="text-gray-700 mb-6">
-          Előfordulhat azonban, hogy a fejlődés mennyiségében vagy minőségében
-          eltérés figyelhető meg.
+          Előfordulhat azonban, hogy a fejlődés mennyiségében vagy
+          minőségében eltérés figyelhető meg.
         </p>
 
         <p className="text-gray-700 mb-10">
-          Az ilyen jelek nem feltétlenül jelentenek komoly problémát, de érdemes
-          szakemberrel megbeszélni őket.
+          Az ilyen jelek nem feltétlenül jelentenek komoly problémát,
+          de érdemes szakemberrel megbeszélni őket.
         </p>
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
@@ -128,34 +127,48 @@ Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítene
         </h2>
 
         <p className="text-gray-700 mb-10">
-          A szülők ismerik legjobban gyermeküket, ezért kulcsszerepük van a
-          fejlődés nyomon követésében.
+          A szülők ismerik legjobban gyermeküket, ezért kulcsszerepük van
+          a fejlődés nyomon követésében.
         </p>
 
-        <div className="bg-amber-50 border border-amber-200 rounded-xl p-6">
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-16">
           <p className="text-gray-700">
-            Ha bizonytalan a gyermek mozgásfejlődésével kapcsolatban, egy
-            személyes állapotfelmérés segíthet tisztábban látni a fejlődés
-            menetét és eldönteni, hogy szükség van-e további támogatásra.
+            Ha bizonytalan a gyermek mozgásfejlődésével kapcsolatban,
+            egy személyes állapotfelmérés segíthet tisztábban látni a
+            fejlődés menetét és eldönteni, hogy szükség van-e további
+            támogatásra.
           </p>
         </div>
-        <h3 className="text-2xl font-semibold text-gray-800 mt-16 mb-6">
+
+        <h3 className="text-2xl font-semibold text-gray-800 mb-6">
           Kapcsolódó cikkek
-</h3>
+        </h3>
 
-<div className="grid md:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-3 gap-6">
 
-<a href="/tudastar/hason-fekves" className="border rounded-xl p-4 hover:shadow">
-Miért fontos a hason fekvés?
-</a>
+          <a
+            href="/tudastar/hason-fekves"
+            className="border rounded-xl p-4 hover:shadow"
+          >
+            Miért fontos a hason fekvés?
+          </a>
 
-<a href="/tudastar/2-honapos-baba" className="border rounded-xl p-4 hover:shadow">
-Mit tud egy 2 hónapos baba?
-</a>
+          <a
+            href="/tudastar/2-honapos-baba"
+            className="border rounded-xl p-4 hover:shadow"
+          >
+            Mit tud egy 2 hónapos baba?
+          </a>
 
-<a href="/tudastar/korrigalt-eletkor" className="border rounded-xl p-4 hover:shadow">
-Korrigált életkor koraszülötteknél
-</a>
+          <a
+            href="/tudastar/korrigalt-eletkor"
+            className="border rounded-xl p-4 hover:shadow"
+          >
+            Korrigált életkor koraszülötteknél
+          </a>
+
+        </div>
+
       </div>
     </section>
   );
