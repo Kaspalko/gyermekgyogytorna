@@ -4,7 +4,7 @@ export default function KoraiFelismeres() {
       <div className="max-w-3xl mx-auto px-4">
 
         <img
-          src="/images/korai-felismeres.jpg"
+          src="/images/pexels-fotios-photos-5435599.jpg"
           alt="Baba fejlődésének megfigyelése"
           className="w-full h-72 object-cover rounded-2xl mb-8"
         />
