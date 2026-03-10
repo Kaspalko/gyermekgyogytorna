@@ -13,8 +13,6 @@ A korai felismerés szerepe a gyermek fejlődésében
 
 A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny folyamat. Ebben az időszakban a mozgás, a kommunikáció, az érzékelés, a gondolkodás és a szociális kapcsolatok alapjai formálódnak. Éppen ezért nagyon fontos, hogy a fejlődést már a legkorábbi életkorban figyelemmel kísérjük, és ha szükséges, időben segítséget biztosítsunk.
 
-Miért fontos a korai szűrés?
-
 A szűrővizsgálatok célja, hogy minél korábban észrevegyük, ha egy gyermek fejlődése eltér a megszokott ütemtől. A korai felismerés lehetőséget ad arra, hogy a gyermek időben megkapja a számára szükséges támogatást.
 
 A szűrés nem diagnózis, hanem egy első lépés: segít észrevenni azokat a jeleket, amelyek további vizsgálatot indokolhatnak. Ezek a vizsgálatok általában a gyermek mozgására, érzékelésére, kommunikációjára, viselkedésére és általános fejlődésére irányulnak.
