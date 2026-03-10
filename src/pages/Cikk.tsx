@@ -32,7 +32,9 @@ const readingTime = Math.ceil(words / 200);
         <h1 className="text-4xl font-bold text-gray-800 mb-6">
           {cikk.title}
         </h1>
-
+<p className="text-sm text-gray-500 mb-4">
+  {cikk.date} • {readingTime} perc olvasás
+</p>
         <p className="text-lg text-gray-600 mb-10">
           {cikk.description}
         </p>
