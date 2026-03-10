@@ -35,10 +35,10 @@ export default function Tudastar() {
               className="bg-white border rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition"
             >
               <img
-                src={article.image}
-                alt={article.title}
-                className="w-full h-48 object-cover"
-              />
+  src={article.image}
+  alt={article.title}
+  className="w-full h-48 object-cover"
+/>
 
               <div className="p-6">
                 <h2 className="text-xl font-semibold text-gray-800 mb-2">
