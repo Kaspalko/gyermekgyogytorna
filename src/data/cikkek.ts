@@ -11,7 +11,7 @@ A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny fo
 
 Éppen ezért különösen fontos, hogy a gyermek fejlődését már a legkorábbi életkorban figyelemmel kísérjük.
 
-## Miért fontos a korai szűrés?
+Miért fontos a korai szűrés?
 
 A fejlődési szűrővizsgálatok célja, hogy minél korábban észrevegyük, ha egy gyermek fejlődése eltér a megszokott ütemtől.
 
