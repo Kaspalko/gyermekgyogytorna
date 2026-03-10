@@ -4,13 +4,14 @@ import { cikkek } from "../data/cikkek";
 export default function Cikk() {
   const { slug } = useParams();
   const cikk = cikkek.find((c) => c.slug === slug);
-  const words = cikk.content.split(" ").length;
-const readingTime = Math.ceil(words / 200);
-  const words = cikk.content.split(" ").length;
+
+if (!cikk) {
+  return <div className="p-20">Cikk nem található</div>;
+}
+
+const words = cikk.content.split(" ").length;
 const readingTime = Math.ceil(words / 200);
 
-  if (!cikk) {
-    return <div className="p-20">Cikk nem található</div>;
   }
 
   return (
