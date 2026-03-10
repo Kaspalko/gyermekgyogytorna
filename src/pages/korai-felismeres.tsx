@@ -1,4 +1,8 @@
+import { useParams } from "react-router-dom";
+
 export default function KoraiFelismeres() {
+
+  const { slug } = useParams();
   return (
     <section className="py-20 bg-white">
       <div className="max-w-3xl mx-auto px-4">
