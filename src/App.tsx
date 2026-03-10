@@ -18,6 +18,7 @@ function Home() {
       <Hero />
       <Services />
       <About />
+      <BlogPreview />
       <Qualifications />
       <Pricing />
       <Contact />
