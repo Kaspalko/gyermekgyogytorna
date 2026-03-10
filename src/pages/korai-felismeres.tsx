@@ -20,6 +20,9 @@ export default function KoraiFelismeres() {
         <h1 className="text-4xl font-bold text-gray-800 mb-8">
           A korai felismerés szerepe a gyermek fejlődésében
         </h1>
+        <p className="text-lg text-gray-600 mb-10">
+Miért fontos a fejlődési eltérések korai felismerése, és hogyan segítenek a szűrővizsgálatok a gyermek fejlődésének támogatásában.
+</p>
         <p className="text-gray-700 mb-6">
           A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny folyamat.
           Ebben az időszakban alakulnak ki a mozgás, a kommunikáció, az érzékelés,
