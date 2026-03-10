@@ -7,6 +7,7 @@ import Pricing from './components/Pricing';
 import Registration from "./components/Registration";
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Tudastar from "./pages/Tudastar";
 
 function App() {
   return (
