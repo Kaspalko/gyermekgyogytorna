@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { cikkek } from "../data/cikkek";
 
 export default function Tudastar() {
   return (
@@ -11,26 +12,34 @@ export default function Tudastar() {
 
         <div className="grid md:grid-cols-2 gap-8">
 
-          <Link
-            to="/tudastar/korai-felismeres"
-            className="border rounded-xl p-6 hover:shadow-lg transition"
-          >
-            <h2 className="text-xl font-semibold mb-2">
-              A korai felismerés szerepe a gyermek fejlődésében
-            </h2>
+          {cikkek.map((cikk) => (
+            <Link
+              key={cikk.slug}
+              to={`/tudastar/${cikk.slug}`}
+              className="border rounded-xl p-6 hover:shadow-lg transition"
+            >
 
-            <p className="text-gray-600 mb-4">
-              Miért fontos a fejlődési eltérések korai felismerése és a szűrővizsgálatok szerepe.
-            </p>
+              <img
+                src={cikk.image}
+                className="w-full h-40 object-cover rounded-lg mb-4"
+              />
 
-            <span className="text-orange-600">
-              Tovább olvasom →
-            </span>
+              <h2 className="text-xl font-semibold mb-2">
+                {cikk.title}
+              </h2>
 
-          </Link>
+              <p className="text-gray-600 mb-4">
+                {cikk.description}
+              </p>
+
+              <span className="text-amber-700">
+                Tovább olvasom →
+              </span>
+
+            </Link>
+          ))}
 
         </div>
-
       </div>
     </section>
   );
