@@ -70,5 +70,109 @@ A szülők ismerik legjobban gyermeküket, ezért kulcsszerepük van a fejlődé
 
 A korai felismerés és a megfelelő támogatás sokat segíthet abban, hogy minden gyermek a saját lehetőségeihez képest a lehető legjobban fejlődhessen.
 `
+  },
+  {
+    slug: "hason-fekves",
+    title: "Miért fontos a hason fekvés a babáknál?",
+    description:
+      "A hason fekvés fontos szerepet játszik a csecsemők mozgásfejlődésében és izomerősítésében.",
+    image: "/images/hasalas.jpg",
+
+    date: "2026. január",
+    readingTime: "6 perc",
+
+    content: `
+Miért fontos a hason fekvés a babák fejlődésében?
+
+A hason fekvés – gyakran „tummy time”-ként is említik – fontos szerepet játszik a csecsemők mozgásfejlődésében. Számos kutatás és nemzetközi ajánlás szerint a rendszeres hason fekvés hozzájárul a baba izomerejének, testkontrolljának és mozgásos tapasztalatainak fejlődéséhez.
+
+A hason fekvést mindig éber állapotban és felügyelet mellett érdemes gyakorolni.
+
+Segíti a nagymozgás fejlődését
+
+Hason fekve a baba aktívan használja a nyak-, váll- és törzsizmait.
+
+Ez a testhelyzet segíti több fontos mozgás előkészítését, például:
+
+⋅ a fej megtartását,
+
+⋅ az átfordulást,
+
+⋅ a kúszást,
+
+⋅ majd a mászást.
+
+Kutatások szerint azok a csecsemők, akik több időt töltenek hason fekvésben, gyakran hamarabb érik el a nagymozgásos mérföldköveket.
+
+Erősíti a nyak és a törzs izmait.
+
+Hason fekvésben a baba fokozatosan megtanulja:
+
+⋅ felemelni a fejét,
+
+⋅ alkarra támaszkodni,
+
+⋅ később tenyértámaszt felvenni.
+
+
+Ez erősíti a nyaki és vállövi izmokat, valamint a törzs stabilitását. Ezek az izmok kulcsfontosságúak a későbbi mozgások – például az ülés vagy a mászás – kialakulásához.
+
+Segíti az érzékelés és a mozgás együttműködését.
+
+
+Hason fekvésben a baba más nézőpontból fedezi fel a környezetét.
+
+Ebben a helyzetben könnyebben:
+
+⋅ nyúl a játékokért,
+
+⋅ megtámaszkodik a karján,
+
+⋅ és figyeli a körülötte lévő tárgyakat.
+
+
+Ez hozzájárul a szem-kéz koordináció, a testséma és az motoros érzékelés együttműködésének fejlődéséhez.
+
+Csökkentheti a lapos fej kialakulásának esélyét.
+
+
+Az alvás során a csecsemők biztonsági okokból háton fekve alszanak, ami fontos a hirtelen csecsemőhalál szindróma megelőzésében.
+
+Ugyanakkor a sok háton fekvés miatt egyes babáknál kialakulhat a koponya hátsó részének ellapulása (pozicionális plagiocephalia).
+
+Az éber állapotban végzett hason fekvés segíthet tehermentesíteni a koponya hátsó részét.
+
+
+Mennyi hason fekvés ajánlott?
+
+A WHO ajánlása szerint azoknál a csecsemőknél, akik még nem mozognak önállóan, érdemes legalább napi 30 perc hason fekvést biztosítani, több rövid időszakra elosztva.
+
+
+Fontos hangsúlyozni:
+
+Alváshoz mindig háton fekvés ajánlott.
+
+Éber állapotban viszont érdemes rendszeresen hason fekvést gyakorolni.
+
+
+Mikor érdemes szakemberrel konzultálni?
+
+Ha a baba:
+
+⋅ nagyon nehezen viseli a hason fekvést,
+
+⋅ tartósan féloldalasan használja a testét,
+
+⋅ vagy a mozgásfejlődésben bizonytalanság merül fel.
+
+
+
+Szakirodalom
+
+Hewitt, L., Kerr, E., & Stanley, R. M. (2020). Tummy time and infant health outcomes: A systematic review. Pediatrics, 145(6).
+Pin, T., Eldridge, B., & Galea, M. P. (2007). A review of the effects of sleep position, play position, and equipment use on motor development in infants. Developmental Medicine & Child Neurology, 49(11), 858–867. https://doi.org/10.1111/j.1469-8749.2007.00858.x
+World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization.
+Pin, T., Eldridge, B., & Galea, M. P. (2007). A review of the effects of sleep position, play position, and equipment use on motor development in infants. Developmental Medicine & Child Neurology, 49(11), 858–867. https://doi.org/10.1111/j.1469-8749.2007.00858.x
+`
   }
 ];
