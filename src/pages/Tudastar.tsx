@@ -26,9 +26,9 @@ export default function Tudastar() {
 
               <div className="p-6">
 
-                <p className="text-sm text-gray-500 mb-2">
-                  {cikk.date} • {cikk.readingTime}
-                </p>
+               <p className="text-sm text-gray-500 mb-2">
+  {cikk.date} • {cikk.readingTime}
+</p>
 
                 <h2 className="text-xl font-semibold mb-3">
                   {cikk.title}
