@@ -3,10 +3,19 @@ export default function KoraiFelismeres() {
     <section className="py-20 bg-white">
       <div className="max-w-3xl mx-auto px-4">
 
+        <img
+          src="/images/korai-felismeres.jpg"
+          alt="Baba fejlődésének megfigyelése"
+          className="w-full h-72 object-cover rounded-2xl mb-8"
+        />
+
+        <p className="text-sm text-gray-500 mb-2">
+          2026 • 6 perc olvasás
+        </p>
+
         <h1 className="text-4xl font-bold text-gray-800 mb-8">
           A korai felismerés szerepe a gyermek fejlődésében
         </h1>
-
         <p className="text-gray-700 mb-6">
           A gyermek fejlődése az első életévekben rendkívül gyors és érzékeny folyamat.
           Ebben az időszakban alakulnak ki a mozgás, a kommunikáció, az érzékelés,
