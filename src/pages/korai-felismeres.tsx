@@ -136,6 +136,25 @@ export default function KoraiFelismeres() {
             menetét és eldönteni, hogy szükség van-e további támogatásra.
           </p>
         </div>
+        <h3 className="text-2xl font-semibold text-gray-800 mt-16 mb-6">
+Kapcsolódó cikkek
+</h3>
+
+<div className="grid md:grid-cols-3 gap-6">
+
+<a href="/tudastar/hason-fekves" className="border rounded-xl p-4 hover:shadow">
+Miért fontos a hason fekvés?
+</a>
+
+<a href="/tudastar/2-honapos-baba" className="border rounded-xl p-4 hover:shadow">
+Mit tud egy 2 hónapos baba?
+</a>
+
+<a href="/tudastar/korrigalt-eletkor" className="border rounded-xl p-4 hover:shadow">
+Korrigált életkor koraszülötteknél
+</a>
+
+</div>
 
       </div>
     </section>
