@@ -137,7 +137,7 @@ export default function KoraiFelismeres() {
           </p>
         </div>
         <h3 className="text-2xl font-semibold text-gray-800 mt-16 mb-6">
-Kapcsolódó cikkek
+          Kapcsolódó cikkek
 </h3>
 
 <div className="grid md:grid-cols-3 gap-6">
@@ -153,9 +153,6 @@ Mit tud egy 2 hónapos baba?
 <a href="/tudastar/korrigalt-eletkor" className="border rounded-xl p-4 hover:shadow">
 Korrigált életkor koraszülötteknél
 </a>
-
-</div>
-
       </div>
     </section>
   );
