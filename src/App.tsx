@@ -35,6 +35,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/tudastar" element={<Tudastar />} />
+            <Route path="/tudastar/korai-felismeres" element={<KoraiFelismeres />} />
           </Routes>
         </main>
 
