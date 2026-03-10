@@ -7,7 +7,7 @@ export const cikkek = [
     image: "/images/pexels-fotios-photos-5435599.jpg",
 
     date: "2026. január",
-    readingTime: "6 perc",
+    readingTime: "3 perc",
 
     content: `
 A korai felismerés szerepe a gyermek fejlődésében
