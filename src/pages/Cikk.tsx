@@ -2,7 +2,6 @@ import { useParams } from "react-router-dom";
 import { cikkek } from "../data/cikkek";
 
 export default function Cikk() {
-
   const { slug } = useParams();
   const cikk = cikkek.find((c) => c.slug === slug);
 
@@ -44,10 +43,9 @@ export default function Cikk() {
         </p>
 
         <div
-  className="prose max-w-none"
-  dangerouslySetInnerHTML={{ __html: cikk.content }}
-/>
-        </div>
+          className="prose max-w-none"
+          dangerouslySetInnerHTML={{ __html: cikk.content }}
+        />
 
       </div>
     </section>
