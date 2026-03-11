@@ -2,11 +2,11 @@ import { Award, CheckCircle } from 'lucide-react';
 
 const qualifications = [
   {
-    title: 'Sensomotoros Neuroterápia',
+    title: 'Sensomotoros neuroterápia',
     description: 'Idegrendszer fejlesztésére fókuszáló terápia',
   },
   {
-    title: 'Kinesio Tape',
+    title: 'Kinesio tape',
     description: 'Kinesio tape technika alkalmazása a mozgásoktatásban',
   },
    {
@@ -18,7 +18,7 @@ const qualifications = [
     description: 'Vízben végzett speciális neuroterápiás módszer',
   },
   {
-    title: 'Huple® Program',
+    title: 'Huple® program',
     description: 'Speciális egyensúly, mozgáskoordináció és testtudatot fejlesztő torna',
   },
   {
