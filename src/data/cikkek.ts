@@ -175,13 +175,13 @@ Pin, T., Eldridge, B., & Galea, M. P. (2007). A review of the effects of sleep p
 Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180. https://epa.oszk.hu/03000/03047/00045/pdf/EPA03047_gyosze_2009_2_3_172.pdf.
 `,
     {
-  slug: "baba-mozgasfejlodes",
-  title: "A baba mozgásfejlődése 0–18 hónapos korig",
-  description:
-    "Milyen mozgásfejlődési mérföldkövek várhatók az első másfél évben?",
-  image: "/images/labdas.jpg",
-  date: "2026. február",
-  readingTime: "8 perc",
+    slug: "baba-mozgasfejlodes",
+    title: "A baba mozgásfejlődése 0–18 hónapos korig",
+    description:
+      "Milyen mozgásfejlődési mérföldkövek várhatók az első másfél évben?",
+    image: "/images/labdas.jpg",
+    date: "2026. február",
+    readingTime: "8 perc",
 
   content: `
 A baba mozgásfejlődése az első másfél évben
@@ -329,10 +329,6 @@ Hadders-Algra M. (2018). Early human motor development: From variation to the ab
 Adolph K., Robinson S. (2015). Motor development. Handbook of Child Psychology.  
 Hewitt L., Kerr E., Stanley R. (2020). Tummy time and infant health outcomes: A systematic review. Pediatrics.  
 Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180.
-`,
-},
-{
-  slug: "baba-mozgasfejlodes",
-  title: "A baba mozgásfejlődése 0–18 hónapos korig",
+`
 }
 ];
