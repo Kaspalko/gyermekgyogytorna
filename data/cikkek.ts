@@ -21,6 +21,9 @@ export const cikkek = [
   image: "/images/labdas.jpg",
   date: "2026. február",
   readingTime: "8 perc",
-  content: `<h2>A baba mozgásfejlődése az első másfél évben</h2>
+ content: `
+<h2>A baba mozgásfejlődése az első másfél évben</h2>
+<p>A csecsemők fejlődése az első életévben rendkívül gyors...</p>
+`
 }
 ];
