@@ -42,10 +42,9 @@ export default function Cikk() {
           {cikk.description}
         </p>
 
-        <div
-          className="prose max-w-none"
-          dangerouslySetInnerHTML={{ __html: cikk.content }}
-        />
+        <div className="prose max-w-none whitespace-pre-line">
+          {cikk.content}
+        </div>
 
       </div>
     </section>
