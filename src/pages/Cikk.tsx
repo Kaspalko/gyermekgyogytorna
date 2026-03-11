@@ -43,10 +43,10 @@ export default function Cikk() {
           {cikk.description}
         </p>
 
-        <div className="text-gray-700 space-y-6">
-          {cikk.content.split("\n").map((paragraph, index) => (
-            <p key={index}>{paragraph}</p>
-          ))}
+        <div
+  className="prose max-w-none"
+  dangerouslySetInnerHTML={{ __html: cikk.content }}
+/>
         </div>
 
       </div>
