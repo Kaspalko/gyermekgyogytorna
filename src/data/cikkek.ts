@@ -174,6 +174,7 @@ World Health Organization. (2019). Guidelines on physical activity, sedentary be
 Pin, T., Eldridge, B., & Galea, M. P. (2007). A review of the effects of sleep position, play position, and equipment use on motor development in infants. Developmental Medicine & Child Neurology, 49(11), 858–867. https://doi.org/10.1111/j.1469-8749.2007.00858.x
 Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180. https://epa.oszk.hu/03000/03047/00045/pdf/EPA03047_gyosze_2009_2_3_172.pdf.
 `,
+  },
     {
     slug: "baba-mozgasfejlodes",
     title: "A baba mozgásfejlődése 0–18 hónapos korig",
