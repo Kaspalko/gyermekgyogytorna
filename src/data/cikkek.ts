@@ -329,6 +329,10 @@ Hadders-Algra M. (2018). Early human motor development: From variation to the ab
 Adolph K., Robinson S. (2015). Motor development. Handbook of Child Psychology.  
 Hewitt L., Kerr E., Stanley R. (2020). Tummy time and infant health outcomes: A systematic review. Pediatrics.  
 Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180.
-`
+`,
+},
+{
+  slug: "baba-mozgasfejlodes",
+  title: "A baba mozgásfejlődése 0–18 hónapos korig",
 }
 ];
