@@ -28,7 +28,7 @@ export default function Hero() {
 
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
               Amennyiben segítséget szeretne kérni gyermeke mozgásfejlődésével kapcsolatban,
-              forduljon hozzám bizalommal. Kórházi munka mellett házhoz járó gyógytornát vállalok
+              forduljon hozzám bizalommal. Kórházi munkám mellett házhoz járó gyógytornát vállalok
               Budapesten és környékén.
             </p>
 
