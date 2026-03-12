@@ -32,5 +32,12 @@ export const cikkek = [
   description:
     "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
   image: "/images/baba-torticollis.jpg"
-     }
+     },
+  {
+  slug: "mikor-kezd-maszni-a-baba",
+  title: "Mikor kezd mászni a baba?",
+  description:
+    "Mikor kezd mászni a baba, mi előzi meg a mászást és miért fontos a mozgásfejlődésben.",
+  image: "/images/baba-maszas.jpg"
+  }
 ];
