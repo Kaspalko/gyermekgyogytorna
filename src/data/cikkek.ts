@@ -555,5 +555,120 @@ Physical Therapy Management of Congenital Muscular Torticollis – Clinical Prac
 
 StatPearls – Congenital Muscular Torticollis (NCBI)
 `
+},
+  {
+  slug: "mikor-kezd-maszni-a-baba",
+  title: "Mikor kezd mászni a baba?",
+  description:
+    "Mikor kezd mászni a baba, mi előzi meg a mászást és miért fontos a mozgásfejlődésben.",
+  image: "/images/baba-maszas.jpg",
+  date: "2026. március",
+  readingTime: "7 perc",
+  content: `
+Mikor kezd mászni a baba?
+
+
+A mászás a csecsemők mozgásfejlődésének egyik fontos állomása. Bár minden gyermek saját ütemben fejlődik, a legtöbb baba 6–10 hónapos kor között kezd el mászni. A mászás nemcsak a helyváltoztatást jelenti, hanem az idegrendszer, az izomzat és a koordináció fejlődésének fontos része is.
+
+A szakirodalom szerint a mászás során a baba keresztmintázatban mozgatja a végtagjait: a jobb kéz a bal lábbal, illetve a bal kéz a jobb lábbal együtt mozdul. Ez a mozgásminta jelentős szerepet játszik a két agyfélteke összehangolt működésének fejlődésében.
+(Kaplan et al., 2018; Adolph & Berger, 2006)
+
+
+Mi előzi meg a mászást?
+
+A mászás előtt több mozgásfejlődési lépcső jelenik meg. Ezek segítik azokat az izmokat és mozgásmintákat kialakítani, amelyek a mászáshoz szükségesek.
+A legfontosabb előzmények:
+
+⋅  Hason fekvés - A baba fokozatosan megtanulja megtartani a fejét, majd a felsőtestét. Ez erősíti a nyak és a törzs izmait.
+
+⋅  Támaszkodás karokon - Körülbelül 4–6 hónapos kor körül a baba már kinyújtott karokra támaszkodik hason fekvésben.
+
+⋅  Gurulás és fordulás - A hátról hasra, majd hasról hátra fordulás fejleszti a törzs stabilitását és az egyensúlyt.
+
+⋅  Kúszás - Sok baba a mászás előtt kúszik, amikor a hasát a talajon tartva húzza magát előre.
+
+Ezek a mozgások mind segítik a vállöv, a törzs és a csípő stabilitásának kialakulását, amelyek a mászás alapjai.
+(Adolph & Berger, 2006; WHO Motor Development Study, 2006)
+
+
+Mi szükséges ahhoz, hogy a baba mászni tudjon?
+
+A mászás kialakulásához több képesség összehangolt működésére van szükség.
+
+Törzsstabilitás - A baba törzsének elég erősnek kell lennie ahhoz, hogy megtartsa a testét négykézláb helyzetben.
+
+Kar- és lábizomerő - A felső és alsó végtagoknak is megfelelő erővel kell rendelkezniük, hogy a test súlyát megtartsák.
+
+Egyensúly - A baba folyamatosan áthelyezi a testsúlyát egyik oldalról a másikra.
+
+Koordináció - A végtagok összehangolt mozgása szükséges a keresztmintázat kialakulásához.
+
+Szenzoros és idegrendszeri fejlődés - A mászás során a baba folyamatosan információt kap a testhelyzetéről, ami segíti az idegrendszer érését.
+
+(Ayres, 2005; Adolph & Berger, 2006)
+
+
+Mikor kezd mászni a baba?
+
+A kutatások szerint a legtöbb baba 6–10 hónapos kor között kezd el mászni, de egyéni eltérések előfordulhatnak.
+A WHO mozgásfejlődési kutatása szerint a mászás kezdetének átlagos ideje körülbelül 8 hónap körül van, de egyes babák korábban vagy később is elkezdhetik. (WHO Motor Development Study, 2006)
+Fontos tudni, hogy néhány gyermek kihagyhatja a mászást, és közvetlenül felállás vagy járás felé halad. Ugyanakkor a szakemberek gyakran javasolják, hogy a baba elegendő időt töltsön a talajon történő mozgással, mert ez támogatja a harmonikus mozgásfejlődést.
+
+Milyen eltérések figyelhetők meg mászás közben?
+
+Mászás során különböző mozgásminták jelenhetnek meg. Ezek egy része a fejlődés természetes variációja, más esetekben viszont érdemes szakemberhez fordulni.
+
+⋅  Aszimmetrikus mászás - A baba mindig ugyanazzal a kézzel vagy lábbal indít.
+
+⋅  Féloldalas mozgás - Az egyik oldal dominánsan dolgozik.
+
+⋅  Fenéken csúszás - A baba ülve halad előre a lábaival.
+
+⋅  Keresztminta hiánya - A mozgás nem váltott kéz–láb mintázatban történik.
+
+⋅  Mászás helyett azonnali felállás - Egyes babák gyorsan a felállás és járás irányába lépnek tovább.
+
+Ha a baba mozgása tartósan aszimmetrikus, vagy egyáltalán nem próbál négykézlábra állni, érdemes gyógytornászhoz fordulni. (Kaplan et al., 2018)
+
+Meddig „kell” elindulnia a mászásnak?
+
+A legtöbb baba 10 hónapos korig megkezdi a mászást vagy valamilyen előrehaladó mozgásformát.
+Ha egy baba 10–11 hónapos kor körül még nem próbál előre haladni, vagy nem jelenik meg a négykézláb helyzet, érdemes szakemberrel konzultálni.
+Ez nem feltétlenül jelent problémát, de fontos lehet a mozgásfejlődés részletes vizsgálata. (WHO Motor Development Study, 2006)
+
+Miben segíti a mászás a gyermeket?
+
+A mászás nemcsak a mozgásról szól. Számos területen támogatja a fejlődést.
+
+⋅  Idegrendszeri fejlődés - A keresztmintázat segíti az agyféltekék közötti kapcsolat erősödését.
+
+⋅  Testtudat - A baba megtanulja érzékelni saját testének helyzetét a térben.
+
+⋅  Egyensúly és koordináció - A testsúly folyamatos áthelyezése fejleszti az egyensúlyrendszert.
+
+⋅  Finommotorika alapjai - A vállöv stabilitása később a kézhasználatban és az írásnál is fontos.
+
+⋅  Térbeli tájékozódás - A baba aktívan felfedezi a környezetét.
+
+(Ayres, 2005; Adolph & Berger, 2006)
+
+Összefoglalás
+
+A mászás a csecsemők mozgásfejlődésének fontos mérföldköve. A legtöbb baba 6–10 hónapos kor között kezd mászni, és ez a mozgásforma jelentős szerepet játszik az izomerő, az egyensúly és az idegrendszeri kapcsolatok fejlődésében.
+
+Ha a baba mozgásfejlődése eltér a megszokott mintától, vagy a szülők bizonytalanok, érdemes szakember segítségét kérni. A korai felismerés és a megfelelő támogatás segítheti a gyermek harmonikus fejlődését.
+
+
+
+Felhasznált szakirodalom
+
+Adolph, K. E., & Berger, S. E. (2006). Motor development. Handbook of Child Psychology.
+
+Kaplan, S. L., Coulter, C., & Sargent, B. (2018). Physical Therapy Management of Congenital Muscular Torticollis: A Clinical Practice Guideline. Pediatric Physical Therapy.
+
+World Health Organization (2006). WHO Motor Development Study: Windows of achievement for motor development.
+
+Ayres, A. J. (2005). Sensory Integration and the Child.
+`
 }
 ];
