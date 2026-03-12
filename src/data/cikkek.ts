@@ -339,5 +339,224 @@ Hewitt L., Kerr E., Stanley R. (2020). Tummy time and infant health outcomes: A 
 
 Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180.
 `
+      {
+  slug: "ferde-fejtartas-torticollis",
+  title: "Ferde fejtartás (torticollis) csecsemőknél",
+  description:
+    "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
+  image: "/images/baba-torticollis.jpg",
+
+  date: "2026. március",
+  readingTime: "6 perc",
+
+  content: `
+Ferde fejtartás (torticollis) csecsemőknél – okok, tünetek és kezelés
+
+A ferde fejtartás, orvosi nevén torticollis, egy viszonylag gyakori állapot csecsemőknél, amely során a baba feje az egyik oldalra billen, miközben az áll az ellenkező irányba fordul. A jelenség hátterében legtöbbször a nyak egyik oldalán elhelyezkedő fejbiccentő izom (sternocleidomastoideus) rövidülése vagy feszessége áll.
+
+A torticollis már születés után röviddel észrevehető lehet, de sok esetben csak az első hetekben válik feltűnővé a szülők számára. A korai felismerés és a megfelelő terápia kulcsfontosságú, mert időben kezelve az esetek nagy részében teljesen korrigálható. 
+
+
+
+Mi az a torticollis?
+
+A torticollis szó latin eredetű:
+
+tortus = csavarodott
+
+collum = nyak
+
+Ez a kifejezés tehát a nyak rendellenes helyzetét jelöli. A congenitalis muscularis torticollis (CMT) a leggyakoribb forma, amely már csecsemőkorban jelentkezik. Ilyenkor a fej egyik oldalra billen, miközben az arc az ellenkező irányba fordul. Ennek oka általában a fejbiccentő izom egyoldali rövidülése vagy sérülése. 
+
+A szakirodalom szerint a veleszületett torticollis az egyik leggyakoribb csecsemőkori mozgásszervi eltérés, és gyakran társulhat más állapotokkal is, például koponyaaszimmetriával vagy egyéb mozgásfejlődési eltérésekkel. 
+
+
+
+Milyen gyakori a ferde fejtartás?
+
+
+A kutatások alapján a veleszületett torticollis az újszülöttek kb. 3,9–16%-ánál fordulhat elő. Ez azt jelenti, hogy viszonylag gyakori állapotról beszélünk, amelyet gyermekorvosok, gyógytornászok és védőnők is rendszeresen diagnosztizálnak. 
+
+A mozgásszervi fejlődési rendellenességek között a torticollis a csípőficam és a dongaláb után az egyik leggyakrabban előforduló eltérés.
+
+
+A torticollis típusai
+
+A torticollis alapvetően két nagy csoportba sorolható:
+
+1. Veleszületett torticollis
+
+Ez a leggyakoribb forma, amely már a születés után megjelenik. Kialakulásának pontos oka nem minden esetben ismert, de több tényező is szerepet játszhat:
+
+⋅ a csecsebő méhen belüli helyzete,
+
+⋅ nehéz szülés vagy szülési trauma,
+
+⋅ a fejbiccentő izom sérülése,
+
+⋅ az izomban kialakuló vérömleny,
+
+⋅ és/vagy nagy születési súly,
+
+Az izom sérülése vagy gyulladása következtében az izom megrövidülhet és feszessé válhat, ami a fej kényszertartásához vezet.
+
+2. Szerzett torticollis
+
+A szerzett torticollis később, az élet során alakul ki, és különböző okok állhatnak a hátterében, például:
+
+⋅ gyulladásos betegségek
+
+⋅ nyaki gerincsérülések
+
+⋅ idegrendszeri betegségek
+
+⋅ szemészeti problémák
+
+⋅ vestibuláris rendellenességek
+
+⋅ gyógyszermellékhatások
+
+Csecsemőkorban azonban a legtöbb esetben a veleszületett izomeredetű torticollis fordul elő.
+
+
+A torticollis leggyakoribb tünetei
+
+A ferde fejtartás tünetei általában már az első hetekben észrevehetők. A leggyakoribb jelek:
+
+⋅ a baba feje egyik oldalra billen,
+
+⋅ az áll az ellenkező irányba fordul,
+
+⋅ a baba mindig ugyanarra az oldalra néz,
+
+⋅ csökkent a nyaki mozgástartomány,
+
+⋅ feszesek a nyakizmok,
+
+⋅ az egyik váll magasabban állhat,
+
+⋅  koponya egyik oldala laposabb lehet,
+
+⋅ arc aszimmetria alakulhat ki.
+
+A tartós aszimmetrikus fejtartás hosszabb távon koponyaformai eltérésekhez (plagiocephalia) is vezethet.
+
+
+Miért fontos a korai felismerés?
+
+A szakmai irányelvek hangsúlyozzák, hogy a torticollis kezelése akkor a legeredményesebb, ha minél korábban kezdődik.
+
+A kutatások szerint az időben megkezdett fizioterápia:
+
+⋅ javítja a mozgástartományt,
+
+⋅ gyorsítja a fejlődést,
+
+⋅ csökkenti a koponyaaszimmetria kialakulását,
+
+⋅ lerövidíti a kezelés időtartamát,
+
+⋅ csökkenti a későbbi műtéti beavatkozás szükségességét. 
+
+
+
+Ezért nagyon fontos, hogy ha a szülők vagy a gyermekorvos aszimmetriát észlelnek, a gyermek minél hamarabb gyógytornászhoz kerüljön.
+
+
+Hogyan történik a vizsgálat?
+
+A gyógytornász a vizsgálat során több területet is felmér:
+
+⋅ Megvizsgálja, hogy milyen a fej és a nyak helyzete,
+
+⋅ mekkora a nyaki mozgástartomány,
+
+⋅ észlelhető-e izomfeszesség,
+
+⋅ milyen a koponya formája,
+
+⋅ hol tart a baba mozgásfejlődése,
+
+⋅ illetve milyen a test szimmetriája.
+
+A vizsgálat során szükség esetén más területeket is ellenőriznek, például a csípőt vagy a törzs mozgását, mivel bizonyos állapotok együtt is előfordulhatnak. 
+
+
+
+A torticollis kezelése
+
+A veleszületett torticollis kezelése általában konzervatív módszerekkel történik.
+
+A fizioterápia több fontos elemet foglal magában:
+
+⋅ Ide tartozik a nyaki izmok nyújtása - rövidült izmok passzív nyújtása segít visszaállítani a normál mozgástartományt.
+
+⋅ Aktív mozgás fejlesztése - a baba mozgásra ösztönzése segíti az izmok egyensúlyának helyreállítását.
+
+⋅ Szimmetrikus mozgásminták kialakítása - a gyakorlatok célja, hogy a baba mindkét irányba egyformán használja a nyakát és a testét.
+
+⋅ Pozicionálás - a megfelelő testhelyzetek segítenek megelőzni az aszimmetriát.
+
+⋅ Szülői edukáció - a kezelés egyik legfontosabb része, hogy a szülők megtanulják az otthon végezhető gyakorlatokat. 
+
+
+
+Mit tehetnek a szülők otthon?
+
+A mindennapi helyzetekben is sokat lehet segíteni a baba fejlődésében.
+
+Például:
+
+⋅ Játékokat lehet az érintett oldal felé helyezni.
+
+⋅ Gyakorolni a hason fekvést.
+
+⋅ Zenével, vizuális ingerrel ösztönözni a babát, hogy az érintett oldal irányába nézzen. 
+
+⋅ Etetéskor oldalakat érdemes változtatni. 
+
+⋅ Érdemes figyelni a hordozás közbeni szimmetriát. 
+
+Fontos azonban, hogy az otthoni gyakorlatokat mindig szakember útmutatása alapján végezzük.
+
+
+Mikor van szükség további kezelésre?
+
+A legtöbb esetben a korán megkezdett gyógytorna elegendő a torticollis kezeléséhez. Ritkán előfordulhat azonban, hogy a konzervatív terápia nem hoz megfelelő eredményt.
+
+Ilyen esetekben szóba jöhet:
+
+⋅ speciális ortopédiai kezelés,
+
+⋅  botulinum toxin injekció,
+
+⋅  vagy műtéti beavatkozás.
+
+Ezekre azonban csak az esetek kis részében van szükség.
+
+
+Összefoglalva
+
+A ferde fejtartás csecsemőknél viszonylag gyakori, de jól kezelhető állapot. A korai felismerés és a megfelelő gyógytorna kulcsszerepet játszik abban, hogy a baba mozgásfejlődése harmonikusan alakuljon.
+
+Ha a szülők azt veszik észre, hogy a baba mindig ugyanarra az oldalra fordítja a fejét, vagy nehezen mozgatja a nyakát, érdemes szakemberhez fordulni.
+
+Az időben megkezdett kezelés segíthet abban, hogy a gyermek mozgása szimmetrikus legyen, és a fejlődése zavartalanul folytatódjon.
+
+
+Felhasznált szakirodalom
+
+Kaplan SL, Coulter C, Sargent B.
+Clinical Practice Guideline: Congenital Muscular Torticollis. Pediatric Physical Therapy. 
+
+
+
+Sargent B. et al.
+Physical Therapy Management of Congenital Muscular Torticollis – Clinical Practice Guideline (2024). 
+
+
+
+StatPearls – Congenital Muscular Torticollis (NCBI)
+`
 }
 ];
