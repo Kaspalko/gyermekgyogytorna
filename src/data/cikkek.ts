@@ -28,13 +28,13 @@ Ha a szűrés során felmerül, hogy a gyermek fejlődése eltérhet az átlagos
 
 A modern szemlélet szerint a diagnosztika nem csupán egy címke felállítását jelenti. Sokkal inkább a gyermek teljes fejlődési profiljának megismerésére törekszik:
 
-- hogyan mozog,
+⋅  hogyan mozog,
 
-- hogyan kommunikál,
+⋅  hogyan kommunikál,
 
-- hogyan érzékeli a világot,
+⋅  hogyan érzékeli a világot,
 
-- hogyan kapcsolódik másokhoz,
+⋅  hogyan kapcsolódik másokhoz.
 
 
 Ez a komplex állapotmegismerés segíti a szakembereket abban, hogy a gyermek számára leginkább megfelelő fejlesztést vagy támogatást tervezzék meg.
@@ -43,13 +43,13 @@ Milyen eszközökkel történik a vizsgálat?
 
 A gyermek fejlődésének megismerése többféle módszerrel történik. A szakemberek általában kombinálják az alábbiakat:
 
-- megfigyelés a játék és a mindennapi helyzetek során,
+⋅ megfigyelés a játék és a mindennapi helyzetek során,
 
-- szülőkkel való beszélgetés, amely során fontos információk derülnek ki a gyermek fejlődéséről és viselkedéséről,
+⋅ szülőkkel való beszélgetés, amely során fontos információk derülnek ki a gyermek fejlődéséről és viselkedéséről,
 
-- fejlődési kérdőívek és tesztek,
+⋅ fejlődési kérdőívek és tesztek,
 
-- speciális vizsgálatok, például mozgás-, látás-, hallás- vagy kommunikációs területen.
+⋅ speciális vizsgálatok, például mozgás-, látás-, hallás- vagy kommunikációs területen.
 
 A vizsgálatok célja nem a gyermek „minősítése”, hanem annak megértése, hogy mire van szüksége a fejlődéséhez.
 
