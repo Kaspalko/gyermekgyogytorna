@@ -31,9 +31,6 @@ export const cikkek = [
   title: "Ferde fejtartás (torticollis) csecsemőknél",
   description:
     "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
-  image: "/images/baba-torticollis.jpg",
-
-  date: "2026. március",
-  readingTime: "6 perc",
+  image: "/images/baba-torticollis.jpg"
      }
 ];
