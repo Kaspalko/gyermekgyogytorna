@@ -25,5 +25,15 @@ export const cikkek = [
 <h2>A baba mozgásfejlődése az első másfél évben</h2>
 <p>A csecsemők fejlődése az első életévben rendkívül gyors...</p>
 `
-}
+},
+   {
+   slug: "ferde-fejtartas-torticollis",
+  title: "Ferde fejtartás (torticollis) csecsemőknél",
+  description:
+    "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
+  image: "/images/baba-torticollis.jpg",
+
+  date: "2026. március",
+  readingTime: "6 perc",
+     }
 ];
