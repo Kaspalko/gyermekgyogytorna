@@ -1,9 +1,30 @@
 import { useParams } from "react-router-dom";
+import { useEffect } from "react";
 import { cikkek } from "../data/cikkek";
 
 export default function Cikk() {
   const { slug } = useParams();
   const cikk = cikkek.find((c) => c.slug === slug);
+  useEffect(() => {
+  if (!cikk) return;
+
+  document.title = `${cikk.title} | Gyermek gyógytorna Budapest`;
+
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute("content", cikk.description);
+  }
+
+  const ogTitle = document.querySelector('meta[property="og:title"]');
+  if (ogTitle) ogTitle.setAttribute("content", cikk.title);
+
+  const ogDesc = document.querySelector('meta[property="og:description"]');
+  if (ogDesc) ogDesc.setAttribute("content", cikk.description);
+
+  const ogImage = document.querySelector('meta[property="og:image"]');
+  if (ogImage) ogImage.setAttribute("content", cikk.image);
+
+}, [cikk]);
 
   if (!cikk) {
     return <div className="p-20">Cikk nem található</div>;
