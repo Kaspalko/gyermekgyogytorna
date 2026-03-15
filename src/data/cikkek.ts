@@ -807,6 +807,102 @@ https://www.cdc.gov/growthcharts/
 WHO Multicentre Growth Reference Study Group (2006).
 WHO Motor Development Study: Windows of achievement for motor development.
 https://pubmed.ncbi.nlm.nih.gov/16904057/
-`
+`,
+    {
+  slug: "mikor-fordul-at-a-baba",
+  title: "Mikor fordul át a baba?",
+  description:
+    "Mikor fordul át a baba először, mi előzi meg az átfordulást és mikor érdemes szakemberhez fordulni.",
+  image: "/images/forgas.jpg",
+  date: "2026. március",
+  readingTime: "5 perc",
+  content: `
+  Mikor fordul át a baba?
+
+A baba átfordulása az első év egyik fontos mozgásfejlődési mérföldköve. Sok szülő várja izgatottan azt a pillanatot, amikor a baba először átfordul a hátáról a hasára vagy a hasáról a hátára. Ez a mozgás nemcsak egy új képességet jelent, hanem az idegrendszer és az izmok fejlődésének fontos jele is.
+Fontos azonban tudni, hogy minden baba egyéni ütemben fejlődik, ezért az átfordulás ideje gyermekenként eltérhet.
+
+
+Mikor fordul át a baba?
+
+A legtöbb baba 4–6 hónapos kor között fordul át először.
+A mozgásfejlődés során általában az alábbi sorrend figyelhető meg:
+
+⋅ 3–4 hónapos kor körül a baba már oldalra fordulhat
+⋅ 4–5 hónapos korban gyakran megjelenik a hasról hátra fordulás
+⋅ 5–6 hónapos korban sok baba már a hátáról is át tud fordulni hasra
+
+A szakirodalom szerint az átfordulás ideje természetes módon változhat, és néhány baba kicsit korábban vagy később is elérheti ezt a mérföldkövet.
+
+
+Mi előzi meg az átfordulást?
+Az átfordulás nem egyik napról a másikra jelenik meg. Több mozgásfejlődési lépés készíti elő.
+
+⋅ Fejkontroll fejlődése - A baba fokozatosan megtanulja stabilan megtartani a fejét. Ez fontos alapja a későbbi mozgásoknak.
+
+⋅ Hason fekvés - Hason fekve a baba erősíti a nyak-, váll- és törzsizmait. Ez segít abban, hogy a testsúlyát egyik oldalról a másikra tudja helyezni.
+
+⋅ Oldalra fordulás - Az átfordulás előtt a baba gyakran már oldalra gurul, vagy a játékok felé nyúlva elfordítja a testét.
+
+⋅ Törzsizomzat erősödése - A törzs stabilitása kulcsszerepet játszik az átfordulásban. A baba ilyenkor már képes a testét koordináltan mozgatni.
+
+
+Miért fontos az átfordulás?
+Az átfordulás nemcsak egy új mozgásforma. Számos fejlődési területhez kapcsolódik.
+
+⋅ Izomerő és törzskontroll - Az átfordulás során a baba használja a nyak-, váll-, törzs- és csípőizmait. Ez segíti az izomerő és a testkontroll fejlődését.
+
+⋅ Idegrendszeri fejlődés - A mozgások koordinációja az idegrendszer érésének fontos jele. Az átfordulás során a baba megtanulja összehangolni a test különböző részeinek mozgását.
+
+⋅ Későbbi mozgások alapja - Az átfordulás előkészíti a következő mozgásfejlődési lépcsőket:
+
+  - kúszás
+  - mászás
+  - ülés
+  - állás
+
+Ezért fontos, hogy a baba elegendő lehetőséget kapjon a szabad mozgásra.
+
+
+Mit tehetnek a szülők a mozgásfejlődés támogatásáért?
+A baba mozgásfejlődését a mindennapi helyzetekben is lehet segíteni.
+
+⋅ Hason fekvés gyakorlása.
+⋅ Az éber állapotban végzett hason fekvés erősíti a törzs és a vállöv izmait.
+⋅ Játékok elhelyezése.
+⋅ Ha a játékokat kissé oldalra helyezzük, a baba természetes módon próbál feléjük fordulni.
+⋅ Szabad mozgás biztosítása.
+
+A baba számára fontos, hogy elegendő időt töltsön a talajon, ahol szabadon mozoghat és felfedezheti a saját mozgásait.
+
+
+Mikor érdemes szakemberhez fordulni?
+Érdemes gyógytornásszal vagy gyermekorvossal konzultálni, ha:
+
+⋅ a baba 6–7 hónapos korban sem próbál átfordulni,
+⋅ a mozgás nagyon egyoldalú,
+⋅ a baba nehezen viseli a hason fekvést,
+⋅ vagy a szülők bizonytalanok a mozgásfejlődéssel kapcsolatban.
+
+Fontos hangsúlyozni, hogy az egyéni eltérések természetesek, de szükség esetén a szakember segíthet megítélni a gyermek fejlődését.
+
+
+Összefoglalás
+
+A legtöbb baba 4–6 hónapos kor között fordul át. Ez a mozgás a baba izomzatának, idegrendszerének és koordinációjának fejlődését jelzi. A rendszeres hason fekvés, a szabad mozgás és a játékos környezet segítheti a baba természetes mozgásfejlődését.
+
+Ha a szülők bizonytalanok a baba fejlődésével kapcsolatban, érdemes szakemberhez fordulni, aki segíthet a gyermek mozgásfejlődésének megítélésében.
+
+
+Felhasznált szakirodalom
+
+Adolph, K. E., & Berger, S. E. (2006). Motor development. In: Handbook of Child Psychology.
+
+Hadders-Algra, M. (2018). Early human motor development: From variation to the ability to vary and adapt.
+
+World Health Organization (2006). WHO Motor Development Study: Windows of achievement for motor development.
+
+Pin, T., Eldridge, B., & Galea, M. (2007). A review of the effects of sleep position and play position on motor development in infants. Developmental Medicine & Child Neurology.
+  `
 }
 ];
