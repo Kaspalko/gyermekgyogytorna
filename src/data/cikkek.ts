@@ -807,7 +807,7 @@ https://www.cdc.gov/growthcharts/
 WHO Multicentre Growth Reference Study Group (2006).
 WHO Motor Development Study: Windows of achievement for motor development.
 https://pubmed.ncbi.nlm.nih.gov/16904057/
-`,
+`},
     {
   slug: "mikor-fordul-at-a-baba",
   title: "Mikor fordul át a baba?",
