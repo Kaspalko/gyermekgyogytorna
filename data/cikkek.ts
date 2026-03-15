@@ -39,5 +39,12 @@ export const cikkek = [
   description:
     "Mikor kezd mászni a baba, mi előzi meg a mászást és miért fontos a mozgásfejlődésben.",
   image: "/images/baba-maszas.jpg"
+  },
+  {
+  slug: "percentilis-mit-jelent",
+  title: "Mit jelent a percentilis a gyermek fejlődésénél?",
+  description:
+    "Mit jelent a percentilis a gyermek fejlődésében, mikor mérik és mit jelez a növekedési görbe.",
+  image: "/images/percentilis.jpg"
   }
 ];
