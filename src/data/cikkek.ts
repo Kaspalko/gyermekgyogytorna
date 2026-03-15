@@ -904,5 +904,91 @@ World Health Organization (2006). WHO Motor Development Study: Windows of achiev
 
 Pin, T., Eldridge, B., & Galea, M. (2007). A review of the effects of sleep position and play position on motor development in infants. Developmental Medicine & Child Neurology.
   `
+},
+  {
+  slug: "mikor-ul-fel-a-baba",
+  title: "Mikor ül fel a baba?",
+  description:
+    "Mikor ül fel a baba önállóan, mi előzi meg az ülést és mikor érdemes szakemberhez fordulni.",
+  image: "/images/baby-sitting.jpg",
+  date: "2026. március",
+  readingTime: "6 perc",
+  content: `
+Mikor ül fel a baba?
+
+A baba önálló felülése a mozgásfejlődés egyik fontos mérföldköve az első életévben. Sok szülő várja izgatottan, mikor fog a gyermek először stabilan ülni, és gyakran felmerül a kérdés: mikor számít ez normálisnak, és mikor érdemes szakemberhez fordulni?
+Fontos tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik. A legtöbb baba azonban hasonló fejlődési lépcsőkön halad keresztül, amelyek fokozatosan vezetik el az önálló üléshez.
+
+Mikor ül fel a baba?
+
+A legtöbb baba 7–9 hónapos kor között ül fel önállóan.
+A fejlődés általában több lépésből áll:
+
+⋅ 4–5 hónapos korban a baba rövid ideig megtartható ülő helyzetben, ha a szülő megtámasztja
+⋅ 5–6 hónapos korban megjelenik az úgynevezett „tripod ülés”, amikor a baba előrehajolva a kezére támaszkodik
+⋅ 6–8 hónapos korban sok baba már stabilan ül rövidebb ideig
+⋅ 7–9 hónapos korban gyakran megjelenik az önálló felülés
+
+A WHO mozgásfejlődési vizsgálatai szerint az önálló ülés kialakulása természetes módon változhat, ezért kisebb eltérések teljesen normálisak lehetnek.
+
+
+Mi előzi meg az önálló ülést?
+
+Az ülés nem egyik napról a másikra jelenik meg. Több fontos mozgásfejlődési lépés készíti elő.
+⋅ Hason fekvés - A rendszeres hason fekvés segíti a nyak, a vállöv és a törzs izmainak erősödését. Ezek az izmok kulcsszerepet játszanak az ülés stabilitásában.
+⋅ Átfordulás - A hátról hasra és hasról hátra fordulás fejleszti a törzs izmainak koordinációját és az egyensúlyt.
+⋅ Oldalra támaszkodás - A baba fokozatosan megtanulja a testsúlyát egyik oldalról a másikra helyezni, ami fontos előfeltétele a felülésnek.
+⋅ Kúszás és mászás - Sok baba a felülés előtt már kúszik vagy mászik. Ezek a mozgások tovább erősítik a törzs stabilitását.
+
+
+Miért fontos az ülés a fejlődésben?
+
+Az önálló ülés nemcsak egy új testhelyzetet jelent. Több területen is támogatja a baba fejlődését.
+⋅ Törzsstabilitás - Az ülés során a baba folyamatosan használja a törzsizmait, ami erősíti a testkontrollt.
+⋅ Kézhasználat fejlődése - Ülő helyzetben a baba szabadabban használhatja a kezeit, ezért ilyenkor gyakran jelennek meg az első célzott manipulációk a játékokkal.
+⋅ Környezet felfedezése - Az ülés új perspektívát ad a baba számára, így aktívabban fedezheti fel a környezetét.
+
+
+Szabad ültetni a babát? - Sok szülőben felmerül a kérdés, hogy szabad-e a babát ültetni, mielőtt magától felülne.
+A szakemberek általában azt javasolják, hogy a baba inkább saját mozgásán keresztül jusson el az üléshez. Ha túl korán és tartósan ültetjük, a törzsizmok még nem biztos, hogy elég erősek a stabil testtartáshoz.
+Rövid ideig – például ölben vagy etetés közben – természetesen ülhet a baba, de a mozgásfejlődés szempontjából fontos, hogy a gyermek sok időt töltsön szabad mozgással a talajon.
+
+
+Mit tehetnek a szülők a mozgásfejlődés támogatásáért?
+
+⋅ A baba mozgásfejlődését a mindennapi játék és a környezet is segítheti.
+⋅ Érdemes sok időt biztosítani a szabad talajon történő mozgásra.
+⋅ Fontos a rendszeres hason fekvés.
+⋅ A játékokat lehet kissé távolabb helyezni, hogy a baba mozgásra ösztönződjön.
+⋅ Babykomp használatát egyáltalán nem ajánlom!
+
+
+Mikor érdemes szakemberhez fordulni?
+
+Érdemes gyógytornásszal vagy gyermekorvossal konzultálni, ha:
+⋅ a baba 9 hónapos kor körül még nem ül stabilan,
+⋅ a mozgás nagyon aszimmetrikus,
+⋅ a baba nem próbál mozogni a talajon,
+⋅ vagy a szülők bizonytalanok a mozgásfejlődéssel kapcsolatban.
+
+A korai vizsgálat segíthet abban, hogy időben felismerhető legyen, ha a baba fejlődéséhez támogatásra van szükség.
+
+
+Összefoglalás
+
+A legtöbb baba 7–9 hónapos kor között ül fel önállóan. Az ülés kialakulását több mozgásfejlődési lépés készíti elő, például a hason fekvés, az átfordulás, a kúszás és a mászás.
+A mozgásfejlődés egyéni folyamat, ezért kisebb eltérések természetesek lehetnek. Ha azonban a szülők bizonytalanok, érdemes szakemberhez fordulni, aki segíthet megítélni a baba fejlődését.
+
+
+Felhasznált szakirodalom
+
+Adolph, K. E., & Berger, S. E. (2006). Motor development. Handbook of Child Psychology.
+
+Hadders-Algra, M. (2018). Early human motor development: From variation to the ability to vary and adapt.
+
+World Health Organization (2006). WHO Motor Development Study: Windows of achievement for motor development.
+
+Pin, T., Eldridge, B., & Galea, M. (2007). Effects of play position on motor development in infants. Developmental Medicine & Child Neurology.
+  `
 }
 ];
