@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/tudastar", "destination": "/index.html" },
     { "source": "/tudastar/(.*)", "destination": "/index.html" }
   ]
 }
