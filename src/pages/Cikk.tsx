@@ -68,6 +68,9 @@ export default function Cikk() {
 </div>
 
       </div>
+      <div className="prose max-w-none whitespace-pre-line">
+  {cikk.content}
+</div>
     </section>
   );
 }
