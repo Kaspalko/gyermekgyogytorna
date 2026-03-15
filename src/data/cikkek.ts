@@ -670,5 +670,143 @@ World Health Organization (2006). WHO Motor Development Study: Windows of achiev
 
 Ayres, A. J. (2005). Sensory Integration and the Child.
 `
+},
+  {
+  slug: "percentilis-mit-jelent",
+  title: "Mit jelent a percentilis a gyermek fejlődésénél?",
+  description:
+    "Mit jelent a percentilis a gyermek fejlődésében, mikor mérik és mit jelez a növekedési görbe.",
+  image: "/images/percentilis.jpg",
+
+  date: "2026. március",
+  readingTime: "6 perc",
+content:`
+Mit jelent a percentilis a gyermek fejlődésénél?
+
+A percentilis fogalmával sok szülő találkozik a gyermekorvosi vizsgálatok során. A növekedési görbéken szereplő vonalak azonban első ránézésre nehezen értelmezhetők, ezért gyakran bizonytalanságot okoznak.
+A percentilis egy statisztikai mérőszám, amely segít összehasonlítani egy gyermek növekedését az azonos korú és nemű gyermekek növekedési adataival. A gyermekorvosok és más szakemberek így tudják nyomon követni, hogy a gyermek fejlődése a korosztályához képest hogyan alakul.
+
+A növekedési percentilis görbéket nagy, nemzetközi minták alapján készítették el, ezért jól mutatják a gyermekek növekedésének természetes változatosságát.
+
+
+Mit jelent pontosan egy percentilis érték?
+
+A percentilis azt mutatja meg, hogy egy gyermek adott mérési értéke hol helyezkedik el az azonos korú gyermekek adatai között.
+Például ha egy gyermek az 50. percentilisen helyezkedik el testsúly vagy testmagasság alapján, akkor az azt jelenti, hogy az azonos korú gyermekek körülbelül fele kisebb, fele pedig nagyobb nála. Ez az átlag körüli értéknek felel meg.
+Ha egy gyermek például a 10. percentilisen van, akkor az azt jelenti, hogy az azonos korú gyermekek körülbelül 10%-a kisebb, és 90%-a nagyobb nála.
+
+Fontos hangsúlyozni, hogy a percentilis nem rangsor, és nem jelenti azt, hogy egy magasabb vagy alacsonyabb érték jobb vagy rosszabb lenne.
+
+
+Milyen percentilis tartomány tekinthető normálisnak?
+
+A növekedési görbéken általában a 3. és a 97. percentilis közötti tartományt tekintik normálisnak.
+Ez azt jelenti, hogy a gyermekek többsége ebben a tartományban helyezkedik el. Az ennél alacsonyabb vagy magasabb értékek nem feltétlenül jelentenek problémát, de ilyenkor a szakemberek gyakran alaposabban megvizsgálják a gyermek fejlődését.
+A legfontosabb szempont azonban nem az, hogy a gyermek pontosan melyik percentilisen van, hanem az, hogy a növekedése időben következetes legyen.
+
+
+Mi fontosabb a percentilisnél?
+
+A szakemberek számára a növekedési adatok értékelésénél a legfontosabb a növekedés mintázata.
+Ha egy gyermek például hosszabb időn keresztül a 25. percentilis körül fejlődik, az teljesen normális lehet.
+Az viszont figyelmet igényelhet, ha a gyermek:
+
+⋅ rövid idő alatt több percentilis görbét is átlép,
+⋅ a növekedési ütem hirtelen lelassul vagy felgyorsul,
+⋅ az érték jelentősen eltér a korábbi fejlődési mintájától.
+
+Ilyenkor a gyermekorvos további vizsgálatokat javasolhat.
+
+
+Milyen tényezők befolyásolják a percentilis értékeket?
+
+A gyermek növekedése sok tényezőtől függ. A szakemberek a percentilis értékek értelmezésekor több szempontot is figyelembe vesznek, például:
+⋅ családi adottságokat,
+⋅ születési súlyt és terhességi kort,
+⋅ a gyermek táplálását,
+⋅ a mozgásfejlődést,
+⋅ és az általános egészségi állapotot.
+
+Ezért önmagában egy percentilis érték nem ad teljes képet a gyermek fejlődéséről.
+
+
+Mikor mérik a percentilist a gyermekeknél?
+
+A percentilis értékeket a gyermekorvosi ellenőrzések során határozzák meg. Ilyenkor a szakember megméri a gyermek:
+⋅ testsúlyát,
+⋅ testhosszát vagy testmagasságát,
+⋅ és fejkörfogatát (csecsemőknél).
+
+Ezeket az adatokat a növekedési görbéken ábrázolják, így láthatóvá válik a gyermek növekedésének alakulása.
+
+
+Milyen gyakran ellenőrzik a percentilist?
+
+A percentilis értékek ellenőrzésének gyakorisága az életkortól függ.
+
+
+Az első életévben a gyermek fejlődése nagyon gyors, ezért a mérések is gyakoribbak. A növekedési adatokat általában ellenőrzik:
+
+⋅ újszülöttkorban
+
+⋅ 1 hónapos korban
+
+⋅ 2–3 hónapos korban
+
+⋅ 4–6 hónapos korban
+
+⋅ 9 hónapos korban
+
+⋅ 12 hónapos korban.
+
+Ebben az időszakban különösen fontos a növekedés rendszeres követése.
+
+
+Kisgyermekkorban
+
+⋅ 1 és 3 éves kor között a gyermekorvosi ellenőrzések általában évente vagy félévente történnek, és ilyenkor szintén rögzítik a növekedési adatokat.
+
+
+Óvodás és iskolás korban
+
+⋅ Iskoláskorban a növekedést rendszerint évente egyszer ellenőrzik a gyermekorvosi vagy iskolaorvosi vizsgálatok során.
+
+
+Kamaszkorban
+
+⋅ A serdülőkorban jelentkező növekedési ugrás miatt a testmagasság és testsúly alakulását szintén rendszeresen követik, általában az éves orvosi vizsgálatok alkalmával.
+
+
+A percentilis és a fejlődés követése
+
+A percentilis görbék legnagyobb előnye, hogy segítenek nyomon követni a gyermek fejlődését hosszabb időn keresztül.
+Ha a gyermek növekedése következetesen egy adott görbe mentén halad, az általában egészséges fejlődésre utal.
+Ha azonban a növekedési mintázat jelentősen megváltozik, a szakemberek további vizsgálatokat javasolhatnak annak érdekében, hogy kizárják az esetleges problémákat.
+
+Összefoglalás
+
+A percentilis egy statisztikai eszköz, amely segít összehasonlítani a gyermek növekedését az azonos korú gyermekek adataival.
+A legfontosabb azonban nem az, hogy a gyermek pontosan melyik percentilisen helyezkedik el, hanem az, hogy a növekedése időben következetes legyen, és a gyermek általános fejlődése harmonikusan alakuljon.
+Ha a szülők bizonytalanok a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni, aki a növekedési adatokat a gyermek teljes fejlődési képének figyelembevételével értékeli.
+
+
+Felhasznált szakirodalom
+
+World Health Organization.
+WHO Child Growth Standards.
+https://www.who.int/tools/child-growth-standards
+
+de Onis M. et al. (2006).
+WHO Child Growth Standards based on length/height, weight and age.
+https://pubmed.ncbi.nlm.nih.gov/16817681/
+
+Centers for Disease Control and Prevention (CDC).
+Clinical Growth Charts.
+https://www.cdc.gov/growthcharts/
+
+WHO Multicentre Growth Reference Study Group (2006).
+WHO Motor Development Study: Windows of achievement for motor development.
+https://pubmed.ncbi.nlm.nih.gov/16904057/
+`
 }
 ];
