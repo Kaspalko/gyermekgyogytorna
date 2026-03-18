@@ -990,5 +990,120 @@ World Health Organization (2006). WHO Motor Development Study: Windows of achiev
 
 Pin, T., Eldridge, B., & Galea, M. (2007). Effects of play position on motor development in infants. Developmental Medicine & Child Neurology.
   `
+},
+  {
+  slug: "mikor-all-fel-a-baba",
+  title: "Mikor áll fel a baba?",
+  description:
+    "Mikor kezd felállni a baba kapaszkodva, milyen lépések előzik meg az állást és mikor érdemes gyógytornászhoz fordulni.",
+  image: "/images/baby-standing.jpg",
+  date: "2026. március",
+  readingTime: "6 perc",
+  content: `
+Mikor áll fel a baba?
+
+A felállás a csecsemők mozgásfejlődésének egyik fontos mérföldköve az első életévben. A legtöbb baba először bútorba vagy más stabil tárgyba kapaszkodva áll fel, majd később egyre hosszabb ideig képes állni és lépegetni.
+Fontos azonban tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik, ezért az állás megjelenésének időpontja is változhat.
+
+Mikor kezd el felállni a baba?
+
+A legtöbb csecsemő 8–12 hónapos kor között kezd el felállni kapaszkodva.
+A WHO nagymintás mozgásfejlődési vizsgálata szerint az állás kialakulása egy mozgásfejlődési „ablakon” belül jelenik meg, nem egyetlen fix időpontban. A gyermekek többsége ebben az időszakban jut el a bútor mellett történő felállásig és az első álló helyzetekig.
+Ez az időszak általában a következő fejlődési lépések után jelenik meg:
+
+⋅ kúszás
+⋅ mászás
+⋅ térdelés
+⋅ felhúzódás kapaszkodva.
+
+A kutatások szerint az állás kialakulása szorosan összefügg a törzsstabilitás, az alsó végtagi izomerő és az egyensúlyi kontroll fejlődésével. (Hadders-Algra, 2005)
+
+
+Hogyan tanul meg felállni a baba?
+
+A felállás általában nem hirtelen jelenik meg. A baba több lépésen keresztül jut el ehhez a mozgáshoz.
+
+⋅ Kapaszkodás - A baba először bútorokba vagy a szülő kezébe kapaszkodva húzza fel magát.
+
+⋅ Térdelésből felhúzódás - A mászó helyzetből gyakran térdelésen keresztül jut el a felállásig.
+
+⋅ Oldalazó lépegetés - Sok baba az állás után hamar elkezd bútor mellett oldalazva lépegetni.
+
+Ez a folyamat része annak a motoros tanulásnak, amely során a gyermek fokozatosan fejleszti az egyensúlyát és a testkontrollját. (Adolph & Berger, 2006)
+
+
+Mi szükséges az állás kialakulásához?
+
+A stabil álláshoz több képesség összehangolt működése szükséges.
+
+⋅ Törzsstabilitás - A törzs izmainak megfelelő ereje lehetővé teszi a test megtartását álló helyzetben.
+⋅ Alsó végtagi izomerő - A lábak izmai biztosítják, hogy a baba megtartsa a testsúlyát.
+⋅ Egyensúlyi kontroll - A baba folyamatosan apró korrekciókat végez, hogy megtartsa az egyensúlyát.
+⋅ Szenzoros információk - A látás, a testhelyzet érzékelése és a vestibuláris rendszer együtt segítik a stabil testtartást.
+
+A kutatások szerint az állás kialakulása komplex idegrendszeri és mozgásos folyamat, amely a posturális kontroll fejlődésével párhuzamosan alakul ki. (Hadders-Algra, 2005)
+
+
+Normális, ha a baba sokat esik?
+
+Igen.
+
+A felállás és a járás tanulása során a baba gyakran elveszíti az egyensúlyát és elesik. Ez a motoros tanulás természetes része.
+
+A mozgás fejlődése során a gyermek folyamatosan gyakorolja az egyensúly megtartását, és a tapasztalatok segítségével egyre stabilabbá válik az állása és a járása. (Adolph, Vereijken & Shrout, 2003)
+
+
+Mit tehetnek a szülők a fejlődés támogatásáért?
+
+⋅ A baba mozgásfejlődését a környezet és a mindennapi tevékenységek is segíthetik.
+⋅ Érdemes biztosítani sok szabad mozgást a talajon.
+⋅ A stabil bútorok lehetőséget adnak a baba számára a kapaszkodásra.
+⋅ A játékok elhelyezése motiválhatja a babát a mozgásra.
+
+A szakirodalom hangsúlyozza, hogy a mozgásfejlődés leginkább szabad mozgáson és gyakorláson keresztül fejlődik. (Adolph & Robinson, 2015)
+
+
+Mikor érdemes gyógytornászhoz fordulni?
+
+Érdemes szakemberrel konzultálni, ha:
+
+⋅ a baba 12 hónapos kor körül sem próbál felállni kapaszkodva,
+⋅ a mozgás feltűnően aszimmetrikus,
+⋅ a baba nem használja egyformán a két oldalát,
+⋅ a gyermek nem próbál helyzetet változtatni a talajon,
+⋅ vagy a mozgásfejlődés más területein is elmaradás látható.
+
+A korai mozgásvizsgálat segíthet megítélni, hogy a fejlődés az egyéni variáción belül zajlik-e, vagy szükség van-e célzott mozgásfejlesztésre.
+
+
+Összefoglalás
+
+A legtöbb baba 8–12 hónapos kor között kezd el felállni kapaszkodva. A felállás kialakulása több mozgásfejlődési lépés – például a kúszás, mászás és térdelés – után jelenik meg, és szorosan összefügg a törzsstabilitás, az izomerő és az egyensúly fejlődésével.
+
+A mozgásfejlődés természetes variabilitást mutat, ezért az egyéni eltérések gyakoriak. Ha azonban a felállás tartósan nem jelenik meg, vagy a mozgás feltűnően aszimmetrikus, érdemes szakemberhez fordulni.
+
+
+Felhasznált szakirodalom
+
+WHO Multicentre Growth Reference Study Group.
+Windows of achievement for six gross motor development milestones.
+PubMed: https://pubmed.ncbi.nlm.nih.gov/16817682/
+
+Adolph KE, Berger SE.
+Motor development. Handbook of Child Psychology.
+PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC3050596/
+
+Adolph KE, Vereijken B, Shrout PE.
+What changes in infant walking and why.
+PubMed: https://pubmed.ncbi.nlm.nih.gov/12783655/
+
+Hadders-Algra M.
+Development of postural control during the first 18 months of life.
+PubMed: https://pubmed.ncbi.nlm.nih.gov/16139718/
+
+Adolph KE, Robinson SR.
+The road to walking.
+PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4514742/
+  `
 }
 ];
