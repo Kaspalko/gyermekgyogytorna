@@ -1105,5 +1105,129 @@ Adolph KE, Robinson SR.
 The road to walking.
 PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4514742/
   `
-}
+},
+  {
+  slug: "mikor-kezd-jarni-a-baba",
+  title: "Mikor kezd el járni a baba?",
+  description:
+    "Mikor kezd járni a baba, milyen mozgásfejlődési lépések előzik meg az első lépéseket és mikor érdemes szakemberhez fordulni.",
+  image: "/images/baby-walk.jpg",
+
+  date: "2026. március",
+  readingTime: "6 perc",
+
+  content: `
+Mikor kezd el járni a baba?
+
+A baba első önálló lépései sok szülő számára különleges pillanatot jelentenek. Gyakran felmerül azonban a kérdés: mikor számít „időben” járni a baba, és mikor érdemes szakemberhez fordulni?
+Fontos tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik. A járás kialakulása egy hosszabb fejlődési folyamat része, amely során a baba fokozatosan tanulja meg irányítani a testét, megtartani az egyensúlyát és koordinálni a mozgásait.
+
+
+Mikor kezd el járni a baba?
+
+A legtöbb baba 12–15 hónapos kor között kezd el önállóan járni.
+A nagymintás nemzetközi vizsgálatok – például a WHO mozgásfejlődési kutatása – azt mutatják, hogy a járás kialakulása 9 és 18 hónapos kor között teljesen normális tartományon belül lehet.
+Ez azt jelenti, hogy egyes gyermekek már korábban megteszik az első lépéseiket, míg másoknak több időre van szükségük.
+
+A mozgásfejlődés természetes variabilitást mutat, ezért önmagában a járás megjelenésének pontos időpontja nem feltétlenül jelzi a gyermek fejlődésének minőségét. Sokkal fontosabb, hogy a fejlődés fokozatos és egymásra épülő lépésekből álljon.
+
+
+Mi előzi meg a járást?
+
+Az önálló járás előtt több mozgásfejlődési lépés jelenik meg. Ezek segítik a baba izmainak, egyensúlyának és testkontrolljának fejlődését.
+A járás kialakulását általában az alábbi mozgások előzik meg:
+
+⋅ Kúszás és mászás - A helyváltoztató mozgások segítik a törzs stabilitását és az izomerő fejlődését. A mászás során a baba keresztmintázatban mozgatja a végtagjait, ami fontos szerepet játszik az idegrendszer fejlődésében.
+
+⋅ Kapaszkodva felállás - A baba bútorokba vagy a szülő kezébe kapaszkodva húzza fel magát. Ez a mozgás erősíti a lábizmokat és fejleszti az egyensúlyi reakciókat.
+
+⋅ Oldalazó lépegetés - Sok baba a bútorok mellett kapaszkodva kezd el oldalazni. Ez az úgynevezett „cruising” mozgásforma segíti az önálló járás előkészítését.
+
+⋅ Rövid ideig tartó önálló állás - A baba egyre hosszabb ideig képes megtartani az egyensúlyát kapaszkodás nélkül.
+
+Ezek a mozgások mind fontos lépcsőfokai az önálló járás kialakulásának.
+
+
+Mi szükséges a járás kialakulásához?
+
+A járás egy összetett mozgásforma, amely több rendszer együttműködését igényli.
+
+⋅ Törzsstabilitás
+⋅ A törzs izmainak megfelelő ereje segíti a test stabil megtartását.
+⋅ Alsó végtagi izomerő
+⋅ A lábizmok biztosítják a testsúly megtartását és az előrehaladó mozgást.
+⋅ Egyensúlyi kontroll
+
+
+A baba folyamatosan apró korrekciókat végez a testével, hogy megtartsa az egyensúlyát.
+
+Szenzoros információk
+⋅ A látás, a testhelyzet érzékelése (propriocepció) és a belső fül egyensúlyi rendszere együtt segíti a mozgás koordinációját.
+⋅ A járás tanulása során a baba folyamatosan tapasztalatot szerez, és ezek a tapasztalatok segítik a mozgás egyre stabilabbá válását.
+
+
+Normális, ha a baba sokat elesik?
+
+Igen.
+
+Az elesés a járás tanulásának természetes része.
+A kutatások szerint a járni tanuló kisgyermekek naponta akár több száz lépést is megtehetnek, és gyakran elveszíthetik az egyensúlyukat. Ezek a tapasztalatok segítik a gyermek idegrendszerét abban, hogy egyre pontosabban szabályozza a mozgást.
+A gyakorlás és a mozgás közbeni tapasztalatszerzés kulcsfontosságú a stabil járás kialakulásában.
+
+
+Mit tehetnek a szülők a járás támogatásáért?
+
+A baba mozgásfejlődését leginkább a szabad mozgás segíti.
+Érdemes:
+
+• sok lehetőséget biztosítani a talajon történő mozgásra,
+• stabil bútorokat hagyni a baba számára kapaszkodáshoz,
+• játékokkal motiválni a mozgást,
+• és biztonságos környezetet kialakítani a gyakorláshoz.
+
+
+A szakemberek általában nem javasolják a babykomp használatát, mert ez megváltoztathatja a természetes mozgásmintákat és késleltetheti bizonyos mozgásfejlődési lépések kialakulását.
+
+
+Mikor érdemes szakemberhez fordulni?
+
+Érdemes gyermekorvossal vagy gyógytornásszal konzultálni, ha:
+
+• a gyermek 18 hónapos kor körül sem jár önállóan,
+• a mozgás feltűnően aszimmetrikus,
+• a baba nem próbál felállni vagy kapaszkodni,
+• a mozgásfejlődés más területein is elmaradás látható,
+• a szülők bizonytalanok a gyermek fejlődésével kapcsolatban.
+
+A korai mozgásvizsgálat segíthet megítélni, hogy a fejlődés az egyéni variáción belül zajlik-e, vagy szükség van-e támogatásra.
+
+
+Összefoglalás
+
+A legtöbb baba 12–15 hónapos kor között kezd el önállóan járni, de a normális fejlődési tartomány ennél szélesebb, körülbelül 9–18 hónap között.
+A járás kialakulását több mozgásfejlődési lépés előzi meg, például a mászás, a felállás és a bútor mellett történő lépegetés. A mozgásfejlődés természetes folyamat, amelyet leginkább a szabad mozgás és a gyakorlás támogat.
+Ha a szülők bizonytalanok a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni, aki segíthet megítélni a mozgásfejlődés alakulását.
+
+
+Felhasznált szakirodalom
+
+World Health Organization Multicentre Growth Reference Study Group (2006).
+Windows of achievement for six gross motor development milestones.
+https://pubmed.ncbi.nlm.nih.gov/16817682/
+
+Adolph, K. E., & Berger, S. E. (2006).
+Motor development. Handbook of Child Psychology.
+
+Adolph, K. E., Vereijken, B., & Shrout, P. E. (2003).
+What changes in infant walking and why.
+https://pubmed.ncbi.nlm.nih.gov/12783655/
+
+Adolph, K. E., & Robinson, S. R. (2015).
+The road to walking.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4514742/
+
+Hadders-Algra, M. (2005).
+Development of postural control during the first 18 months of life.
+https://pubmed.ncbi.nlm.nih.gov/16139718
+`}
 ];
