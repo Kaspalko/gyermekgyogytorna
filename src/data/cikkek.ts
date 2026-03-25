@@ -1351,5 +1351,5 @@ Army Foot Survey – classic epidemiological study on flatfoot
 Dr. Kis Fanni –
 Nem biztos, hogy a lúdtalp önmagában diagnosztikus jelentőségű
 https://gyerekszoba.hu/kisgyerek/nem-biztos-hogy-a-ludtalp-onmagaban-diagnosztikus-jelentosegu-interju-dr-kis-fanni-mozgasszervi-rehabilitacios-szakorvosjelolttel/
-}`
+`}
 ];
