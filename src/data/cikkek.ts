@@ -1229,5 +1229,127 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC4514742/
 Hadders-Algra, M. (2005).
 Development of postural control during the first 18 months of life.
 https://pubmed.ncbi.nlm.nih.gov/16139718
-`}
+`},
+  {
+  slug: "ludtalp-gyermekkorban",
+  title: "Lúdtalp gyermekkorban – mikor normális és mikor érdemes foglalkozni vele?",
+  description:
+    "Mit jelent a lúdtalp gyermekkorban, mikor számít normálisnak a lapos láb és mikor érdemes szakemberhez fordulni.",
+  image: "/images/child-flatfoot.jpg",
+
+  date: "2026. március",
+  readingTime: "6 perc",
+ content: `
+Lúdtalp gyermekkorban – mikor normális és mikor érdemes foglalkozni vele?
+
+A lúdtalp az egyik leggyakrabban emlegetett ortopédiai eltérés gyermekkorban. Sok szülő aggódni kezd, amikor azt látja, hogy a gyermek talpa lapos, vagy az iskolai szűrővizsgálaton lúdtalpat említenek.
+Fontos azonban tudni, hogy a lapos lábboltozat gyermekkorban sok esetben a fejlődés természetes része, és nem feltétlenül jelent betegséget. A lábboltozat kialakulása hosszabb folyamat, amely a gyermek növekedésével párhuzamosan alakul.
+
+
+Mi az a lúdtalp?
+
+A lúdtalp (pes planus) a láb hosszanti boltozatának ellapulását jelenti, amikor a talp nagyobb felületen érintkezik a talajjal.
+Gyermekkorban leggyakrabban az úgynevezett flexibilis lúdtalp fordul elő. Ebben az esetben a boltozat terheléskor ellapul, de például lábujjhegyre álláskor újra megjelenik.
+A szakirodalom szerint a flexibilis lúdtalp a legtöbb kisgyermeknél fiziológiás állapot, és a lábboltozat a növekedés során fokozatosan alakul ki.
+
+
+Normális, ha a kisgyermeknek lapos a lába?
+
+Igen, sok esetben teljesen normális.
+Csecsemő- és kisgyermekkorban a talpboltozat még nem feltétlenül látható. Ennek egyik oka, hogy a talpon zsírszövet található, amely elfedi a boltozatot, valamint a láb izmai és szalagjai még fejlődésben vannak.
+A kutatások szerint a lábboltozat fejlődése fokozatos folyamat, és általában az iskoláskor elejére alakul ki stabilabban.
+A gyermekek jelentős részénél a lapos lábboltozat a növekedés során spontán módon rendeződik.
+
+A lúdtalp önmagában nem mindig jelent betegséget
+A szakemberek hangsúlyozzák, hogy a lapos láb önmagában nem feltétlenül diagnózis. A gyermek lábának megítélésekor több szempontot kell figyelembe venni.
+
+
+Ilyen például:
+
+• a láb mozgékonysága,
+• a sarok helyzete,
+• a járás mintája,
+• illetve jelentkezik-e fájdalom vagy terhelési panasz.
+
+Ahogy egy szakértői interjúban is kiemelik, a lúdtalp önmagában nem feltétlenül jelent diagnosztikus jelentőségű eltérést. Továbbá mindig a gyermek teljes mozgásrendszerének vizsgálata szükséges.
+(Dr. Kis Fanni – Gyerekszoba.hu)
+
+
+Milyen gyakori a lúdtalp gyermekkorban?
+
+A flexibilis lúdtalp viszonylag gyakori jelenség kisgyermekkorban.
+Egy nagyobb vizsgálat szerint az óvodáskorú gyermekek körében a lapos láb előfordulása akár 40% körül is lehet, de az életkor előrehaladtával ez az arány jelentősen csökken.
+Ez azt mutatja, hogy a láb boltozata a fejlődés során fokozatosan alakul ki.
+
+
+Mi befolyásolhatja a lábboltozat fejlődését?
+
+A láb fejlődése több tényező együttműködésének eredménye.
+Ilyen tényezők lehetnek például:
+
+• a genetikai adottságok,
+• a szalagok állapota,
+• a testsúly,
+• a fizikai aktivitás,
+• és a láb izmainak ereje.
+
+A lábunk egy komplex biomechanikai rendszer, amelynek fontos szerepe van a test stabilitásában és a mozgás során fellépő erők elnyelésében.
+
+Mikor érdemes szakemberhez fordulni?
+
+A legtöbb gyermeknél a flexibilis lúdtalp tünetmentes, és nem igényel kezelést.
+Érdemes azonban ortopédiai vagy gyógytornász vizsgálatot kérni, ha:
+
+• a gyermeknek lábfájdalma van,
+• járás közben gyorsan elfárad,
+• a boka feltűnően befelé dől,
+• a láb merev, nem mozgatható,
+• járási eltérések jelennek meg.
+
+Ilyenkor a szakember a teljes mozgásrendszert vizsgálja.
+
+
+Mit tehetnek a szülők a láb fejlődésének támogatásáért?
+
+A szakirodalom szerint a láb fejlődését leginkább a természetes mozgás segíti.
+Érdemes például:
+
+• sok lehetőséget adni a mezítlábas mozgásra,
+• különböző felületeken járni,
+• elegendő szabad mozgást biztosítani,
+• megfelelő méretű és rugalmas cipőt választani.
+
+A cél az, hogy a láb izmai természetes módon erősödjenek, és a boltozatot az izmok tartsák.
+
+Összefoglalás
+
+A lúdtalp gyermekkorban gyakori jelenség, és sok esetben a fejlődés természetes része. A legtöbb gyermeknél a lábboltozat a növekedés során fokozatosan alakul ki.
+Önmagában a lapos láb nem feltétlenül jelent problémát. A legfontosabb az, hogy a gyermek fájdalommentesen mozogjon, és a láb funkciója megfelelő legyen.
+Ha azonban fájdalom vagy járási eltérés jelentkezik, érdemes szakemberhez fordulni.
+
+
+Felhasznált szakirodalom
+
+Mosca VS (2010)
+Flexible flatfoot in children and adolescents
+Journal of Children's Orthopaedics
+https://pubmed.ncbi.nlm.nih.gov/21455468/
+
+Pfeiffer M. et al. (2006)
+Prevalence of flat foot in preschool-aged children
+Pediatrics
+https://pubmed.ncbi.nlm.nih.gov/16882817/
+
+Evans AM (2008)
+The paediatric flat foot and general anthropometry in 140 Australian school children
+Journal of Foot and Ankle Research
+https://pubmed.ncbi.nlm.nih.gov/18822144/
+
+Harris RI, Beath T (1947)
+Army Foot Survey – classic epidemiological study on flatfoot
+
+Dr. Kis Fanni –
+Nem biztos, hogy a lúdtalp önmagában diagnosztikus jelentőségű
+https://gyerekszoba.hu/kisgyerek/nem-biztos-hogy-a-ludtalp-onmagaban-diagnosztikus-jelentosegu-interju-dr-kis-fanni-mozgasszervi-rehabilitacios-szakorvosjelolttel/
+}
 ];
