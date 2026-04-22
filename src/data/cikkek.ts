@@ -1353,11 +1353,11 @@ Nem biztos, hogy a lúdtalp önmagában diagnosztikus jelentőségű
 https://gyerekszoba.hu/kisgyerek/nem-biztos-hogy-a-ludtalp-onmagaban-diagnosztikus-jelentosegu-interju-dr-kis-fanni-mozgasszervi-rehabilitacios-szakorvosjelolttel/
 `},
    {
-    slug: "Pedagógiai szakszolgálat",
-    title: "A pedagógiaia szakszolgálatok szerepe a gyermek fejlődésében",
+    slug: "pedagogiai-szakszolgalat-gyermek-fejlodes",
+    title: "Pedagógiai szakszolgálat útmutató szülőknek – mikor, hogyan, kinek?",
     description:
-      "Mi a pedagógiai szakszolgálatok szerepe a gyermekek fejlődésében.",
-    image: "/korai_fejlesztés.jpg",
+      "Mit csinál a pedagógiai szakszolgálat? Hány éves kortól vehető igénybe, milyen vizsgálatok vannak, és hogyan lehet bekerülni? Részletes útmutató szülőknek.",
+    image: "/images/korai_fejlesztés.jpg",
 
     date: "2026. április",
     readingTime: "5 perc",
