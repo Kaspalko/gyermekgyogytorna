@@ -10,72 +10,73 @@ export default function Registration() {
 
           <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-6">
 
-          <form
-  action="https://formspree.io/f/mlgaznyv"
-  method="POST"
-  className="space-y-4"
->
+            <form
+              action="https://formspree.io/f/mlgaznyv"
+              method="POST"
+              className="space-y-4"
+            >
 
-  <input
-    type="hidden"
-    name="_next"
-    value="https://www.gyermekgyt-bp.hu/koszonjuk"
-  />
+              {/* átirányítás */}
+              <input
+                type="hidden"
+                name="_next"
+                value="https://www.gyermekgyt-bp.hu/koszonjuk"
+              />
 
-  <input
-    type="hidden"
-    name="_subject"
-    value="Új jelentkezés a weboldalról"
-  />
-            <input
-  type="hidden"
-  name="_replyto"
-  value="%email%"
-/>
+              {/* email tárgy */}
+              <input
+                type="hidden"
+                name="_subject"
+                value="Új jelentkezés a weboldalról"
+              />
 
-  <input
-    type="text"
-    name="name"
-    placeholder="Név"
-    required
-    className="w-full p-3 rounded-xl border"
-  />
+              {/* név */}
+              <input
+                type="text"
+                name="name"
+                placeholder="Név"
+                required
+                className="w-full p-3 rounded-xl border"
+              />
 
-  <input
-    type="email"
-    name="email"
-    placeholder="Email"
-    required
-    className="w-full p-3 rounded-xl border"
-  />
+              {/* email */}
+              <input
+                type="email"
+                name="email"
+                placeholder="Email"
+                required
+                className="w-full p-3 rounded-xl border"
+              />
 
-  <input
-    type="tel"
-    name="phone"
-    placeholder="Telefonszám"
-    className="w-full p-3 rounded-xl border"
-  />
-           
+              {/* telefon */}
+              <input
+                type="tel"
+                name="phone"
+                placeholder="Telefonszám"
+                className="w-full p-3 rounded-xl border"
+              />
 
-  <textarea
-    name="message"
-    placeholder="Miben tudok segíteni?"
-    rows={4}
-    className="w-full p-3 rounded-xl border"
-  />
+              {/* üzenet */}
+              <textarea
+                name="message"
+                placeholder="Miben tudok segíteni?"
+                rows={4}
+                className="w-full p-3 rounded-xl border"
+              />
 
-  <p className="text-sm text-gray-500 text-center">
-    24 órán belül visszahívom
-  </p>
+              <p className="text-sm text-gray-500 text-center">
+                24 órán belül visszahívom
+              </p>
 
-  <button
-    type="submit"
-    className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
-  >
-    Jelentkezem
-  </button>
+              {/* gomb */}
+              <button
+                type="submit"
+                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
+              >
+                Jelentkezem
+              </button>
 
-</form>
+            </form>
 
           </div>
         </div>
