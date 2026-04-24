@@ -27,6 +27,11 @@ export default function Registration() {
     name="_subject"
     value="Új jelentkezés a weboldalról"
   />
+            <input
+  type="hidden"
+  name="_replyto"
+  value="%email%"
+/>
 
   <input
     type="text"
@@ -50,6 +55,7 @@ export default function Registration() {
     placeholder="Telefonszám"
     className="w-full p-3 rounded-xl border"
   />
+           
 
   <textarea
     name="message"
