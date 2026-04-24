@@ -11,7 +11,7 @@ export default function Registration() {
           <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-6">
 
           <form
-  action="https://formspree.io/f/mlgznvyr"
+  action="https://formspree.io/f/mlgaznyv"
   method="POST"
   className="space-y-4"
 >
