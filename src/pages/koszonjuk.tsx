@@ -1,4 +1,4 @@
-export default function Koszonjuk() {
+export default function koszonjuk() {
   return (
     <div className="max-w-2xl mx-auto px-4 pt-32 pb-20 text-center">
 
