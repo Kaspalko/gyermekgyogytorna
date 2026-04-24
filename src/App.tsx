@@ -12,6 +12,7 @@ import Footer from "./components/Footer";
 import Tudastar from "./pages/Tudastar";
 import BlogPreview from "./components/BlogPreview";
 import Cikk from "./pages/Cikk";
+import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 
 function Home() {
   return (
