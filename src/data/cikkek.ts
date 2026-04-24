@@ -231,6 +231,20 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 
 <p>Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle.</p>
 
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
+<p>
+Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
+<a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
+</p>
+
 
 `
   },
@@ -442,22 +456,29 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
     },
       {
   slug: "ferde-fejtartas-torticollis",
-  title: "Ferde fejtartás (torticollis) csecsemőknél",
-  description: "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
+  title: "Ferdenyak (torticollis) babáknál – tünetek és kezelés",
+  description: "Mit jelent a ferde fejtartás vagy ferdenyak babáknál? Tünetek, okok és hatékony kezelés gyógytornával. Mikor kell szakemberhez fordulni?",
   image: "/images/baba-torticollis.jpg",
 
   date: "2026. március",
   readingTime: "6 perc",
   content: `
-    <h2>Ferde fejtartás (torticollis) csecsemőknél - okok, tunetek es kezeles</h2>
+    <h2>Ferdenyak (torticollis) csecsemőknél - okok, tünetek es kezelés</h2>
     
-  <p>A ferde fejtartás, orvosi nevén torticollis, egy viszonylag gyakori állapot csecsemőknél, amely során a baba feje az egyik oldalra billen, miközben az áll az ellenkező irányba fordul.</p>
+  <p>A ferdenyak, orvosi nevén torticollis, egy viszonylag gyakori állapot csecsemőknél, amely során a baba feje az egyik oldalra billen, miközben az áll az ellenkező irányba fordul.</p>
 
 <p>A jelenség hátterében legtöbbször a nyak egyik oldalán elhelyezkedő fejbiccentő izom (sternocleidomastoideus) rövidülése vagy feszessége áll.</p>
 
 <p>A torticollis már születés után röviddel észrevehető lehet, de sok esetben csak az első hetekben válik feltűnővé. A korai felismerés és a megfelelő terápia kulcsfontosságú, mert időben kezelve az esetek nagy részében jól korrigálható.</p>
 
 <h2>Mi az a torticollis?</h2>
+
+<p><strong>Rövid válasz:</strong> A ferdenyak (torticollis) csecsemőknél a nyak egyik oldalának feszessége miatt alakul ki. A baba feje oldalra billen, az áll az ellenkező irányba fordul. Korai gyógytornával az esetek többsége jól kezelhető.</p>
+
+<p>
+A ferde fejtartás gyakran összefügg a baba mozgásfejlődésével, amelyről itt olvashat részletesen:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <p>A torticollis szó latin eredetű:</p>
 
@@ -575,7 +596,7 @@ Egyéni vizsgálat és kezelés elérhető például
 
 <ul>
 <li>játékok elhelyezése az érintett oldal felé</li>
-<li>hason fekvés gyakorlása</li>
+<li><a href="/tudastar/hason-fekves">hason fekvés gyakorlása</a></li>
 <li>vizuális és hang inger használata</li>
 <li>oldalváltás etetéskor</li>
 <li>szimmetrikus hordozás</li>
@@ -597,11 +618,37 @@ Egyéni vizsgálat és kezelés elérhető például
 
 <p>Ha a baba tartósan egy irányba fordítja a fejét, érdemes szakemberhez fordulni.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Kinövi a baba a torticollist?</strong><br>
+Enyhébb esetek javulhatnak, de legtöbbször célzott gyógytorna szükséges.</p>
+
+<p><strong>Mikor kell orvoshoz fordulni?</strong><br>
+Ha a baba tartósan egy irányba néz, vagy nem tudja szabadon mozgatni a fejét.</p>
+
+<p><strong>Mennyi idő alatt javul?</strong><br>
+Korai kezelés esetén néhány hét–hónap alatt jelentős javulás érhető el.</p>
+
 <h2>Felhasznált szakirodalom</h2>
 
 <p>Kaplan SL, Coulter C, Sargent B. Clinical Practice Guideline: Congenital Muscular Torticollis. Pediatric Physical Therapy.</p>
 <p>Sargent B. et al. Physical Therapy Management of Congenital Muscular Torticollis - Clinical Practice Guideline (2024).</p>
 <p>StatPearls - Congenital Muscular Torticollis NCBI</p>
+
+
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
+<p>
+Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
+<a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
+</p>
 `
 },
   {
@@ -615,21 +662,28 @@ Egyéni vizsgálat és kezelés elérhető például
  content:` 
 <h2>Mikor kezd mászni a baba?</h2>
 
+<p><strong>Rövid válasz:</strong> A legtöbb baba 6–10 hónapos kor között kezd el mászni. A mászás fontos szerepet játszik az idegrendszer, a koordináció és a testkontroll fejlődésében, de kisebb eltérések teljesen normálisak.</p>
+
 <p>A mászás a csecsemők mozgásfejlődésének egyik fontos állomása. Bár minden gyermek saját ütemben fejlődik, a legtöbb baba 6–10 hónapos kor között kezd el mászni.</p>
 
 <p>A mászás nemcsak a helyváltoztatást jelenti, hanem az idegrendszer, az izomzat és a koordináció fejlődésének fontos része is.</p>
 
 <p>A szakirodalom szerint a mászás során a baba keresztmintázatban mozgatja a végtagjait: a jobb kéz a bal lábbal, illetve a bal kéz a jobb lábbal együtt mozdul. Ez a mozgásminta jelentős szerepet játszik az agyféltekék összehangolt működésében.</p>
 
+<p>
+A mászás a teljes mozgásfejlődés része, amelyről itt olvashat részletesen:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
+
 <h2>Mi előzi meg a mászást?</h2>
 
 <p>A mászás előtt több mozgásfejlődési lépcső jelenik meg, amelyek előkészítik ezt a képességet.</p>
 
 <ul>
-<li><strong>Hason fekvés</strong> – erősíti a nyak és törzs izmait</li>
+<li><strong><a href="/tudastar/hason-fekves">Hason fekvés</a></strong> – erősíti a nyak és törzs izmait</li>
 <li><strong>Támaszkodás karokon</strong> – 4–6 hónapos kor körül jelenik meg</li>
 <li><strong>Gurulás és fordulás</strong> – fejleszti az egyensúlyt</li>
-<li><strong>Kúszás</strong> – előkészíti a helyváltoztató mozgást</li>
+<li><strong>Kúszás</strong> – előkészíti a helyváltoztató mozgást (erről itt: <a href="/tudastar/kuszas">kúszás</a>)</li>
 </ul>
 
 <p>Ezek a mozgások segítik a vállöv, a törzs és a csípő stabilitását.</p>
@@ -663,6 +717,11 @@ Egyéni vizsgálat és kezelés elérhető például
 <p>Ha a mozgás tartósan aszimmetrikus, érdemes szakemberhez fordulni.</p>
 
 <p>
+A mozgásfejlődési eltérések korai felismeréséről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
+
+<p>
 Szükség esetén egyéni vizsgálat segíthet, például 
 <a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a>.
 </p>
@@ -690,12 +749,37 @@ Szükség esetén egyéni vizsgálat segíthet, például
 
 <p>Ha a fejlődés eltér a megszokottól, a korai felismerés és a megfelelő támogatás segítheti a gyermek harmonikus fejlődését.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Mi van, ha a baba nem mászik?</strong><br>
+Előfordulhat, hogy a baba kihagyja a mászást, de ilyenkor érdemes figyelni a mozgás minőségét és szükség esetén szakemberhez fordulni.</p>
+
+<p><strong>Normális, ha a baba fenéken csúszik?</strong><br>
+Igen, egyes babák ezt a mozgásformát választják, de fontos a szimmetria és a megfelelő izomhasználat.</p>
+
+<p><strong>Mikor kell aggódni?</strong><br>
+Ha a baba nem mozog előre 10 hónapos kor körül, vagy a mozgás aszimmetrikus.</p>
+
 <h2>Felhasznált szakirodalom</h2>
 
 <p>Adolph & Berger (2006)</p>
 <p>Kaplan et al. (2018)</p>
 <p>WHO Motor Development Study (2006)</p>
 <p>Ayres (2005)</p>
+
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
+<p>
+Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
+<a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
+</p>
 `
 },
   {
