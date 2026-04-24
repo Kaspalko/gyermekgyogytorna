@@ -79,7 +79,7 @@ export default function GyermekGyogytornaBudapest() {
         </p>
 
         <a
-          href="mailto:email@pelda.hu"
+          href="mailto:pal.kasparek@gmail.com"
           className="inline-block bg-white text-black px-6 py-3 rounded-xl font-semibold hover:bg-gray-200 transition"
         >
           Időpontot kérek
