@@ -612,7 +612,7 @@ Egyéni vizsgálat és kezelés elérhető például
   image: "/images/baba-maszas.jpg",
   date: "2026. március",
   readingTime: "7 perc",
- content: 
+ content:` 
 <h2>Mikor kezd mászni a baba?</h2>
 
 <p>A mászás a csecsemők mozgásfejlődésének egyik fontos állomása. Bár minden gyermek saját ütemben fejlődik, a legtöbb baba 6–10 hónapos kor között kezd el mászni.</p>
