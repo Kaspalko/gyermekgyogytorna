@@ -1,34 +1,47 @@
+import { useState } from "react";
+
 export default function Registration() {
+  const [status, setStatus] = useState("");
+
+  const handleSubmit = async (e: any) => {
+    e.preventDefault();
+
+    const formData = new FormData(e.target);
+
+    const res = await fetch("https://formspree.io/f/mlgaznyv", {
+      method: "POST",
+      body: formData,
+      headers: {
+        Accept: "application/json",
+      },
+    });
+
+    if (res.ok) {
+      window.location.href = "/koszonjuk";
+    } else {
+      setStatus("Hiba történt, próbáld újra.");
+    }
+  };
+
   return (
     <section id="jelentkezes" className="py-20 bg-amber-50">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto">
 
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-10">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">
             Jelentkezés gyermek gyógytornára
           </h2>
 
-          <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-6">
+          <div className="bg-white rounded-2xl shadow-md p-6">
 
-            <form
-              action="https://formspree.io/f/mlgaznyv"
-              method="POST"
-              className="space-y-4"
-              onSubmit={() => {
-                setTimeout(() => {
-                  window.location.href = "/koszonjuk";
-                }, 500);
-              }}
-            >
+            <form onSubmit={handleSubmit} className="space-y-4">
 
-              {/* email tárgy */}
               <input
                 type="hidden"
                 name="_subject"
                 value="Új jelentkezés a weboldalról"
               />
 
-              {/* név */}
               <input
                 type="text"
                 name="name"
@@ -37,7 +50,6 @@ export default function Registration() {
                 className="w-full p-3 rounded-xl border"
               />
 
-              {/* email */}
               <input
                 type="email"
                 name="email"
@@ -46,7 +58,6 @@ export default function Registration() {
                 className="w-full p-3 rounded-xl border"
               />
 
-              {/* telefon */}
               <input
                 type="tel"
                 name="phone"
@@ -54,7 +65,6 @@ export default function Registration() {
                 className="w-full p-3 rounded-xl border"
               />
 
-              {/* üzenet */}
               <textarea
                 name="message"
                 placeholder="Miben tudok segíteni?"
@@ -62,17 +72,16 @@ export default function Registration() {
                 className="w-full p-3 rounded-xl border"
               />
 
-              <p className="text-sm text-gray-500 text-center">
-                24 órán belül visszahívom
-              </p>
-
-              {/* gomb */}
               <button
                 type="submit"
-                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
+                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold"
               >
                 Jelentkezem
               </button>
+
+              {status && (
+                <p className="text-red-500 text-center">{status}</p>
+              )}
 
             </form>
 
