@@ -10,73 +10,88 @@ export const cikkek = [
     readingTime: "3 perc",
 
     content: `
-Korai jelek a baba mozgásfejlődésében – mire figyeljen a szülő?
+<h2>Korai jelek a baba mozgásfejlődésében – mire figyeljen a szülő?</h2>
 
-A csecsemők mozgásfejlődése egyéni ütemben zajlik, ugyanakkor vannak olyan jelek, amelyekre érdemes odafigyelni. A korai felismerés segíthet abban, hogy szükség esetén időben támogatást kapjon a gyermek.
+<p>A csecsemők mozgásfejlődése egyéni ütemben zajlik, ugyanakkor vannak olyan jelek, amelyekre érdemes odafigyelni. A korai felismerés segíthet abban, hogy szükség esetén időben támogatást kapjon a gyermek.</p>
 
+<h2>Mire érdemes figyelni a mozgásfejlődés során?</h2>
 
-Mire érdemes figyelni a mozgásfejlődés során?
+<p>A fejlődés nem minden esetben zajlik teljesen egyformán, de bizonyos eltérések esetén érdemes szakember véleményét kérni.</p>
 
-A fejlődés nem minden esetben zajlik teljesen egyformán, de bizonyos eltérések esetén érdemes szakember véleményét kérni.
-Ilyen jelek lehetnek például:
+<p>Ilyen jelek lehetnek például:</p>
 
-⋅ a baba nem fordul meg a várható időszakban,
-⋅ kimarad a kúszás vagy mászás,
-⋅ a mozgás aszimmetrikus (az egyik oldalát jobban használja),
-⋅ túl feszesnek vagy éppen túl lazának tűnik a baba izomzata,
-⋅ nehezen tartja a fejét vagy a törzsét.
+<ul>
+<li>a baba nem fordul meg a várható időszakban</li>
+<li>kimarad a kúszás vagy mászás</li>
+<li>a mozgás aszimmetrikus (az egyik oldalát jobban használja)</li>
+<li>túl feszesnek vagy éppen túl lazának tűnik a baba izomzata</li>
+<li>nehezen tartja a fejét vagy a törzsét</li>
+</ul>
 
-Ezek önmagukban még nem feltétlenül jelentenek problémát, de iránymutatást adhatnak arra, hogy érdemes közelebbről is megfigyelni a fejlődést.
+<p>Ezek önmagukban még nem feltétlenül jelentenek problémát, de iránymutatást adhatnak arra, hogy érdemes közelebbről is megfigyelni a fejlődést.</p>
 
-Mikor érdemes szakemberhez fordulni?
+<h2>Mikor érdemes szakemberhez fordulni?</h2>
 
-Ha a szülő bizonytalan, vagy úgy érzi, hogy a gyermek fejlődése eltér a megszokottól, érdemes időben szakemberhez fordulni. Egy vizsgálat segíthet tisztázni, hogy a fejlődés a normál tartományon belül van-e, vagy szükség van támogatásra.
-Ilyen esetekben a gyermek állapotához igazított, egyéni megközelítés segíthet a további fejlődés támogatásában.
-Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember segítséget nyújthat a helyzet pontos megítélésében, például gyermek gyógytorna Budapesten keretében.
+<p>Ha a szülő bizonytalan, vagy úgy érzi, hogy a gyermek fejlődése eltér a megszokottól, érdemes időben szakemberhez fordulni. Egy vizsgálat segíthet tisztázni, hogy a fejlődés a normál tartományon belül van-e, vagy szükség van támogatásra.</p>
 
+<p>Ilyen esetekben a gyermek állapotához igazított, egyéni megközelítés segíthet a további fejlődés támogatásában.</p>
 
-Miért fontos a korai felismerés?
+<p>
+Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember segítséget nyújthat a helyzet pontos megítélésében, például 
+<a href="/" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a> keretében.
+</p>
 
-A korai felismerés lehetőséget ad arra, hogy a gyermek a számára legmegfelelőbb támogatást kapja. Sok esetben már kisebb segítséggel is jól támogatható a fejlődés, különösen akkor, ha időben történik a beavatkozás.
-A cél nem az aggodalomkeltés, hanem az, hogy a szülő magabiztosabban tudja követni gyermeke fejlődését, és szükség esetén tudja, hova fordulhat.
+<h2>Miért fontos a korai felismerés?</h2>
 
-A diagnosztika: a gyermek állapotának alapos megismerése
+<p>A korai felismerés lehetőséget ad arra, hogy a gyermek a számára legmegfelelőbb támogatást kapja. Sok esetben már kisebb segítséggel is jól támogatható a fejlődés, különösen akkor, ha időben történik a beavatkozás.</p>
 
-Ha a szűrés során felmerül, hogy a gyermek fejlődése eltérhet az átlagostól, akkor részletesebb vizsgálatok következnek. Ezt nevezzük diagnosztikai folyamatnak.
-A modern szemlélet szerint a diagnosztika nem csupán egy címke felállítását jelenti. Sokkal inkább a gyermek teljes fejlődési profiljának megismerésére törekszik:
+<p>A cél nem az aggodalomkeltés, hanem az, hogy a szülő magabiztosabban tudja követni gyermeke fejlődését, és szükség esetén tudja, hova fordulhat.</p>
 
-⋅ hogyan mozog,
-⋅ hogyan kommunikál,
-⋅ hogyan érzékeli a világot,
-⋅ hogyan kapcsolódik másokhoz.
+<h2>A diagnosztika: a gyermek állapotának alapos megismerése</h2>
 
+<p>Ha a szűrés során felmerül, hogy a gyermek fejlődése eltérhet az átlagostól, akkor részletesebb vizsgálatok következnek. Ezt nevezzük diagnosztikai folyamatnak.</p>
 
-Ez a komplex állapotmegismerés segíti a szakembereket abban, hogy a gyermek számára leginkább megfelelő fejlesztést vagy támogatást tervezzék meg.
+<p>A modern szemlélet szerint a diagnosztika nem csupán egy címke felállítását jelenti. Sokkal inkább a gyermek teljes fejlődési profiljának megismerésére törekszik:</p>
 
-Milyen eszközökkel történik a vizsgálat?
+<ul>
+<li>hogyan mozog</li>
+<li>hogyan kommunikál</li>
+<li>hogyan érzékeli a világot</li>
+<li>hogyan kapcsolódik másokhoz</li>
+</ul>
 
-A gyermek fejlődésének megismerése többféle módszerrel történik. A szakemberek általában kombinálják az alábbiakat:
-⋅ megfigyelés a játék és a mindennapi helyzetek során,
-⋅ szülőkkel való beszélgetés, amely során fontos információk derülnek ki a gyermek fejlődéséről és viselkedéséről,
-⋅ fejlődési kérdőívek és tesztek,
-⋅ speciális vizsgálatok, például mozgás-, látás-, hallás- vagy kommunikációs területen.
-A vizsgálatok célja nem a gyermek „minősítése”, hanem annak megértése, hogy mire van szüksége a fejlődéséhez.
+<p>Ez a komplex állapotmegismerés segíti a szakembereket abban, hogy a gyermek számára leginkább megfelelő fejlesztést vagy támogatást tervezzék meg.</p>
 
-Mikor beszélünk fejlődési eltérésről?
+<h2>Milyen eszközökkel történik a vizsgálat?</h2>
 
-A gyermekek fejlődése természetesen nem teljesen egyforma: minden gyermeknek megvan a saját tempója. Előfordulhat azonban, hogy a fejlődés mennyiségében vagy minőségében eltérés tapasztalható.
-Mennyiségi eltérés esetén a gyermek ugyanazon fejlődési lépéseken halad, mint társai, de lassabb ütemben.
+<p>A gyermek fejlődésének megismerése többféle módszerrel történik. A szakemberek általában kombinálják az alábbiakat:</p>
 
-Minőségi eltérés esetén a fejlődés módja különbözik a megszokottól, például a mozgás, a kommunikáció vagy a viselkedés területén.
-Az ilyen jelek nem feltétlenül jelentenek komoly problémát, de mindenképpen érdemes szakemberrel megbeszélni őket. A legfontosabb, hogy a gyermek időben megkapja a fejlődését támogató segítséget.
+<ul>
+<li>megfigyelés a játék és a mindennapi helyzetek során</li>
+<li>szülőkkel való beszélgetés, amely során fontos információk derülnek ki a gyermek fejlődéséről és viselkedéséről</li>
+<li>fejlődési kérdőívek és tesztek</li>
+<li>speciális vizsgálatok, például mozgás-, látás-, hallás- vagy kommunikációs területen</li>
+</ul>
 
-A szülők szerepe
+<p>A vizsgálatok célja nem a gyermek „minősítése”, hanem annak megértése, hogy mire van szüksége a fejlődéséhez.</p>
 
-A szülők ismerik legjobban gyermeküket, ezért kulcsszerepük van a fejlődés nyomon követésében. Ha valami bizonytalanságot vagy kérdést vet fel, érdemes bátran szakemberhez fordulni.
+<h2>Mikor beszélünk fejlődési eltérésról?</h2>
 
-Összegzés
+<p>A gyermekek fejlődése természetesen nem teljesen egyforma: minden gyermeknek megvan a saját tempója. Előfordulhat azonban, hogy a fejlődés mennyiségében vagy minőségében eltérés tapasztalható.</p>
 
-A mozgásfejlődés egyéni folyamat, de bizonyos jelek esetén érdemes odafigyelni és szükség esetén szakember segítségét kérni. A korai támogatás hozzájárulhat ahhoz, hogy a gyermek a saját ütemében, megfelelően fejlődjön.
+<p>Mennyiségi eltérés esetén a gyermek ugyanazon fejlődési lépéseken halad, mint társai, de lassabb ütemben.</p>
+
+<p>Minőségi eltérés esetén a fejlődés módja különbözik a megszokottól, például a mozgás, a kommunikáció vagy a viselkedés területén.</p>
+
+<p>Az ilyen jelek nem feltétlenül jelentenek komoly problémát, de mindenképpen érdemes szakemberrel megbeszélni őket. A legfontosabb, hogy a gyermek időben megkapja a fejlődését támogató segítséget.</p>
+
+<h2>A szülők szerepe</h2>
+
+<p>A szülők ismerik legjobban gyermeküket, ezért kulcsszerepük van a fejlődés nyomon követésében. Ha valami bizonytalanságot vagy kérdést vet fel, érdemes bátran szakemberhez fordulni.</p>
+
+<h2>Összegzés</h2>
+
+<p>A mozgásfejlődés egyéni folyamat, de bizonyos jelek esetén érdemes odafigyelni és szükség esetén szakember segítségét kérni. A korai támogatás hozzájárulhat ahhoz, hogy a gyermek a saját ütemében, megfelelően fejlődjön.</p>
 `
   },
   {
