@@ -43,6 +43,9 @@ function App() {
   <Route path="/tudastar" element={<Tudastar />} />
 
   <Route path="/tudastar/:slug" element={<Cikk />} />
+           
+  <Route path="/gyermek-gyogytorna-budapest" element={<GyermekGyogytornaBudapest />}
+/>
 
 </Routes>
         </main>
