@@ -448,7 +448,6 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
 
   date: "2026. március",
   readingTime: "6 perc",
-
 content: `
 <h2>Ferde fejtartás (torticollis) csecsemőknél – okok, tünetek és kezelés</h2>
 
