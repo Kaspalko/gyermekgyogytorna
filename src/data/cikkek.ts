@@ -600,7 +600,7 @@ Egyéni vizsgálat és kezelés elérhető például
 <h2>Felhasznált szakirodalom</h2>
 
 <p>Kaplan SL, Coulter C, Sargent B. Clinical Practice Guideline: Congenital Muscular Torticollis. Pediatric Physical Therapy.</p>
-<p>Sargent B. et al. Physical Therapy Management of Congenital Muscular Torticollis – Clinical Practice Guideline (2024).</p>
+<p>Sargent B. et al. Physical Therapy Management of Congenital Muscular Torticollis - Clinical Practice Guideline (2024).</p>
 <p>StatPearls – Congenital Muscular Torticollis (NCBI)</p>
 `
 },
