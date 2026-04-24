@@ -10,7 +10,7 @@ export default function Registration() {
 
           <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-4">
             <iframe
-              src="https://docs.google.com/forms/d/e/1FAIpQLScb1msYR5ATpmfXJ-A16C_bQspjxoqHaMYHYIkVnNGtHfBM4g/viewform?embedded=true"
+              src="<form action="https://formspree.io/f/TE_LINKED" method="POST">"
               width="100%"
               height="1200"
               className="rounded-xl"
