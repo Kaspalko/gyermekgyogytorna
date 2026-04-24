@@ -10,17 +10,17 @@ export default function Registration() {
 
           <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-6">
 
-           <form
+          <form
   action="https://formspree.io/f/mlgznvyr"
   method="POST"
   className="space-y-4"
 >
 
- <input
-  type="hidden"
-  name="_next"
-  value="https://www.gyermekgyt-bp.hu/koszonjuk"
-/>
+  <input
+    type="hidden"
+    name="_next"
+    value="https://www.gyermekgyt-bp.hu/koszonjuk"
+  />
 
   <input
     type="hidden"
@@ -28,43 +28,48 @@ export default function Registration() {
     value="Új jelentkezés a weboldalról"
   />
 
-              <input
-                type="text"
-                name="name"
-                placeholder="Név"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+  <input
+    type="text"
+    name="name"
+    placeholder="Név"
+    required
+    className="w-full p-3 rounded-xl border"
+  />
 
-              <input
-                type="email"
-                name="email"
-                placeholder="Email"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+  <input
+    type="email"
+    name="email"
+    placeholder="Email"
+    required
+    className="w-full p-3 rounded-xl border"
+  />
 
-              <input
-                type="tel"
-                name="phone"
-                placeholder="Telefonszám"
-                className="w-full p-3 rounded-xl border"
-              />
+  <input
+    type="tel"
+    name="phone"
+    placeholder="Telefonszám"
+    className="w-full p-3 rounded-xl border"
+  />
 
-              <textarea
-                name="message"
-                placeholder="Miben tudok segíteni?"
-                rows={4}
-                className="w-full p-3 rounded-xl border"
-              />
+  <textarea
+    name="message"
+    placeholder="Miben tudok segíteni?"
+    rows={4}
+    className="w-full p-3 rounded-xl border"
+  />
 
-              <button
-                type="submit"
-                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
-              >
-                Jelentkezem
-              </button>
-            </form>
+  <p className="text-sm text-gray-500 text-center">
+    24 órán belül visszahívlak
+  </p>
+
+  <button
+    type="submit"
+    className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
+  >
+    Jelentkezem
+  </button>
+
+</form>
 
           </div>
         </div>
