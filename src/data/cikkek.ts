@@ -438,8 +438,8 @@ Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a han
 Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
 <a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
 </p>
+   ` 
     },
-    `
       {
   slug: "ferde-fejtartas-torticollis",
   title: "Ferde fejtartás (torticollis) csecsemőknél",
