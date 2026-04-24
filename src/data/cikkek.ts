@@ -1003,7 +1003,7 @@ is segíthet a pontos megítélésben.
 `},
     {
   slug: "mikor-fordul-at-a-baba",
-  title: "Mikor fordul át a baba?",
+  title: "Mikor fordul át a baba? (4–6 hónapos kor, jelek és tudnivalók)",
   description:
     "Mikor fordul át a baba először, mi előzi meg az átfordulást és mikor érdemes szakemberhez fordulni.",
   image: "/images/forgas.jpg",
@@ -1252,9 +1252,6 @@ A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudast
 
 <p>Pin, T., Eldridge, B., & Galea, M. (2007). Effects of play position on motor development in infants. Developmental Medicine & Child Neurology.</p>
 
-
-<h2>Mikor érdemes szakemberhez fordulni?</h2>
-
 <p>Ha bizonytalan a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni.</p>
 
 <p>
@@ -1265,7 +1262,6 @@ gyermek gyógytorna Budapesten
 is segíthet a pontos megítélésben.
 </p>
 
-<p><strong>A cikket készítette:</strong> [Kasparek Pál], gyermek gyógytornász</p>
 `
 },
   {
