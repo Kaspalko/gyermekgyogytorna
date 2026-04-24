@@ -1834,11 +1834,18 @@ Gyermek gyógytorna Budapesten – állapotfelmérés és személyre szabott seg
     readingTime: "5 perc",
 
    content: `
-<h2>Pedagógiai szakszolgálat – mit érdemes tudni szülőként?</h2>
+<h2>Pedagógiai szakszolgálat – mikor kell menni és hogyan lehet bekerülni?</h2>
 
-<p>A pedagógiai szakszolgálat a magyar köznevelési rendszer egyik kulcsfontosságú eleme, amely a gyermekek fejlődésének támogatását, a problémák korai felismerését és a megfelelő ellátás biztosítását szolgálja.</p>
+<p><strong>Rövid válasz:</strong> A pedagógiai szakszolgálat olyan állami intézmény, ahol a gyermek fejlődését vizsgálják és szükség esetén fejlesztést biztosítanak. Szülői kérésre is igénybe vehető, és már csecsemőkortól elérhető.</p>
+
+<p>A szakszolgálat a magyar köznevelési rendszer egyik kulcsfontosságú eleme, amely a gyermekek fejlődésének támogatását, a problémák korai felismerését és a megfelelő ellátás biztosítását szolgálja.</p>
 
 <p>Működését elsősorban a 15/2013. (II. 26.) EMMI rendelet szabályozza.</p>
+
+<p>
+A fejlődési eltérések korai felismeréséről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <p>Ez a cikk bemutatja:</p>
 
@@ -1849,6 +1856,9 @@ Gyermek gyógytorna Budapesten – állapotfelmérés és személyre szabott seg
 <li>hogyan lehet bekerülni a rendszerbe</li>
 </ul>
 
+<p>
+Sok szülőben felmerül a kérdés, hogy mikor kell pedagógiai szakszolgálathoz fordulni, és hogyan zajlik a vizsgálat folyamata.
+</p>
 
 <h2>Kik vehetik igénybe a pedagógiai szakszolgálatot?</h2>
 
@@ -1863,6 +1873,10 @@ Gyermek gyógytorna Budapesten – állapotfelmérés és személyre szabott seg
 
 <p>Ez azt jelenti, hogy a rendszer végigkísérheti a gyermeket több életszakaszon keresztül.</p>
 
+<p>
+A mozgásfejlődés részleteiről itt:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Milyen gyakran történik fejlesztés?</h2>
 
@@ -1982,7 +1996,7 @@ Gyermek gyógytorna Budapesten – állapotfelmérés és személyre szabott seg
 </ul>
 
 
-<h2>Miért fontos a pedagógiai szakszolgálat?</h2>
+<h2>Mikor kell pedagógiai szakszolgálathoz fordulni?</h2>
 
 <ul>
 <li>korai felismerés</li>
@@ -2009,6 +2023,19 @@ A korai felismerés szerepéről itt olvashat:
 <a href="/tudastar/korai-felismeres">korai felismerés</a>.
 </p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Kell beutaló a pedagógiai szakszolgálathoz?</strong><br>
+Nem, szülői kérésre is igénybe vehető.</p>
+
+<p><strong>Mennyi idő alatt kapok időpontot?</strong><br>
+Ez területtől függ, általában néhány héttől több hónapig terjedhet.</p>
+
+<p><strong>Fizetős a pedagógiai szakszolgálat?</strong><br>
+Nem, az ellátás állami finanszírozású és ingyenes.</p>
+
+<p><strong>Mi történik a vizsgálat után?</strong><br>
+Szakértői vélemény készül, amely javaslatot ad a fejlesztésre.</p>
 
 <h2>Felhasznált források</h2>
 
@@ -2016,16 +2043,23 @@ A korai felismerés szerepéről itt olvashat:
 <p>Oktatási Hivatal</p>
 <p>Köznevelési jogszabályok</p>
 
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és fejlődési eltéréseivel foglalkozom. A korai felismerés és a célzott fejlesztés segíthet abban, hogy a gyermek a saját ütemében, harmonikusan fejlődjön.
+</p>
+
 
 <h2>Mikor érdemes segítséget kérni?</h2>
 
-<p>Ha bizonytalan a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni.</p>
+<p><strong>Ha bizonytalan a gyermek fejlődésével kapcsolatban, ne várjon hónapokat a rendszerben.</strong></p>
 
 <p>
-<a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">
-gyermek gyógytorna Budapesten
+<a href="/gyermek-gyogytorna-budapest">
+Gyermek gyógytorna Budapesten – gyors állapotfelmérés és személyre szabott segítség
 </a>
-keretében személyre szabott segítséget kaphat.
 </p>
 `}
 ];
