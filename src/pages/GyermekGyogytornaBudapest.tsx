@@ -83,7 +83,7 @@ export default function GyermekGyogytornaBudapest() {
   </p>
 
   <form
-  action="https://formspree.io/f/mlgznvyr"
+  action="https://formspree.io/f/mlgaznyv"
   method="POST"
   className="space-y-4"
 >
