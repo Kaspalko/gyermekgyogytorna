@@ -9,16 +9,13 @@ export default function Cikk() {
   useEffect(() => {
     if (!cikk) return;
 
-    // SEO title
     document.title = `${cikk.title} | Gyermek gyógytorna Budapest`;
 
-    // Meta description
     const metaDesc = document.querySelector('meta[name="description"]');
     if (metaDesc) {
       metaDesc.setAttribute("content", cikk.description);
     }
 
-    // Open Graph
     const ogTitle = document.querySelector('meta[property="og:title"]');
     if (ogTitle) ogTitle.setAttribute("content", cikk.title);
 
@@ -34,7 +31,7 @@ export default function Cikk() {
     return <div className="p-20 text-center">Cikk nem található</div>;
   }
 
-  // Olvasási idő számítás (HTML nélkül)
+  // olvasási idő (HTML nélkül)
   const textOnly = cikk.content.replace(/<[^>]+>/g, "");
   const words = textOnly.split(/\s+/).length;
   const readingTime = Math.ceil(words / 200);
@@ -74,13 +71,31 @@ export default function Cikk() {
           {cikk.description}
         </p>
 
-        {/* Tartalom */}
+        {/* 🔥 TARTALOM - JAVÍTVA */}
         <div
-          className="prose max-w-none"
+          className="
+            max-w-none
+            text-gray-800
+            leading-relaxed
+            space-y-6
+
+            [&>h2]:text-2xl
+            [&>h2]:font-semibold
+            [&>h2]:mt-10
+
+            [&>p]:mb-4
+
+            [&>ul]:list-disc
+            [&>ul]:pl-6
+            [&>ul]:space-y-2
+
+            [&>a]:text-amber-600
+            [&>a]:underline
+          "
           dangerouslySetInnerHTML={{ __html: cikk.content }}
         />
 
-        {/* CTA blokk (nagyon fontos SEO + konverzió) */}
+        {/* CTA */}
         <div className="mt-12 p-6 bg-amber-50 rounded-xl border border-amber-200">
           <h3 className="text-xl font-semibold mb-2">
             Bizonytalan a gyermek mozgásfejlődésével kapcsolatban?
@@ -96,7 +111,7 @@ export default function Cikk() {
           </Link>
         </div>
 
-        {/* Kapcsolódó cikkek */}
+        {/* Kapcsolódó */}
         <div className="mt-16">
           <h2 className="text-2xl font-semibold mb-6">
             Kapcsolódó cikkek
