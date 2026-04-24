@@ -83,48 +83,65 @@ export default function GyermekGyogytornaBudapest() {
   </p>
 
   <form
-    action="https://formspree.io/f/mlgaznyv"
-    method="POST"
-    className="space-y-4 max-w-md mx-auto text-left"
+  action="https://formspree.io/f/mlgznvyr"
+  method="POST"
+  className="space-y-4"
+>
+
+  <input
+    type="hidden"
+    name="_next"
+    value="https://www.gyermekgyt-bp.hu/koszonjuk"
+  />
+
+  <input
+    type="hidden"
+    name="_subject"
+    value="Új jelentkezés a weboldalról"
+  />
+
+  <input
+    type="text"
+    name="name"
+    placeholder="Név"
+    required
+    className="w-full p-3 rounded-xl border"
+  />
+
+  <input
+    type="email"
+    name="email"
+    placeholder="Email"
+    required
+    className="w-full p-3 rounded-xl border"
+  />
+
+  <input
+    type="tel"
+    name="phone"
+    placeholder="Telefonszám"
+    className="w-full p-3 rounded-xl border"
+  />
+
+  <textarea
+    name="message"
+    placeholder="Miben tudok segíteni?"
+    rows={4}
+    className="w-full p-3 rounded-xl border"
+  />
+
+  <p className="text-sm text-gray-500 text-center">
+    24 órán belül visszahívom
+  </p>
+
+  <button
+    type="submit"
+    className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
   >
-    <input type="hidden" name="_subject" value="Új időpontkérés érkezett!" />
-    <input
-      type="text"
-      name="name"
-      placeholder="Név"
-      required
-      className="w-full p-3 rounded-xl text-black"
-    />
+    Jelentkezem
+  </button>
 
-    <input
-      type="email"
-      name="email"
-      placeholder="Email"
-      required
-      className="w-full p-3 rounded-xl text-black"
-    />
-
-    <input
-      type="tel"
-      name="phone"
-      placeholder="Telefonszám"
-      className="w-full p-3 rounded-xl text-black"
-    />
-
-    <textarea
-      name="message"
-      placeholder="Miben tudok segíteni?"
-      rows={4}
-      className="w-full p-3 rounded-xl text-black"
-    />
-
-    <button
-      type="submit"
-      className="w-full bg-white text-gray-900 py-3 rounded-xl font-medium hover:bg-gray-200 transition"
-    >
-      Időpontot kérek
-    </button>
-  </form>
+</form>
 </section>
 
     </div>
