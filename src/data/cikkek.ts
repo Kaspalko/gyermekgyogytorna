@@ -439,11 +439,11 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
 <a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
 </p>
     },
+    `
       {
   slug: "ferde-fejtartas-torticollis",
   title: "Ferde fejtartás (torticollis) csecsemőknél",
-  description:
-    "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
+  description: "Mit jelent a ferde fejtartás csecsemőknél, milyen tünetei vannak és hogyan segít a gyógytorna?",
   image: "/images/baba-torticollis.jpg",
 
   date: "2026. március",
