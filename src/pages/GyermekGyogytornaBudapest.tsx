@@ -67,28 +67,65 @@ export default function GyermekGyogytornaBudapest() {
 
       {/* CTA */}
       <section
-        id="jelentkezes"
-        className="text-center bg-gray-900 text-white p-10 rounded-2xl space-y-4"
-      >
-        <h2 className="text-2xl font-semibold">
-          Időpontkérés
-        </h2>
+  id="jelentkezes"
+  className="text-center bg-gray-900 text-white p-10 rounded-2xl space-y-6"
+>
+  <h2 className="text-2xl font-semibold">
+    Időpontkérés
+  </h2>
 
-        <p className="text-gray-300">
-          Ne várjon hónapokat – kérjen időpontot most.
-        </p>
+  <p className="text-gray-300">
+    Ne várjon hónapokat – kérjen időpontot most.
+  </p>
 
-        <p className="text-sm text-gray-400">
-          Időpont akár 1 héten belül
-        </p>
+  <p className="text-sm text-gray-400">
+    Válasz 24 órán belül
+  </p>
 
-        <a
-          href="mailto:pal.kasparek@gmail.com"
-          className="inline-block bg-white text-gray-900 px-6 py-3 rounded-xl font-medium hover:bg-gray-200 transition"
-        >
-          Időpontot kérek
-        </a>
-      </section>
+  <form
+    action="https://formspree.io/f/mlgaznyv"
+    method="POST"
+    className="space-y-4 max-w-md mx-auto text-left"
+  >
+    <input type="hidden" name="_subject" value="Új időpontkérés érkezett!" />
+    <input
+      type="text"
+      name="name"
+      placeholder="Név"
+      required
+      className="w-full p-3 rounded-xl text-black"
+    />
+
+    <input
+      type="email"
+      name="email"
+      placeholder="Email"
+      required
+      className="w-full p-3 rounded-xl text-black"
+    />
+
+    <input
+      type="tel"
+      name="phone"
+      placeholder="Telefonszám"
+      className="w-full p-3 rounded-xl text-black"
+    />
+
+    <textarea
+      name="message"
+      placeholder="Miben tudok segíteni?"
+      rows={4}
+      className="w-full p-3 rounded-xl text-black"
+    />
+
+    <button
+      type="submit"
+      className="w-full bg-white text-gray-900 py-3 rounded-xl font-medium hover:bg-gray-200 transition"
+    >
+      Időpontot kérek
+    </button>
+  </form>
+</section>
 
     </div>
   );
