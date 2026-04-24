@@ -34,7 +34,7 @@ export default function GyermekGyogytornaBudapest() {
 
       <p><strong>Ne várjon hónapokat – kérjen időpontot most.</strong></p>
 
-      <a href="mailto:email@pelda.hu">Időpontot kérek</a>
+      <a href="mailto:pal.kasparek@gmail.com">Időpontot kérek</a>
 
     </div>
   );
