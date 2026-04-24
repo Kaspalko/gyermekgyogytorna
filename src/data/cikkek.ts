@@ -244,6 +244,11 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
     readingTime: "8 perc",
 
   content:`
+
+  <h1>A baba mozgásfejlődése 0–18 hónapos korig</h1>
+
+<p><strong>Rövid válasz:</strong> A baba mozgásfejlődése fokozatosan, egymásra épülő lépésekben történik: fejkontroll, átfordulás, kúszás, mászás, ülés, állás és járás. A legtöbb gyermek 12–15 hónapos kor között kezd el járni, de az egyéni eltérések természetesek.</p>
+
 <h2>A baba mozgásfejlődése az első másfél évben</h2>
 
 <p>A csecsemők fejlődése az első életévben rendkívül gyors és összetett folyamat. A mozgás fejlődése szorosan összefügg az idegrendszer érésével, a szenzoros feldolgozással és a környezet felfedezésével.</p>
@@ -288,7 +293,8 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Ülésbe húzva fejét a törzs vonalában tartja</li>
 <li>Hason fekve testsúlyát kinyújtott karján tartja</li>
 <li>Hason fekve játék után nyúl</li>
-<li>Hátról hasra és hasról hátra fordul</li>
+<li>Hátról hasra és hasról hátra fordul– erről részletesen itt olvashat: 
+<a href="/tudastar/mikor-fordul-at-a-baba">mikor fordul át a baba</a></li>
 </ul>
 
 <h3>Szem-kéz koordináció</h3>
@@ -315,7 +321,8 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Hason fekve körbe fordul</li>
 <li>Négykézláb helyzetbe kerül és hintázik</li>
 <li>Kúszik, karjával húzza magát</li>
-<li>Megjelenik a mászás</li>
+<li>Megjelenik a mászás– részletesen itt: 
+<a href="/tudastar/mikor-kezd-maszni-a-baba">mikor kezd mászni a baba</a></li>
 </ul>
 
 <h3>Kézügyesség</h3>
@@ -340,8 +347,10 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <h3>Mozgásfejlődés</h3>
 <ul>
 <li>Négykézláb helyzetből ülésbe vált</li>
-<li>Stabilan ül</li>
-<li>Bútorba kapaszkodva feláll</li>
+<li>Stabilan ül– erről itt olvashat: 
+<a href="/tudastar/mikor-ul-fel-a-baba">mikor ül fel a baba</a></li>
+<li>Bútorba kapaszkodva feláll– részletesen itt: 
+<a href="/tudastar/mikor-all-fel-a-baba">mikor áll fel a baba</a></li>
 <li>Bútor mellett állva testsúlyát lábain tartja</li>
 <li>Oldalazva lépeget a bútorok mellett</li>
 <li>Állásból visszaereszkedik a padlóra</li>
@@ -369,7 +378,8 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Kiskocsit tolva jár</li>
 <li>Segítség nélkül térdel</li>
 <li>Padlóról önállóan feláll</li>
-<li>Néhány lépést önállóan megtesz</li>
+<li>Néhány lépést önállóan megtesz– erről itt: 
+<a href="/tudastar/mikor-kezd-jarni-a-baba">mikor kezd el járni a baba</a></li>
 </ul>
 
 <h3>Kézügyesség</h3>
@@ -395,6 +405,17 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <p>Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember segíthet a pontos megítélésben, például 
 <a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a> keretében.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Mikor kell aggódni a mozgásfejlődés miatt?</strong><br>
+Ha a gyermek tartósan kimarad egy mérföldkőből, vagy a mozgás nagyon aszimmetrikus, érdemes szakemberhez fordulni.</p>
+
+<p><strong>Normális, ha a baba kihagy egy lépést?</strong><br>
+Igen, előfordulhat, hogy egyes mozgásformák rövidebb ideig jelennek meg vagy kimaradnak.</p>
+
+<p><strong>Minden baba ugyanakkor fejlődik?</strong><br>
+Nem, a fejlődés egyéni ütemű, kisebb eltérések teljesen normálisak.</p>
+
 <h2>Források</h2>
 
 <p>World Health Organization (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age.</p>
@@ -403,14 +424,19 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <p>Hewitt L., Kerr E., Stanley R. (2020). Tummy time and infant health outcomes: A systematic review. Pediatrics.</p>
 <p>Szegedi, M. (2009). A korai fejlődés és mozgásfejlődés jelentősége. Gyógypedagógiai Szemle, 37(2–3), 172–180.</p>
 
-      <h3>Kapcsolódó témák</h3>
-<ul>
-<li><a href="/tudastar/atfordulas">Mikor fordul át a baba?</a></li>
-<li><a href="/tudastar/maszas">Mikor kezd mászni a baba?</a></li>
-<li><a href="/tudastar/ules">Mikor ül fel a baba?</a></li>
-<li><a href="/tudastar/allas">Mikor áll fel a baba?</a></li>
-<li><a href="/tudastar/jaras">Mikor kezd el járni a baba?</a></li>
-</ul>`
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
+<p>
+Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
+<a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
+</p>
     },
       {
   slug: "ferde-fejtartas-torticollis",
