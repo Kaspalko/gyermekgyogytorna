@@ -1290,6 +1290,15 @@ Ritkán előfordul, de érdemes figyelni a mozgásfejlődés egészére.</p>
 
 <p>Ha bizonytalan a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni.</p>
 
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
 <p>
 Szükség esetén 
 <a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">
@@ -1459,7 +1468,14 @@ Adolph KE, Robinson SR
 </a>
 </p>
 
+<h2>Szerző</h2>
 
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
 
 <p>Ha bizonytalan a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni.</p>
 
@@ -1474,7 +1490,7 @@ is segíthet a pontos megítélésben.
 },
   {
   slug: "mikor-kezd-jarni-a-baba",
-  title: "Mikor kezd el járni a baba?",
+  title: "Mikor kezd el járni a baba? (12–15 hónap + jelek és tudnivalók)",
   description:
     "Mikor kezd járni a baba, milyen mozgásfejlődési lépések előzik meg az első lépéseket és mikor érdemes szakemberhez fordulni.",
   image: "/images/baby-walk.jpg",
@@ -1485,12 +1501,14 @@ is segíthet a pontos megítélésben.
   content: `
 <h2>Mikor kezd el járni a baba?</h2>
 
+<p><strong>Rövid válasz:</strong> A legtöbb baba 12–15 hónapos kor között kezd el járni, de a normális tartomány 9–18 hónap között van. Az egyéni eltérések teljesen természetesek.</p>
+
 <p>A baba első önálló lépései sok szülő számára különleges pillanatot jelentenek. Gyakran felmerül azonban a kérdés: mikor számít „időben” járni a baba, és mikor érdemes szakemberhez fordulni?</p>
 
 <p>Fontos tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik. A járás kialakulása egy hosszabb fejlődési folyamat része, amely során a baba fokozatosan tanulja meg irányítani a testét, megtartani az egyensúlyát és koordinálni a mozgásait.</p>
 
 
-<h2>Mikor kezd el járni a baba?</h2>
+<h2>Mikor várható a járás?</h2>
 
 <p>A legtöbb baba 12–15 hónapos kor között kezd el önállóan járni.</p>
 
@@ -1500,6 +1518,10 @@ is segíthet a pontos megítélésben.
 
 <p>A mozgásfejlődés természetes variabilitást mutat, ezért önmagában a járás megjelenésének pontos időpontja nem feltétlenül jelzi a gyermek fejlődésének minőségét. Sokkal fontosabb, hogy a fejlődés fokozatos és egymásra épülő lépésekből álljon.</p>
 
+<p>
+A teljes mozgásfejlődési folyamatot itt találja:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Mi előzi meg a járást?</h2>
 
@@ -1508,15 +1530,31 @@ is segíthet a pontos megítélésben.
 <p>A járás kialakulását általában az alábbi mozgások előzik meg:</p>
 
 <ul>
-<a href="/tudastar/mikor-kezd-maszni-a-baba">mászás</a></li><strong>Kúszás és mászás</strong> – A helyváltoztató mozgások segítik a törzs stabilitását és az izomerő fejlődését. A mászás során a baba keresztmintázatban mozgatja a végtagjait.</li>
+<li>
+<strong><a href="/tudastar/mikor-kezd-maszni-a-baba">Kúszás és mászás</a></strong> – 
+Segíti a törzs stabilitását és a keresztmintázat kialakulását.
+</li>
 
-<a href="/tudastar/mikor-all-fel-a-baba">felállás</a></li><strong>Kapaszkodva felállás</strong> – A baba bútorokba vagy a szülő kezébe kapaszkodva húzza fel magát.</li>
+<li>
+<strong><a href="/tudastar/mikor-all-fel-a-baba">Kapaszkodva felállás</a></strong> – 
+A baba bútorokba kapaszkodva húzza fel magát.
+</li>
 
-<li><strong>Oldalazó lépegetés</strong> – A bútorok mellett kapaszkodva történő mozgás („cruising”) segíti az önálló járást.</li>
+<li>
+<strong>Oldalazó lépegetés</strong> – 
+A bútorok mentén történő mozgás („cruising”) előkészíti az önálló járást.
+</li>
 
-<li><strong>Önálló állás</strong> – A baba egyre hosszabb ideig képes megtartani az egyensúlyát kapaszkodás nélkül.</li>
+<li>
+<strong>Önálló állás</strong> – 
+A baba egyre hosszabb ideig képes megtartani az egyensúlyát.
+</li>
 </ul>
 
+<p>
+A felállás részletes folyamatáról itt olvashat:
+<a href="/tudastar/mikor-all-fel-a-baba">mikor áll fel a baba</a>.
+</p>
 
 <h2>Mi szükséges a járás kialakulásához?</h2>
 
@@ -1537,7 +1575,7 @@ is segíthet a pontos megítélésben.
 
 <h2>Normális, ha a baba sokat elesik?</h2>
 
-<p>Igen.</p>
+<p>Igen, teljesen normális.</p>
 
 <p>Az elesés a járás tanulásának természetes része. A járni tanuló kisgyermekek naponta akár több száz lépést is megtehetnek, és gyakran elveszíthetik az egyensúlyukat.</p>
 
@@ -1557,6 +1595,10 @@ is segíthet a pontos megítélésben.
 
 <p>A szakemberek általában nem javasolják a babykomp használatát, mert megváltoztathatja a természetes mozgásmintákat.</p>
 
+<p>
+A korai jelekről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <h2>Mikor érdemes szakemberhez fordulni?</h2>
 
@@ -1579,6 +1621,16 @@ is segíthet a pontos megítélésben.
 
 <p>Ha bizonytalanság merül fel, érdemes szakemberhez fordulni.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Normális, ha a baba nem jár 15 hónaposan?</strong><br>
+Igen, sok baba később kezd járni. 18 hónapos korig még belefér a normális tartományba.</p>
+
+<p><strong>Baj, ha a baba kimarad a mászásból?</strong><br>
+Előfordulhat, de érdemes figyelni a mozgásfejlődés egészére.</p>
+
+<p><strong>Mikor kell aggódni, ha nem jár a baba?</strong><br>
+Ha 18 hónapos korban sem indul el, érdemes szakemberhez fordulni.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
@@ -1587,8 +1639,14 @@ is segíthet a pontos megítélésben.
 <p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4514742/" target="_blank">Adolph & Robinson (2015)</a></p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/16139718/" target="_blank">Hadders-Algra (2005)</a></p>
 
+<h2>Szerző</h2>
 
-<h2>Mikor érdemes szakemberhez fordulni?</h2>
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
 
 <p>Ha bizonytalan a gyermek mozgásfejlődésével kapcsolatban, egy szakember segíthet a pontos megítélésben.</p>
 
