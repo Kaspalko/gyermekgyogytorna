@@ -1302,7 +1302,7 @@ is segíthet a pontos megítélésben.
 },
   {
   slug: "mikor-all-fel-a-baba",
-  title: "Mikor áll fel a baba?",
+  title: "Mikor áll fel a baba? (8–12 hónap + jelek és tudnivalók)",
   description:
     "Mikor kezd felállni a baba kapaszkodva, milyen lépések előzik meg az állást és mikor érdemes gyógytornászhoz fordulni.",
   image: "/images/baby-standing.jpg",
@@ -1315,8 +1315,9 @@ is segíthet a pontos megítélésben.
 
 <p>Fontos azonban tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik, ezért az állás megjelenésének időpontja is változhat.</p>
 
+<p><strong>Rövid válasz:</strong> A legtöbb baba 8–12 hónapos kor között áll fel kapaszkodva. Először bútorba kapaszkodva húzza fel magát, majd fokozatosan egyre stabilabban áll és lépeget.</p>
 
-<h2>Mikor kezd el felállni a baba?</h2>
+<h2>Mikor várható a felállás?</h2>
 
 <p>A legtöbb csecsemő 8–12 hónapos kor között kezd el felállni kapaszkodva.</p>
 
@@ -1333,6 +1334,10 @@ is segíthet a pontos megítélésben.
 
 <p>A kutatások szerint az állás kialakulása szorosan összefügg a törzsstabilitás, az alsó végtagi izomerő és az egyensúlyi kontroll fejlődésével. (Hadders-Algra, 2005)</p>
 
+<p>
+A teljes mozgásfejlődési folyamatot itt találja:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Hogyan tanul meg felállni a baba?</h2>
 
@@ -1360,10 +1365,14 @@ is segíthet a pontos megítélésben.
 
 <p>A kutatások szerint az állás kialakulása komplex idegrendszeri és mozgásos folyamat, amely a posturális kontroll fejlődésével párhuzamosan alakul ki. (Hadders-Algra, 2005)</p>
 
+<p>
+A felállás a későbbi 
+<a href="/tudastar/mikor-kezd-jarni-a-baba">járás</a> egyik legfontosabb előfeltétele.
+</p>
 
 <h2>Normális, ha a baba sokat esik?</h2>
 
-<p>Igen.</p>
+<p>Igen, teljesen normális.</p>
 
 <p>A felállás és a járás tanulása során a baba gyakran elveszíti az egyensúlyát és elesik. Ez a motoros tanulás természetes része.</p>
 
@@ -1381,6 +1390,10 @@ is segíthet a pontos megítélésben.
 
 <p>A szakirodalom hangsúlyozza, hogy a mozgásfejlődés leginkább szabad mozgáson és gyakorláson keresztül fejlődik. (Adolph & Robinson, 2015)</p>
 
+<p>
+A korai jelekről itt olvashat részletesen:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <h2>Mikor érdemes gyógytornászhoz fordulni?</h2>
 
@@ -1403,6 +1416,16 @@ is segíthet a pontos megítélésben.
 
 <p>A mozgásfejlődés természetes variabilitást mutat, ezért az egyéni eltérések gyakoriak. Ha azonban a felállás tartósan nem jelenik meg, vagy a mozgás feltűnően aszimmetrikus, érdemes szakemberhez fordulni.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Normális, ha a baba nem áll fel 11 hónaposan?</strong><br>
+Igen, az egyéni fejlődés eltérő lehet, 12 hónapos korig még belefér.</p>
+
+<p><strong>Baj, ha a baba csak áll, de nem mászik?</strong><br>
+Előfordulhat, de érdemes figyelni a mozgásfejlődés egészére.</p>
+
+<p><strong>Mikor kezd el járni a baba a felállás után?</strong><br>
+Általában néhány hónapon belül megjelenik az önálló járás.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
@@ -1437,7 +1460,6 @@ Adolph KE, Robinson SR
 </p>
 
 
-<h2>Mikor érdemes szakemberhez fordulni?</h2>
 
 <p>Ha bizonytalan a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni.</p>
 
