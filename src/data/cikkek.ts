@@ -1150,7 +1150,7 @@ is segíthet a pontos megítélésben.
 },
   {
   slug: "mikor-ul-fel-a-baba",
-  title: "Mikor ül fel a baba?",
+  title: "Mikor ül fel a baba? (7–9 hónap + jelek és tudnivalók)",
   description:
     "Mikor ül fel a baba önállóan, mi előzi meg az ülést és mikor érdemes szakemberhez fordulni.",
   image: "/images/baby-sitting.jpg",
@@ -1159,12 +1159,15 @@ is segíthet a pontos megítélésben.
   content: `
 <h2>Mikor várható az önálló felülés babáknál? (7–9 hónap + jelek, amiket figyelj)</h2>
 
-<p><strong>Rövid válasz:</strong> A legtöbb baba 7–9 hónapos kor között ül fel önállóan, de a normális fejlődési tartomány ennél szélesebb.</p>
+<p><strong>Rövid válasz:</strong> A legtöbb baba 7–9 hónapos kor között ül fel önállóan. Egyes babák kicsit korábban vagy később is elérhetik ezt a mérföldkövet, ami teljesen normális.</p>
 
 <p>A baba önálló felülése a mozgásfejlődés egyik fontos mérföldköve az első életévben. Sok szülő várja izgatottan, mikor fog a gyermek először stabilan ülni, és gyakran felmerül a kérdés: mikor számít ez normálisnak, és mikor érdemes szakemberhez fordulni?</p>
 
 <p>Fontos tudni, hogy a mozgásfejlődés minden gyermeknél egyéni ütemben zajlik. A legtöbb baba azonban hasonló fejlődési lépcsőkön halad keresztül, amelyek fokozatosan vezetik el az önálló üléshez.</p>
-A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a> cikkben.</p>
+<p>
+A teljes mozgásfejlődési folyamatot részletesen bemutatom a 
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a> cikkben.
+</p>
 
 <p>A fejlődés általában több lépésből áll:</p>
 
@@ -1177,18 +1180,36 @@ A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudast
 
 <p>A WHO mozgásfejlődési vizsgálatai szerint az önálló ülés kialakulása természetes módon változhat, ezért kisebb eltérések teljesen normálisak lehetnek.</p>
 
+<p>
+Ha szeretné látni a teljes fejlődési folyamatot, itt találja:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Mi előzi meg az önálló ülést?</h2>
 
 <p>Az ülés nem egyik napról a másikra jelenik meg. Több fontos mozgásfejlődési lépés készíti elő.</p>
 
 <ul>
-<a href="/tudastar/hason-fekves">hason fekvés</a></<li><strong>Hason fekvés</strong> – A rendszeres hason fekvés segíti a nyak, a vállöv és a törzs izmainak erősödését. Ezek az izmok kulcsszerepet játszanak az ülés stabilitásában.</li>
-<a href="/tudastar/mikor-fordul-at-a-baba">átfordulás</a></li><strong>Átfordulás</strong> – A hátról hasra és hasról hátra fordulás fejleszti a törzs izmainak koordinációját és az egyensúlyt.</li>
-<li><strong>Oldalra támaszkodás</strong> – A baba fokozatosan megtanulja a testsúlyát egyik oldalról a másikra helyezni, ami fontos előfeltétele a felülésnek.</li>
-<a href="/tudastar/mikor-kezd-maszni-a-baba">mászás</a></li><strong>Kúszás és mászás</strong> – Sok baba a felülés előtt már kúszik vagy mászik. Ezek a mozgások tovább erősítik a törzs stabilitását.</li>
-</ul>
+<li>
+<strong><a href="/tudastar/hason-fekves">Hason fekvés</a></strong> – 
+A rendszeres hason fekvés segíti a nyak, a vállöv és a törzs izmainak erősödését.
+</li>
 
+<li>
+<strong><a href="/tudastar/mikor-fordul-at-a-baba">Átfordulás</a></strong> – 
+Fejleszti a törzs koordinációját és az egyensúlyt.
+</li>
+
+<li>
+<strong>Oldalra támaszkodás</strong> – 
+A testsúly áthelyezése a felülés alapja.
+</li>
+
+<li>
+<strong><a href="/tudastar/mikor-kezd-maszni-a-baba">Kúszás és mászás</a></strong> – 
+Erősíti a törzset és előkészíti az ülés stabilitását.
+</li>
+</ul>
 
 <h2>Miért fontos az ülés a fejlődésben?</h2>
 
@@ -1217,7 +1238,7 @@ A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudast
 <li>Érdemes sok időt biztosítani a szabad talajon történő mozgásra</li>
 <li>Fontos a rendszeres hason fekvés</li>
 <li>A játékokat lehet kissé távolabb helyezni, hogy a baba mozgásra ösztönződjön</li>
-<li>Babykomp használatát egyáltalán nem ajánlom</li>
+<li>A babykomp használatát szakemberek általában nem javasolják, mert hátráltathatja a természetes mozgásfejlődést.</li>
 </ul>
 
 
@@ -1232,6 +1253,11 @@ A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudast
 <li>vagy a szülők bizonytalanok a mozgásfejlődéssel kapcsolatban</li>
 </ul>
 
+<p>
+A korai jelekről itt olvashat részletesen:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
+
 <p>A korai vizsgálat segíthet abban, hogy időben felismerhető legyen, ha a baba fejlődéséhez támogatásra van szükség.</p>
 
 
@@ -1241,6 +1267,16 @@ A teljes mozgásfejlődési folyamatot részletesen bemutatom a <a href="/tudast
 
 <p>A mozgásfejlődés egyéni folyamat, ezért kisebb eltérések természetesek lehetnek. Ha azonban a szülők bizonytalanok, érdemes szakemberhez fordulni, aki segíthet megítélni a baba fejlődését.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Normális, ha a baba nem ül 8 hónaposan?</strong><br>
+Igen, az egyéni fejlődés eltérő lehet, 9 hónapos korig még belefér.</p>
+
+<p><strong>Szabad ültetni a babát?</strong><br>
+Rövid ideig igen, de fontos, hogy a baba saját mozgásán keresztül tanuljon meg felülni.</p>
+
+<p><strong>Baj, ha kimarad a felülés?</strong><br>
+Ritkán előfordul, de érdemes figyelni a mozgásfejlődés egészére.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
