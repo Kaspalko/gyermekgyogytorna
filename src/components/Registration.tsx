@@ -59,7 +59,7 @@ export default function Registration() {
   />
 
   <p className="text-sm text-gray-500 text-center">
-    24 órán belül visszahívlak
+    24 órán belül visszahívom
   </p>
 
   <button
