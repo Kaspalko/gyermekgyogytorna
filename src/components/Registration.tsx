@@ -17,11 +17,16 @@ export default function Registration() {
             >
 
               {/* átirányítás */}
-              <input
-                type="hidden"
-                name="_next"
-                value="https://www.gyermekgyt-bp.hu/koszonjuk"
-              />
+             <form
+  action="https://formspree.io/f/mlgaznyv"
+  method="POST"
+  className="space-y-4"
+  onSubmit={(e) => {
+    setTimeout(() => {
+      window.location.href = "/koszonjuk";
+    }, 500);
+  }}
+>
 
               {/* email tárgy */}
               <input
