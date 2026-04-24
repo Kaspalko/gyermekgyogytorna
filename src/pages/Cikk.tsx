@@ -70,9 +70,10 @@ export default function Cikk() {
         </p>
 
         {/* Tartalom */}
-        <div className="prose max-w-none whitespace-pre-line">
-          {cikk.content}
-        </div>
+       <div
+  className="prose max-w-none"
+  dangerouslySetInnerHTML={{ __html: cikk.content }}
+/>
 
         {/* Kapcsolódó cikkek */}
         <div className="mt-16">
