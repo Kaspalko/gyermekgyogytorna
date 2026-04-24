@@ -784,7 +784,7 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
 },
   {
   slug: "percentilis-mit-jelent",
-  title: "Mit jelent a percentilis a gyermek fejlődésénél?",
+  title: "Mit jelent a percentilis? (gyermek fejlődés, normál értékek)",
   description:
     "Mit jelent a percentilis a gyermek fejlődésében, mikor mérik és mit jelez a növekedési görbe.",
   image: "/images/percentilis.jpg",
@@ -793,6 +793,8 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
   readingTime: "6 perc",
 content: `
 <h2>Mit jelent a percentilis a gyermek fejlődésénél?</h2>
+
+<p><strong>Rövid válasz:</strong> A percentilis egy olyan mérőszám, amely megmutatja, hogy a gyermek növekedése hogyan viszonyul az azonos korú és nemű gyermekekhez. A 3–97 percentilis közötti tartomány általában normálisnak tekinthető, a legfontosabb pedig a növekedés következetessége.</p>
 
 <p>A percentilis fogalmával sok szülő találkozik a gyermekorvosi vizsgálatok során. A növekedési görbéken szereplő vonalak azonban első ránézésre nehezen értelmezhetők, ezért gyakran bizonytalanságot okoznak.</p>
 
@@ -811,6 +813,10 @@ content: `
 
 <p>Fontos hangsúlyozni, hogy a percentilis nem rangsor, és nem jelenti azt, hogy egy magasabb vagy alacsonyabb érték jobb vagy rosszabb lenne.</p>
 
+<p>
+A növekedési adatok értelmezése mellett fontos a mozgásfejlődés követése is, amelyről itt olvashat:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Milyen percentilis tartomány tekinthető normálisnak?</h2>
 
@@ -819,6 +825,12 @@ content: `
 <p>Ez azt jelenti, hogy a gyermekek többsége ebben a tartományban helyezkedik el. Az ennél alacsonyabb vagy magasabb értékek nem feltétlenül jelentenek problémát, de ilyenkor a szakemberek gyakran alaposabban megvizsgálják a gyermek fejlődését.</p>
 
 <p>A legfontosabb szempont azonban nem az, hogy a gyermek pontosan melyik percentilisen van, hanem az, hogy a növekedése időben következetes legyen.</p>
+
+<p>
+Sok szülőben felmerül a kérdés, hogy mit jelent például a 10 percentilis érték – fontos tudni, hogy ez önmagában nem jelent problémát.
+</p>
+
+<p><strong>Fontos:</strong> A percentilis érték önmagában nem diagnózis, hanem egy tájékoztató adat a fejlődés követéséhez.</p>
 
 
 <h2>Mi fontosabb a percentilisnél?</h2>
@@ -846,7 +858,7 @@ content: `
 <li>családi adottságokat</li>
 <li>születési súlyt és terhességi kort</li>
 <li>a gyermek táplálását</li>
-<li>a mozgásfejlődést</li>
+<li>a <a href="/tudastar/baba-mozgasfejlodes">mozgásfejlődést</a></li>
 <li>és az általános egészségi állapotot</li>
 </ul>
 
@@ -912,6 +924,10 @@ content: `
 
 <p>Ha azonban a növekedési mintázat jelentősen megváltozik, a szakemberek további vizsgálatokat javasolhatnak annak érdekében, hogy kizárják az esetleges problémákat.</p>
 
+<p>
+A fejlődési eltérések korai felismerése kulcsfontosságú, erről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <h2>Összefoglalás</h2>
 
@@ -921,6 +937,16 @@ content: `
 
 <p>Ha a szülők bizonytalanok a gyermek fejlődésével kapcsolatban, érdemes szakemberhez fordulni, aki a növekedési adatokat a gyermek teljes fejlődési képének figyelembevételével értékeli.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Normális, ha a gyermek alacsony percentilisen van?</strong><br>
+Igen, ha a növekedése következetes és illeszkedik a saját fejlődési mintájához.</p>
+
+<p><strong>Mikor kell aggódni a percentilis miatt?</strong><br>
+Ha a gyermek rövid idő alatt több percentilis görbét is átlép, vagy a növekedés üteme megváltozik.</p>
+
+<p><strong>Lehet egészséges egy 10. percentilisen lévő gyermek?</strong><br>
+Igen, a percentilis önmagában nem minősít, a fejlődés összképe a fontos.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
