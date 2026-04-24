@@ -586,7 +586,7 @@ Az átfordulás alapja több mozgásfejlődési lépés:
 <ul>
 <li><strong>Fejkontroll fejlődése</strong></li>
 <li><strong>Hason fekvés</strong> – erről részletesen itt olvashat:
-<a href="/tudastar/hasalas">hason fekvés jelentősége</a></li>
+<a href="/tudastar/hason-fekves">hason fekvés jelentősége</a></li>
 <li><strong>Oldalra fordulás</strong></li>
 <li><strong>Törzsizomzat erősödése</strong></li>
 </ul>
@@ -606,7 +606,7 @@ Az átfordulás előkészíti a következő lépéseket:
 
 <ul>
 <li>kúszás</li>
-<li><a href="/tudastar/maszas">mászás</a></li>
+<li><a href="/tudastar/mikor-kezd-maszni-a-baba">mászás</a></li>
 <li>ülés</li>
 <li>állás</li>
 </ul>
