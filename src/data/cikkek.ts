@@ -255,6 +255,11 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 
 <p>Fontos tudni, hogy minden gyermek egyéni ütemben fejlődik. A fejlődési mérföldkövek segítenek abban, hogy nagyjából lássuk, milyen mozgások és képességek jelennek meg az egyes életkorokban.</p>
 
+<p>
+Ha szeretné tudni, miért fontos a korai fejlesztés elkezdése, erről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
+
 <h2>0–3 hónapos kor</h2>
 
 <p>Ebben az időszakban a baba fokozatosan kezdi kontrollálni a fejét és a törzsét. A mozgások még nagyrészt reflexes jellegűek, de egyre tudatosabb aktivitás jelenik meg.</p>
@@ -293,7 +298,7 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Ülésbe húzva fejét a törzs vonalában tartja</li>
 <li>Hason fekve testsúlyát kinyújtott karján tartja</li>
 <li>Hason fekve játék után nyúl</li>
-<li>Hátról hasra és hasról hátra fordul– erről részletesen itt olvashat: 
+<li>Hátról hasra és hasról hátra fordul – erről részletesen itt olvashat: 
 <a href="/tudastar/mikor-fordul-at-a-baba">mikor fordul át a baba</a></li>
 </ul>
 
@@ -321,8 +326,7 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Hason fekve körbe fordul</li>
 <li>Négykézláb helyzetbe kerül és hintázik</li>
 <li>Kúszik, karjával húzza magát</li>
-<li>Megjelenik a mászás– részletesen itt: 
-<a href="/tudastar/mikor-kezd-maszni-a-baba">mikor kezd mászni a baba</a></li>
+<li>Megjelenik a mászás – részletesen itt: <a href="/tudastar/mikor-kezd-maszni-a-baba">mikor kezd mászni a baba</a></li>
 </ul>
 
 <h3>Kézügyesség</h3>
@@ -347,10 +351,8 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <h3>Mozgásfejlődés</h3>
 <ul>
 <li>Négykézláb helyzetből ülésbe vált</li>
-<li>Stabilan ül– erről itt olvashat: 
-<a href="/tudastar/mikor-ul-fel-a-baba">mikor ül fel a baba</a></li>
-<li>Bútorba kapaszkodva feláll– részletesen itt: 
-<a href="/tudastar/mikor-all-fel-a-baba">mikor áll fel a baba</a></li>
+<li>Stabilan ül – erről itt olvashat: <a href="/tudastar/mikor-ul-fel-a-baba">mikor ül fel a baba</a></li>
+<li>Bútorba kapaszkodva feláll – részletesen itt: <a href="/tudastar/mikor-all-fel-a-baba">mikor áll fel a baba</a></li>
 <li>Bútor mellett állva testsúlyát lábain tartja</li>
 <li>Oldalazva lépeget a bútorok mellett</li>
 <li>Állásból visszaereszkedik a padlóra</li>
@@ -378,8 +380,7 @@ Ez gyakori, érdemes rövid ideig gyakorolni és fokozatosan növelni az időt.<
 <li>Kiskocsit tolva jár</li>
 <li>Segítség nélkül térdel</li>
 <li>Padlóról önállóan feláll</li>
-<li>Néhány lépést önállóan megtesz– erről itt: 
-<a href="/tudastar/mikor-kezd-jarni-a-baba">mikor kezd el járni a baba</a></li>
+<li>Néhány lépést önállóan megtesz – erről itt: <a href="/tudastar/mikor-kezd-jarni-a-baba">mikor kezd el járni a baba</a></li>
 </ul>
 
 <h3>Kézügyesség</h3>
