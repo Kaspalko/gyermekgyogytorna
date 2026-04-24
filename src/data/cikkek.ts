@@ -449,7 +449,7 @@ Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget:
   date: "2026. március",
   readingTime: "6 perc",
 content: `
-<h2>Ferde fejtartás (torticollis) csecsemőknél – okok, tünetek és kezelés<h2/>
+<h2>Ferde fejtartás (torticollis) csecsemőknél – okok, tünetek és kezelés</h2>
 
 <p>A ferde fejtartás, orvosi nevén torticollis, egy viszonylag gyakori állapot csecsemőknél, amely során a baba feje az egyik oldalra billen, miközben az áll az ellenkező irányba fordul.</p>
 
@@ -601,7 +601,7 @@ Egyéni vizsgálat és kezelés elérhető például
 
 <p>Kaplan SL, Coulter C, Sargent B. Clinical Practice Guideline: Congenital Muscular Torticollis. Pediatric Physical Therapy.</p>
 <p>Sargent B. et al. Physical Therapy Management of Congenital Muscular Torticollis - Clinical Practice Guideline (2024).</p>
-<p>StatPearls – Congenital Muscular Torticollis (NCBI)</p>
+<p>StatPearls - Congenital Muscular Torticollis (NCBI)</p>
 `
 },
   {
