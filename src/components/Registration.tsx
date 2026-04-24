@@ -14,19 +14,12 @@ export default function Registration() {
               action="https://formspree.io/f/mlgaznyv"
               method="POST"
               className="space-y-4"
+              onSubmit={() => {
+                setTimeout(() => {
+                  window.location.href = "/koszonjuk";
+                }, 500);
+              }}
             >
-
-              {/* átirányítás */}
-             <form
-  action="https://formspree.io/f/mlgaznyv"
-  method="POST"
-  className="space-y-4"
-  onSubmit={(e) => {
-    setTimeout(() => {
-      window.location.href = "/koszonjuk";
-    }, 500);
-  }}
->
 
               {/* email tárgy */}
               <input
