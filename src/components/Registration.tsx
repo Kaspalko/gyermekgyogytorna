@@ -10,16 +10,23 @@ export default function Registration() {
 
           <div className="bg-white rounded-2xl shadow-md border border-amber-100 p-6">
 
-            <form
-              action="https://formspree.io/f/mlgaznyv"
-              method="POST"
-              className="space-y-4"
-            >
-              <input
-                type="hidden"
-                name="_subject"
-                value="Új jelentkezés a weboldalról"
-              />
+           <form
+  action="https://formspree.io/f/mlgznvyr"
+  method="POST"
+  className="space-y-4"
+>
+
+  <input
+    type="hidden"
+    name="_redirect"
+    value="https://www.gyermekgyt-bp.hu/koszonjuk"
+  />
+
+  <input
+    type="hidden"
+    name="_subject"
+    value="Új jelentkezés a weboldalról"
+  />
 
               <input
                 type="text"
