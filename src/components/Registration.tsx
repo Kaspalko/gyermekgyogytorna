@@ -16,11 +16,11 @@ export default function Registration() {
   className="space-y-4"
 >
 
-  <input
-    type="hidden"
-    name="_redirect"
-    value="https://www.gyermekgyt-bp.hu/koszonjuk"
-  />
+ <input
+  type="hidden"
+  name="_next"
+  value="https://www.gyermekgyt-bp.hu/koszonjuk"
+/>
 
   <input
     type="hidden"
