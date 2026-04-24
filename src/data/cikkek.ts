@@ -974,6 +974,20 @@ WHO Motor Development Study (2006)
 </a>
 </p>
 
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
+
+<p>
+Ha bizonytalan gyermeke fejlődésével kapcsolatban, itt kérhet segítséget: 
+<a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.
+</p>
+
 
 <h2>Mikor érdemes szakemberhez fordulni?</h2>
 
@@ -996,14 +1010,16 @@ is segíthet a pontos megítélésben.
   date: "2026. március",
   readingTime: "5 perc",
   content: `
-<h2>Mikor várható a babákbál az átfordulás?</h2>
+<h2>Mikor fordul át a baba?</h2>
+
+<p><strong>Rövid válasz:</strong> A legtöbb baba 4–6 hónapos kor között fordul át először. Először általában hasról hátra, majd később hátról hasra fordulnak. Az egyéni eltérések teljesen normálisak.</p>
 
 <p>A baba átfordulása az első év egyik fontos mozgásfejlődési mérföldköve. Sok szülő várja izgatottan azt a pillanatot, amikor a baba először átfordul a hátáról a hasára vagy a hasáról a hátára. Ez a mozgás nemcsak egy új képességet jelent, hanem az idegrendszer és az izmok fejlődésének fontos jele is.</p>
 
 <p>Fontos azonban tudni, hogy minden baba egyéni ütemben fejlődik, ezért az átfordulás ideje gyermekenként eltérhet.</p>
 
 
-<h2>Mikor várható a babákbál az átfordulás?</h2>
+<h2>Mikor várható a babáknál az átfordulás?</h2>
 
 <p>A legtöbb baba 4–6 hónapos kor között fordul át először.</p>
 
@@ -1024,11 +1040,15 @@ is segíthet a pontos megítélésben.
 
 <ul>
 <li><strong>Fejkontroll fejlődése</strong> – A baba fokozatosan megtanulja stabilan megtartani a fejét. Ez fontos alapja a későbbi mozgásoknak.</li>
-<li><strong>Hason fekvés</strong> – Hason fekve a baba erősíti a nyak-, váll- és törzsizmait. Ez segít abban, hogy a testsúlyát egyik oldalról a másikra tudja helyezni.</li>
+<li><strong><a href="/tudastar/hason-fekves">Hason fekvés</a></strong> – erősíti a nyak-, váll- és törzsizmait</li>
 <li><strong>Oldalra fordulás</strong> – Az átfordulás előtt a baba gyakran már oldalra gurul, vagy a játékok felé nyúlva elfordítja a testét.</li>
 <li><strong>Törzsizomzat erősödése</strong> – A törzs stabilitása kulcsszerepet játszik az átfordulásban. A baba ilyenkor már képes a testét koordináltan mozgatni.</li>
 </ul>
 
+<p>
+A teljes mozgásfejlődési folyamatot itt találja:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Miért fontos az átfordulás?</h2>
 
@@ -1060,6 +1080,10 @@ is segíthet a pontos megítélésben.
 <li><strong>Szabad mozgás biztosítása</strong> – A baba számára fontos, hogy elegendő időt töltsön a talajon, ahol szabadon mozoghat és felfedezheti a saját mozgásait.</li>
 </ul>
 
+<p>
+A korai jelekről itt olvashat részletesen:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <h2>Mikor érdemes szakemberhez fordulni?</h2>
 
@@ -1081,6 +1105,16 @@ is segíthet a pontos megítélésben.
 
 <p>Ha a szülők bizonytalanok a baba fejlődésével kapcsolatban, érdemes szakemberhez fordulni, aki segíthet a gyermek mozgásfejlődésének megítélésében.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Melyik irányba fordul át először a baba?</strong><br>
+Általában hasról hátra fordulnak először, mert ez kevesebb erőt igényel.</p>
+
+<p><strong>Normális, ha a baba nem fordul át 5 hónaposan?</strong><br>
+Igen, az egyéni fejlődés eltérő lehet. 6 hónapos kor körül még belefér.</p>
+
+<p><strong>Baj, ha kimarad az átfordulás?</strong><br>
+Ritkán előfordulhat, de érdemes figyelni a mozgásfejlődés egészére.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
@@ -1092,6 +1126,14 @@ is segíthet a pontos megítélésben.
 
 <p>Pin, T., Eldridge, B., & Galea, M. (2007). A review of the effects of sleep position and play position on motor development in infants. Developmental Medicine & Child Neurology.</p>
 
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és eltéréseinek vizsgálatával foglalkozom. 
+Munkám során a korai felismerésre és az egyéni fejlesztésre helyezem a hangsúlyt.
+</p>
 
 <h2>Mikor érdemes szakemberhez fordulni?</h2>
 
