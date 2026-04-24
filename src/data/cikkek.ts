@@ -549,89 +549,112 @@ Egyéni vizsgálat és kezelés elérhető például
   date: "2026. március",
   readingTime: "7 perc",
  content: `
-<h2>Mikor kezd mászni a baba?</h2>
-
-<p>A mászás a csecsemők mozgásfejlődésének egyik fontos állomása. Bár minden gyermek saját ütemben fejlődik, a legtöbb baba 6–10 hónapos kor között kezd el mászni.</p>
-
-<p>A mászás nemcsak a helyváltoztatást jelenti, hanem az idegrendszer, az izomzat és a koordináció fejlődésének fontos része is.</p>
-
-<p>A szakirodalom szerint a mászás során a baba keresztmintázatban mozgatja a végtagjait: a jobb kéz a bal lábbal, illetve a bal kéz a jobb lábbal együtt mozdul. Ez a mozgásminta jelentős szerepet játszik az agyféltekék összehangolt működésében.</p>
-
-<h2>Mi előzi meg a mászást?</h2>
-
-<p>A mászás előtt több mozgásfejlődési lépcső jelenik meg, amelyek előkészítik ezt a képességet.</p>
-
-<ul>
-<li><strong>Hason fekvés</strong> – erősíti a nyak és törzs izmait</li>
-<li><strong>Támaszkodás karokon</strong> – 4–6 hónapos kor körül jelenik meg</li>
-<li><strong>Gurulás és fordulás</strong> – fejleszti az egyensúlyt</li>
-<li><strong>Kúszás</strong> – előkészíti a helyváltoztató mozgást</li>
-</ul>
-
-<p>Ezek a mozgások segítik a vállöv, a törzs és a csípő stabilitását.</p>
-
-<h2>Mi szükséges ahhoz, hogy a baba mászni tudjon?</h2>
-
-<ul>
-<li><strong>Törzsstabilitás</strong> – a test megtartásához</li>
-<li><strong>Izomerő</strong> – karok és lábak együttműködése</li>
-<li><strong>Egyensúly</strong> – testsúly áthelyezése</li>
-<li><strong>Koordináció</strong> – keresztmintázat kialakulása</li>
-<li><strong>Idegrendszeri fejlődés</strong> – testérzékelés javulása</li>
-</ul>
-
-<h2>Mikor kezd mászni a baba?</h2>
-
-<p>A legtöbb baba 6–10 hónapos kor között kezd el mászni. Az átlagos kezdet körülbelül 8 hónap, de egyéni eltérések teljesen normálisak.</p>
-
-<p>Fontos, hogy néhány gyermek kihagyhatja a mászást, és közvetlenül felállás vagy járás felé halad.</p>
-
-<h2>Milyen eltérések figyelhetők meg?</h2>
-
-<ul>
-<li>aszimmetrikus mászás</li>
-<li>féloldalas mozgás</li>
-<li>fenéken csúszás</li>
-<li>keresztminta hiánya</li>
-<li>mászás kihagyása</li>
-</ul>
-
-<p>Ha a mozgás tartósan aszimmetrikus, érdemes szakemberhez fordulni.</p>
+<h2>Mikor fordul át a baba?</h2>
 
 <p>
-Szükség esetén egyéni vizsgálat segíthet, például 
-<a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a>.
+A baba átfordulása az első év egyik fontos mozgásfejlődési mérföldköve. 
+A teljes fejlődési folyamatot részletesen bemutatjuk a 
+<a href="/tudastar/mozgasfejlodes">baba mozgásfejlődése</a> cikkben.
 </p>
 
-<h2>Meddig „kell” elindulnia a mászásnak?</h2>
+<p>
+Sok szülő várja izgatottan azt a pillanatot, amikor a baba először átfordul a hátáról a hasára vagy a hasáról a hátára. Ez a mozgás nemcsak egy új képességet jelent, hanem az idegrendszer és az izmok fejlődésének fontos jele is.
+</p>
 
-<p>A legtöbb baba 10 hónapos korig megkezdi a mászást vagy valamilyen helyváltoztató mozgást.</p>
+<p>
+Fontos azonban tudni, hogy minden baba egyéni ütemben fejlődik.
+</p>
 
-<p>Ha ez nem történik meg, érdemes mozgásfejlődési vizsgálatot kérni.</p>
 
-<h2>Miben segíti a mászás a gyermeket?</h2>
+<h2>Mikor várható az átfordulás?</h2>
+
+<p>A legtöbb baba 4–6 hónapos kor között fordul át először.</p>
 
 <ul>
-<li>idegrendszeri fejlődés</li>
-<li>testtudat kialakulása</li>
-<li>egyensúly fejlődése</li>
-<li>koordináció javulása</li>
-<li>finommotorika alapjai</li>
-<li>térbeli tájékozódás</li>
+<li>3–4 hónapos korban oldalra fordulhat</li>
+<li>4–5 hónapos korban hasról hátra fordul</li>
+<li>5–6 hónapos korban hátáról hasra fordul</li>
 </ul>
+
+
+<h2>Mi előzi meg az átfordulást?</h2>
+
+<p>
+Az átfordulás alapja több mozgásfejlődési lépés:
+</p>
+
+<ul>
+<li><strong>Fejkontroll fejlődése</strong></li>
+<li><strong>Hason fekvés</strong> – erről részletesen itt olvashat:
+<a href="/tudastar/hasalas">hason fekvés jelentősége</a></li>
+<li><strong>Oldalra fordulás</strong></li>
+<li><strong>Törzsizomzat erősödése</strong></li>
+</ul>
+
+
+<h2>Miért fontos az átfordulás?</h2>
+
+<ul>
+<li><strong>Izomerő és törzskontroll fejlődése</strong></li>
+<li><strong>Idegrendszeri érés támogatása</strong></li>
+<li><strong>Későbbi mozgások alapja</strong></li>
+</ul>
+
+<p>
+Az átfordulás előkészíti a következő lépéseket:
+</p>
+
+<ul>
+<li>kúszás</li>
+<li><a href="/tudastar/maszas">mászás</a></li>
+<li>ülés</li>
+<li>állás</li>
+</ul>
+
+
+<h2>Mit tehetnek a szülők?</h2>
+
+<ul>
+<li>Rendszeres hason fekvés</li>
+<li>Játékok oldalra helyezése</li>
+<li>Szabad mozgás biztosítása</li>
+</ul>
+
+
+<h2>Mikor érdemes szakemberhez fordulni?</h2>
+
+<ul>
+<li>6–7 hónapos korban nem fordul át</li>
+<li>aszimmetrikus mozgás</li>
+<li>nem tolerálja a hason fekvést</li>
+</ul>
+
+<p>
+Ha bizonytalan a gyermek fejlődésével kapcsolatban, egy szakember segíthet a pontos megítélésben.
+</p>
+
+<p>
+Szükség esetén 
+<a href="/gyermek-gyogytorna-budapest">
+gyermek gyógytorna Budapesten
+</a>
+is támogatást nyújthat.
+</p>
+
 
 <h2>Összefoglalás</h2>
 
-<p>A mászás fontos mérföldkő a mozgásfejlődésben. Segíti az izmok, az egyensúly és az idegrendszer fejlődését.</p>
+<p>
+A legtöbb baba 4–6 hónapos kor között fordul át. Ez a mozgás fontos része a fejlődésnek, és megalapozza a későbbi mozgásformákat.
+</p>
 
-<p>Ha a fejlődés eltér a megszokottól, a korai felismerés és a megfelelő támogatás segítheti a gyermek harmonikus fejlődését.</p>
 
 <h2>Felhasznált szakirodalom</h2>
 
 <p>Adolph & Berger (2006)</p>
-<p>Kaplan et al. (2018)</p>
-<p>WHO Motor Development Study (2006)</p>
-<p>Ayres (2005)</p>
+<p>Hadders-Algra (2018)</p>
+<p>WHO (2006)</p>
+<p>Pin et al. (2007)</p>
 `
 },
   {
