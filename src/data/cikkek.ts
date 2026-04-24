@@ -1669,10 +1669,17 @@ keretében személyre szabott segítséget kaphat.
 content: `
 <h2>Lúdtalp gyermekkorban – mikor normális és mikor érdemes foglalkozni vele?</h2>
 
-<p>A lúdtalp az egyik leggyakrabban emlegetett ortopédiai eltérés gyermekkorban. Sok szülő aggódni kezd, amikor azt látja, hogy a gyermek talpa lapos, vagy az iskolai szűrővizsgálaton lúdtalpat említenek.</p>
+<p><strong>Rövid válasz:</strong> A lúdtalp gyermekkorban gyakran normális jelenség, különösen kisgyermekeknél. A legtöbb esetben a lábboltozat a növekedés során alakul ki, és kezelésre csak akkor van szükség, ha fájdalom vagy mozgásbeli eltérés jelentkezik.</p>
+
+<p>A lúdtalp az egyik leggyakrabban emlegetett ortopédiai eltérés gyermekkorban. Sok szülőben felmerül, hogy a lúdtalp gyerekeknél mennyire számít problémának, és mikor van szükség kezelésre.
+</p>
 
 <p>Fontos azonban tudni, hogy a lapos lábboltozat gyermekkorban sok esetben a fejlődés természetes része, és nem feltétlenül jelent betegséget. A lábboltozat kialakulása hosszabb folyamat, amely a gyermek növekedésével párhuzamosan alakul.</p>
 
+<p>
+A mozgásfejlődés teljes folyamatáról itt olvashat:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
 
 <h2>Mi az a lúdtalp?</h2>
 
@@ -1735,6 +1742,10 @@ content: `
 
 <p>A láb egy komplex biomechanikai rendszer, amely fontos szerepet játszik a test stabilitásában és a mozgás során fellépő erők elnyelésében.</p>
 
+<p>
+Ha a mozgásfejlődés eltéréseire kíváncsi, itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
 
 <h2>Mikor érdemes szakemberhez fordulni?</h2>
 
@@ -1777,6 +1788,17 @@ content: `
 
 <p>Ha azonban fájdalom vagy járási eltérés jelentkezik, érdemes szakemberhez fordulni.</p>
 
+<h2>Gyakori kérdések</h2>
+
+<p><strong>Kinövi a gyerek a lúdtalpat?</strong><br>
+Igen, a legtöbb gyermeknél a lábboltozat a növekedés során természetesen kialakul.</p>
+
+<p><strong>Kell-e lúdtalpbetét gyerekeknek?</strong><br>
+Nem minden esetben. Csak akkor javasolt, ha fájdalom vagy funkcionális eltérés van.</p>
+
+<p><strong>Baj, ha a gyereknek teljesen lapos a lába?</strong><br>
+Kisgyermekkorban ez gyakran normális jelenség.</p>
+
 
 <h2>Felhasznált szakirodalom</h2>
 
@@ -1785,16 +1807,20 @@ content: `
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/18822144/" target="_blank">Evans AM (2008)</a></p>
 <p><a href="https://gyerekszoba.hu/kisgyerek/nem-biztos-hogy-a-ludtalp-onmagaban-diagnosztikus-jelentosegu-interju-dr-kis-fanni-mozgasszervi-rehabilitacios-szakorvosjelolttel/" target="_blank">Dr. Kis Fanni interjú</a></p>
 
+<h2>Szerző</h2>
 
-<h2>Mikor érdemes szakemberhez fordulni?</h2>
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
 
-<p>Ha bizonytalan a gyermek mozgásfejlődésével kapcsolatban, egy szakember segíthet a pontos megítélésben.</p>
+<p>
+Gyermekek mozgásfejlődésével és mozgásszervi eltéréseivel foglalkozom, különös figyelemmel a korai felismerésre és a funkcionális mozgásvizsgálatra.
+</p>
+
+<p><strong>Ha bizonytalan a gyermek lábfejlődésével kapcsolatban, érdemes szakemberhez fordulni.</strong></p>
 
 <p>
 <a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">
-gyermek gyógytorna Budapesten
+Gyermek gyógytorna Budapesten – állapotfelmérés és személyre szabott segítség
 </a>
-keretében személyre szabott segítséget kaphat.
 </p>
 `},
    {
