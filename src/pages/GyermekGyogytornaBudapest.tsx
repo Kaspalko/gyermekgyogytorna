@@ -3,14 +3,7 @@
 export default function GyermekGyogytornaBudapest() {
   return (
     <>
-      <Helmet>
-        <title>Gyermek gyógytorna Budapest – mozgásfejlesztés babáknak</title>
-        <meta
-          name="description"
-          content="Gyermek gyógytorna Budapesten. Mikor érdemes gyógytornászhoz fordulni? Időpont akár 1 héten belül."
-        />
-      </Helmet>
-
+    
       <div className="max-w-4xl mx-auto px-4 pt-28 pb-12 space-y-12">
 
         {/* HERO */}
