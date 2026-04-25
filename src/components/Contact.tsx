@@ -24,6 +24,7 @@ export default function Registration() {
   };
 
   return (
+    <section id="kapcsolat" className="...">
     <section id="jelentkezes" className="py-20 bg-amber-50">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto">
