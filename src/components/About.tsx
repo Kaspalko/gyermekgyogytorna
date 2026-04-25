@@ -5,31 +5,63 @@ export default function About() {
     <section id="rolam" className="py-20 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
+
+          {/* CÍM */}
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Rólam
+              Gyermek gyógytornász Budapest – Kasparek Pál
             </h2>
+
             <p className="text-lg text-gray-600">
-              Kasparek Pál - Gyermek gyógytornász
+              Gyermek gyógytornász | Korai fejlesztés | Budapest
             </p>
           </div>
 
+          {/* TARTALOM */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+
+            {/* SZÖVEG */}
             <div className="order-2 md:order-1">
               <div className="space-y-6">
+
                 <p className="text-gray-700 leading-relaxed text-lg">
-                  Gyógytornászként támogatom csecsemők és kisgyermekek mozgásfejlődését. Gyermekkórházi munkám mellett házhoz járó ellátást is vállalok.
+                  Gyermek gyógytornászként csecsemők és kisgyermekek mozgásfejlődésével foglalkozom.
+                  A munkám során nemcsak a gyermek vizsgálata a fontos, hanem az is,
+                  hogy a szülők pontosan értsék, mi történik és mit tehetnek otthon.
                 </p>
 
+                <p className="text-gray-700 leading-relaxed">
+                  Gyermekkórházi tapasztalatom mellett otthoni környezetben is dolgozom,
+                  ahol a gyermek biztonságban, megszokott helyen vehet részt a vizsgálatban és a fejlesztésben.
+                </p>
+
+                <p className="text-gray-800 font-medium">
+                  Célom, hogy a szülők ne bizonytalansággal, hanem megértéssel és konkrét iránnyal menjenek haza.
+                </p>
+
+                {/* MINI CTA */}
+                <p className="text-center">
+                  <a
+                    href="#jelentkezes"
+                    className="text-amber-700 font-semibold hover:underline"
+                  >
+                    Időpontot kérek →
+                  </a>
+                </p>
+
+                {/* KÁRTYÁK */}
                 <div className="space-y-4">
+
                   <div className="flex items-start gap-4 bg-white rounded-xl p-4 shadow-sm">
                     <div className="bg-amber-100 w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0">
                       <Award className="text-amber-700" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-800 mb-1">Szakmai tapasztalat</h3>
+                      <h3 className="font-semibold text-gray-800 mb-1">
+                        Szakmai tapasztalat
+                      </h3>
                       <p className="text-gray-600">
-                        Kórházi gyakorlattal rendelkező gyermekgyógytornász
+                        Gyermekkórházi háttérrel, csecsemők és kisgyermekek vizsgálatában
                       </p>
                     </div>
                   </div>
@@ -39,9 +71,11 @@ export default function About() {
                       <Building2 className="text-amber-700" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-800 mb-1">Házhoz járó szolgáltatás</h3>
+                      <h3 className="font-semibold text-gray-800 mb-1">
+                        Házhoz járó szolgáltatás
+                      </h3>
                       <p className="text-gray-600">
-                        Kényelmes és biztonságos fejlesztés a gyermek otthonában
+                        A vizsgálat és fejlesztés a gyermek saját, biztonságos környezetében történik
                       </p>
                     </div>
                   </div>
@@ -51,27 +85,40 @@ export default function About() {
                       <MapPin className="text-amber-700" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-800 mb-1">Budapest</h3>
+                      <h3 className="font-semibold text-gray-800 mb-1">
+                        Budapest
+                      </h3>
                       <p className="text-gray-600">
-                        Főként X., XIII., XIV., XV. kerületek
+                        Budapest több kerületében elérhető ellátás
                       </p>
                     </div>
                   </div>
+
                 </div>
               </div>
             </div>
 
+            {/* KÉP */}
             <div className="order-1 md:order-2">
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-amber-600 to-orange-500 rounded-3xl transform rotate-3"></div>
                 <img
                   src="/profilkep.jpg"
-                  alt="Kasparek Pál"
+                  alt="Kasparek Pál gyermek gyógytornász"
                   className="relative rounded-3xl shadow-2xl w-full object-cover aspect-square"
                 />
               </div>
             </div>
+
           </div>
+
+          {/* BIZALMI SOR */}
+          <div className="mt-10 text-center">
+            <p className="text-sm text-gray-500">
+              ✔ Egyéni figyelem &nbsp; • &nbsp; ✔ Érthető magyarázat &nbsp; • &nbsp; ✔ Gyakorlatias segítség
+            </p>
+          </div>
+
         </div>
       </div>
     </section>
