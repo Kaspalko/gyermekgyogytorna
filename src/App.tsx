@@ -22,10 +22,7 @@ function Home() {
       <Hero />
       <Services />
       <About />
-
-      {/* IDE JÖN MAJD */}
-      {/* <Vizsgalat /> */}
-
+     <Vizsgalat />
       <Qualifications />
       <Pricing />
 
