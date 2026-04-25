@@ -17,6 +17,7 @@ import Koszonjuk from "./pages/Koszonjuk";
 import Vizsgalat from "./components/Vizsgalat";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
+import { HelmetProvider } from "react-helmet-async";
 
 function Home() {
   return (
@@ -36,6 +37,14 @@ function Home() {
 
      
     </>
+  );
+  function App() {
+  return (
+    <HelmetProvider>
+      <BrowserRouter>
+        {/* marad minden */}
+      </BrowserRouter>
+    </HelmetProvider>
   );
 }
 function App() {
