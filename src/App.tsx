@@ -29,7 +29,7 @@ function Home() {
       <Qualifications />
       <Pricing />
       <FAQ />
-      <Registration />
+      <Contact />
       <ContactSection />
       <BlogPreview />
     </>
