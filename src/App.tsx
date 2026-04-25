@@ -21,15 +21,21 @@ function Home() {
       <Hero />
       <Services />
       <About />
-      <BlogPreview />
+
+      {/* IDE JÖN MAJD */}
+      {/* <Vizsgalat /> */}
+
       <Qualifications />
       <Pricing />
+
+      <Registration />  {/* CTA előrébb */}
+
+      <BlogPreview />   {/* Tudástár LEJJEBB */}
+
       <Contact />
-      <Registration />
     </>
   );
 }
-
 function App() {
   return (
     <BrowserRouter>
