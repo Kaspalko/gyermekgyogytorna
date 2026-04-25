@@ -23,7 +23,7 @@ export default function Hero() {
 
           {/* FŐ CÍM */}
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 leading-tight">
-            Biztonságos fejlődés minden lépésnél
+Hozzáértő támogatás a baba mozgásfejlődésében
             <br />
             <span className="text-amber-700">
               gyermek gyógytorna és korai fejlesztés
