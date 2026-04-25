@@ -6,7 +6,7 @@ import Services from "./components/Services";
 import About from "./components/About";
 import Qualifications from "./components/Qualifications";
 import Pricing from "./components/Pricing";
-import Registration from "./components/Registration";
+import ContactSection from "./components/ContactSection";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Tudastar from "./pages/Tudastar";
@@ -29,7 +29,7 @@ function Home() {
       <Qualifications />
       <Pricing />
 <FAQ />
-      <Registration />  {/* CTA előrébb */}
+      <ContactSection /> 
 
       <BlogPreview />   {/* Tudástár LEJJEBB */}
 
