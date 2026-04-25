@@ -15,6 +15,7 @@ import Cikk from "./pages/Cikk";
 import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 import Koszonjuk from "./pages/Koszonjuk";
 import Vizsgalat from "./components/Vizsgalat";
+import Testimonials from "./components/Testimonials";
 
 function Home() {
   return (
