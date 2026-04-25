@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { HelmetProvider, Helmet } from "react-helmet-async";
 
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -24,14 +23,6 @@ import Koszonjuk from "./pages/Koszonjuk";
 function Home() {
   return (
     <>
-      <Helmet>
-        <title>Gyermek gyógytorna Budapest | Korai fejlesztés babáknak</title>
-        <meta
-          name="description"
-          content="Gyermek gyógytorna Budapesten. Segítség baba mozgásfejlődési problémáknál, egyéni vizsgálattal és gyors időponttal."
-        />
-      </Helmet>
-
       <Hero />
       <Services />
       <About />
@@ -50,7 +41,6 @@ function Home() {
 
 function App() {
   return (
-    <HelmetProvider>
       <BrowserRouter>
         <div className="min-h-screen">
           <Header />
@@ -76,7 +66,6 @@ function App() {
           <Footer />
         </div>
       </BrowserRouter>
-    </HelmetProvider>
   );
 }
 
