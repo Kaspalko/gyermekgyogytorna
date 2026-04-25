@@ -65,6 +65,27 @@ export default function GyermekGyogytornaBudapest() {
         </ul>
       </section>
 
+<section className="bg-white p-6 rounded-2xl border border-gray-100">
+  <h2 className="text-2xl font-semibold mb-4 text-gray-900">
+    Gyermek gyógytorna Budapesten – mikor van rá szükség?
+  </h2>
+
+  <p className="text-gray-700 mb-4">
+    Sok szülő bizonytalan abban, hogy mikor érdemes gyermek gyógytornászhoz fordulni. 
+    A mozgásfejlődés eltérései gyakran finom jelekkel kezdődnek, amelyeket nem mindig könnyű észrevenni.
+  </p>
+
+  <p className="text-gray-700 mb-4">
+    Ha a baba nem fordul át, kimarad a mászás, vagy a mozgás aszimmetrikus, 
+    érdemes szakemberhez fordulni. A korai felismerés segít megelőzni a későbbi problémákat.
+  </p>
+
+  <p className="text-gray-700">
+    Gyermek gyógytorna Budapesten egyéni vizsgálattal és személyre szabott 
+    fejlesztési tervvel segíthet a mozgásfejlődés támogatásában.
+  </p>
+</section>
+      
       {/* CTA + FORM */}
       <section
         id="jelentkezes"
