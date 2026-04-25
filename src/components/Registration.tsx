@@ -1,93 +1,24 @@
-import { useState } from "react";
+<section className="py-16 bg-gray-50">
+  <div className="max-w-2xl mx-auto text-center px-4">
 
-export default function Registration() {
-  const [status, setStatus] = useState("");
+    <h3 className="text-2xl font-semibold text-gray-800 mb-4">
+      Van még kérdése?
+    </h3>
 
-  const handleSubmit = async (e: any) => {
-    e.preventDefault();
+    <p className="text-gray-600 mb-6">
+      Ha bizonytalan, szívesen segítek eldönteni,
+      hogy szükség van-e vizsgálatra.
+    </p>
 
-    const formData = new FormData(e.target);
+    <div className="space-y-2">
+      <p className="text-lg font-medium text-gray-800">
+        📞 +36 70 554 0283
+      </p>
 
-    const res = await fetch("https://formspree.io/f/mlgaznyv", {
-      method: "POST",
-      body: formData,
-      headers: {
-        Accept: "application/json",
-      },
-    });
+      <p className="text-gray-600">
+        📧 pal.kasparek@gmail.com
+      </p>
+    </div>
 
-    if (res.ok) {
-      window.location.href = "/koszonjuk"; // ✅ kisbetű!
-    } else {
-      setStatus("Hiba történt, próbáld újra.");
-    }
-  };
-
-  return (
-    <section id="jelentkezes" className="py-20 bg-amber-50">
-      <div className="container mx-auto px-4">
-        <div className="max-w-2xl mx-auto">
-
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">
-            Jelentkezés gyermek gyógytornára
-          </h2>
-
-          <div className="bg-white rounded-2xl shadow-md p-6">
-
-            <form onSubmit={handleSubmit} className="space-y-4">
-
-              <input
-                type="hidden"
-                name="_subject"
-                value="Új jelentkezés a weboldalról"
-              />
-
-              <input
-                type="text"
-                name="name"
-                placeholder="Név"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
-
-              <input
-                type="email"
-                name="email"
-                placeholder="Email"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
-
-              <input
-                type="tel"
-                name="phone"
-                placeholder="Telefonszám"
-                className="w-full p-3 rounded-xl border"
-              />
-
-              <textarea
-                name="message"
-                placeholder="Miben tudok segíteni?"
-                rows={4}
-                className="w-full p-3 rounded-xl border"
-              />
-
-              <button
-                type="submit"
-                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold"
-              >
-                Jelentkezem
-              </button>
-
-              {status && (
-                <p className="text-red-500 text-center">{status}</p>
-              )}
-
-            </form>
-
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
+  </div>
+</section>
