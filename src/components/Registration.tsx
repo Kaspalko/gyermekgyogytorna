@@ -17,7 +17,7 @@ export default function Registration() {
     });
 
     if (res.ok) {
-      window.location.href = "/koszonjuk";
+      window.location.href = "/Koszonjuk";
     } else {
       setStatus("Hiba történt, próbáld újra.");
     }
