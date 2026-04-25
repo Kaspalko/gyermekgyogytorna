@@ -16,6 +16,7 @@ import Tudastar from "./pages/Tudastar";
 import Cikk from "./pages/Cikk";
 import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 import Koszonjuk from "./pages/Koszonjuk";
+import Contact from "./components/Contact";
 
 
 function Home() {
