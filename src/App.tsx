@@ -12,8 +12,6 @@ import BlogPreview from "./components/BlogPreview";
 import Vizsgalat from "./components/Vizsgalat";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
-import Registration from "./components/Registration";
-
 import Tudastar from "./pages/Tudastar";
 import Cikk from "./pages/Cikk";
 import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
