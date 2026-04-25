@@ -86,7 +86,7 @@ export default function GyermekGyogytornaBudapest() {
           <input
             type="hidden"
             name="_next"
-            value="https://www.gyermekgyt-bp.hu/koszonjuk"
+            value="https://www.gyermekgyt-bp.hu/Koszonjuk"
           />
 
           <input
