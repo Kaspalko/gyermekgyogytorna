@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import KoraiFelismeres from "./pages/korai-felismeres";
+import { HelmetProvider, Helmet } from "react-helmet-async";
+
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
@@ -7,69 +8,75 @@ import About from "./components/About";
 import Qualifications from "./components/Qualifications";
 import Pricing from "./components/Pricing";
 import ContactSection from "./components/ContactSection";
-import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Tudastar from "./pages/Tudastar";
 import BlogPreview from "./components/BlogPreview";
-import Cikk from "./pages/Cikk";
-import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
-import Koszonjuk from "./pages/Koszonjuk";
 import Vizsgalat from "./components/Vizsgalat";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
-import { HelmetProvider } from "react-helmet-async";
+import Registration from "./components/Registration";
+
+import Tudastar from "./pages/Tudastar";
+import Cikk from "./pages/Cikk";
+import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
+import Koszonjuk from "./pages/Koszonjuk";
+
 
 function Home() {
   return (
     <>
+      <Helmet>
+        <title>Gyermek gyógytorna Budapest | Korai fejlesztés babáknak</title>
+        <meta
+          name="description"
+          content="Gyermek gyógytorna Budapesten. Segítség baba mozgásfejlődési problémáknál, egyéni vizsgálattal és gyors időponttal."
+        />
+      </Helmet>
+
       <Hero />
       <Services />
       <About />
-     <Vizsgalat />
+      <Vizsgalat />
       <Testimonials />
       <Qualifications />
       <Pricing />
       <FAQ />
-       <Contact />
-      <ContactSection /> 
-
-      <BlogPreview />   {/* Tudástár LEJJEBB */}
-
-     
+      <Registration />
+      <ContactSection />
+      <BlogPreview />
     </>
   );
-  function App() {
+}
+
+
+function App() {
   return (
     <HelmetProvider>
       <BrowserRouter>
-        {/* marad minden */}
+        <div className="min-h-screen">
+          <Header />
+
+          <main>
+            <Routes>
+
+              <Route path="/" element={<Home />} />
+
+              <Route path="/tudastar" element={<Tudastar />} />
+              <Route path="/tudastar/:slug" element={<Cikk />} />
+
+              <Route
+                path="/gyermek-gyogytorna-budapest"
+                element={<GyermekGyogytornaBudapest />}
+              />
+
+              <Route path="/koszonjuk" element={<Koszonjuk />} />
+
+            </Routes>
+          </main>
+
+          <Footer />
+        </div>
       </BrowserRouter>
     </HelmetProvider>
-  );
-}
-function App() {
-  return (
-    <BrowserRouter>
-      <div className="min-h-screen">
-        <Header />
-
-        <main>
-          <Routes>
-
-            <Route path="/" element={<Home />} />
-
-            <Route path="/tudastar" element={<Tudastar />} />
-            <Route path="/tudastar/:slug" element={<Cikk />} />
-
-            <Route path="/gyermek-gyogytorna-budapest" element={<GyermekGyogytornaBudapest />} />
-            <Route path="/Koszonjuk" element={<Koszonjuk />} />
-
-          </Routes>
-        </main>
-
-        <Footer />
-      </div>
-    </BrowserRouter>
   );
 }
 
