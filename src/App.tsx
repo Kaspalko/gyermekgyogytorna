@@ -24,6 +24,7 @@ function Home() {
       <Services />
       <About />
      <Vizsgalat />
+      <Testimonials />
       <Qualifications />
       <Pricing />
 
