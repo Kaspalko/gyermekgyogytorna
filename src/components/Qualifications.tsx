@@ -37,7 +37,7 @@ export default function Qualifications() {
               Végzettségek & tanfolyamok
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Folyamatos szakmai továbbképzéseknek vagyok részese, hogy a legújabb módszereket tudjam alkalmazni
+              Folyamatos szakmai továbbképzéseken veszek részt, hogy a legújabb módszereket tudjam alkalmazni
             </p>
           </div>
 
