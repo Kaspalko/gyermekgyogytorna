@@ -28,12 +28,13 @@ function Home() {
       <Testimonials />
       <Qualifications />
       <Pricing />
-<FAQ />
+      <FAQ />
+       <Contact />
       <ContactSection /> 
 
       <BlogPreview />   {/* Tudástár LEJJEBB */}
 
-      <Contact />
+     
     </>
   );
 }
