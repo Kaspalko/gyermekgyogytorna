@@ -16,6 +16,7 @@ import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 import Koszonjuk from "./pages/Koszonjuk";
 import Vizsgalat from "./components/Vizsgalat";
 import Testimonials from "./components/Testimonials";
+import FAQ from "./components/FAQ";
 
 function Home() {
   return (
@@ -27,7 +28,7 @@ function Home() {
       <Testimonials />
       <Qualifications />
       <Pricing />
-
+<FAQ />
       <Registration />  {/* CTA előrébb */}
 
       <BlogPreview />   {/* Tudástár LEJJEBB */}
