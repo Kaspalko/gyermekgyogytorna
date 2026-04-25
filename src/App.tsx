@@ -13,7 +13,7 @@ import Tudastar from "./pages/Tudastar";
 import BlogPreview from "./components/BlogPreview";
 import Cikk from "./pages/Cikk";
 import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
-import Koszonjuk from "./pages/koszonjuk";
+import Koszonjuk from "./pages/Koszonjuk";
 
 function Home() {
   return (
@@ -45,7 +45,7 @@ function App() {
             <Route path="/tudastar/:slug" element={<Cikk />} />
 
             <Route path="/gyermek-gyogytorna-budapest" element={<GyermekGyogytornaBudapest />} />
-            <Route path="/koszonjuk" element={<koszonjuk />} />
+            <Route path="/Koszonjuk" element={<Koszonjuk />} />
 
           </Routes>
         </main>
