@@ -1,97 +1,90 @@
-import { Phone, Mail, MapPin, Clock } from 'lucide-react';
+import { useState } from "react";
 
-export default function Contact() {
+export default function Registration() {
+  const [status, setStatus] = useState("");
+
+  const handleSubmit = async (e: any) => {
+    e.preventDefault();
+
+    const formData = new FormData(e.target);
+
+    const res = await fetch("https://formspree.io/f/mlgaznyv", {
+      method: "POST",
+      body: formData,
+      headers: {
+        Accept: "application/json",
+      },
+    });
+
+    if (res.ok) {
+      window.location.href = "/koszonjuk";
+    } else {
+      setStatus("Hiba történt, próbáld újra.");
+    }
+  };
+
   return (
-    <section id="kapcsolat" className="py-20 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50">
+    <section id="jelentkezes" className="py-20 bg-amber-50">
       <div className="container mx-auto px-4">
-        <div className="max-w-6xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Kapcsolat
-            </h2>
-            <p className="text-lg text-gray-600">
-              Forduljon hozzám bizalommal időpont egyeztetésért
-            </p>
-          </div>
+        <div className="max-w-2xl mx-auto">
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="space-y-6">
-              <a
-                href="tel:+36705540283"
-                className="flex items-start gap-4 bg-white rounded-2xl p-6 shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1 group"
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">
+            Jelentkezés gyermek gyógytornára
+          </h2>
+
+          <div className="bg-white rounded-2xl shadow-md p-6">
+
+            <form onSubmit={handleSubmit} className="space-y-4">
+
+              <input
+                type="hidden"
+                name="_subject"
+                value="Új jelentkezés a weboldalról"
+              />
+
+              <input
+                type="text"
+                name="name"
+                placeholder="Név"
+                required
+                className="w-full p-3 rounded-xl border"
+              />
+
+              <input
+                type="email"
+                name="email"
+                placeholder="Email"
+                required
+                className="w-full p-3 rounded-xl border"
+              />
+
+              <input
+                type="tel"
+                name="phone"
+                placeholder="Telefonszám"
+                className="w-full p-3 rounded-xl border"
+              />
+
+              <textarea
+                name="message"
+                placeholder="Miben tudok segíteni?"
+                rows={4}
+                className="w-full p-3 rounded-xl border"
+              />
+
+              <button
+                type="submit"
+                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold"
               >
-                <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center flex-shrink-0 group-hover:bg-amber-700 transition-colors">
-                  <Phone className="text-amber-700 group-hover:text-white" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-800 mb-2">Telefonszám</h3>
-                  <p className="text-amber-700 text-xl font-medium">+36 70 554 0283</p>
-                  <p className="text-gray-600 text-sm mt-1">Kattintson a híváshoz</p>
-                </div>
-              </a>
+                Jelentkezem
+              </button>
 
-              <a
-                href="mailto:pal.kasparek@gmail.com"
-                className="flex items-start gap-4 bg-white rounded-2xl p-6 shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1 group"
-              >
-                <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center flex-shrink-0 group-hover:bg-amber-700 transition-colors">
-                  <Mail className="text-amber-700 group-hover:text-white" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-800 mb-2">Email</h3>
-                  <p className="text-amber-700 font-medium break-all">pal.kasparek@gmail.com</p>
-                  <p className="text-gray-600 text-sm mt-1">Kattintson az email küldéshez</p>
-                </div>
-              </a>
+              {status && (
+                <p className="text-red-500 text-center">{status}</p>
+              )}
 
-              <div className="flex items-start gap-4 bg-white rounded-2xl p-6 shadow-md">
-                <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center flex-shrink-0">
-                  <MapPin className="text-amber-700" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-800 mb-2">Helyszín</h3>
-                  <p className="text-gray-700">Budapest</p>
-                  <p className="text-gray-600 text-sm mt-1">
-                    Főként X., XIII., XIV., XV. kerületek
-                  </p>
-                </div>
-              </div>
+            </form>
 
-              <div className="flex items-start gap-4 bg-white rounded-2xl p-6 shadow-md">
-                <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center flex-shrink-0">
-                  <Clock className="text-amber-700" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-800 mb-2">Időpont egyeztetés</h3>
-                  <p className="text-gray-700">
-                    Hívjon vagy írjon emailt az időpont egyeztetéséhez
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="bg-white rounded-2xl p-8 shadow-lg">
-              <h3 className="text-2xl font-bold text-gray-800 mb-6">
-                Szükséges információk
-              </h3>
-              <div className="space-y-4 text-gray-700">
-                <p>
-                  Az időpont egyeztetéséhez kérem, készítse elő az alábbi információkat:
-                </p>
-                <ul className="list-disc pl-5 space-y-2 marker:text-rose-400 text-gray-700">
-  <li>Gyermek neve és életkora</li>
-  <li>Rövid leírás a problémáról</li>
-  <li>Van-e szakorvosi diagnózis</li>
-  <li>Pontos cím (kerület és utca)</li>
-  <li>Előnyben részesített időpontok</li>
-</ul>
-                <p className="pt-4 text-sm bg-amber-50 rounded-xl p-4 border border-amber-200">
-                  <strong>Fontos:</strong> Az első alkalom előtt telefonon vagy emailben
-                  egyeztetjük a részleteket, hogy a legjobb ellátást tudjam biztosítani
-                  gyermeke számára.
-                </p>
-              </div>
-            </div>
           </div>
         </div>
       </div>
