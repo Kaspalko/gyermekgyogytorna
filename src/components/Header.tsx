@@ -66,7 +66,7 @@ export default function Header() {
             </a>
 
             <button
-              onClick={() => scrollToSection('Jelentkezés')}
+              onClick={() => scrollToSection('kapcsolat')}
               className="bg-amber-700 text-white px-6 py-2 rounded-full hover:bg-amber-800 transition-colors"
             >
               Kapcsolat
