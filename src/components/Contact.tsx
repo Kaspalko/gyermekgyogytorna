@@ -1,10 +1,12 @@
+import React, { useState } from "react";
+
 export default function Registration() {
   const [status, setStatus] = useState("");
 
-  const handleSubmit = async (e: any) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
-    const formData = new FormData(e.target);
+    const formData = new FormData(e.currentTarget);
 
     const res = await fetch("https://formspree.io/f/mlgaznyv", {
       method: "POST",
@@ -34,46 +36,17 @@ export default function Registration() {
 
             <form onSubmit={handleSubmit} className="space-y-4">
 
-              <input
-                type="hidden"
-                name="_subject"
-                value="Új jelentkezés a weboldalról"
-              />
+              <input type="hidden" name="_subject" value="Új jelentkezés a weboldalról" />
 
-              <input
-                type="text"
-                name="name"
-                placeholder="Név"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+              <input type="text" name="name" placeholder="Név" required className="w-full p-3 rounded-xl border" />
 
-              <input
-                type="email"
-                name="email"
-                placeholder="Email"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+              <input type="email" name="email" placeholder="Email" required className="w-full p-3 rounded-xl border" />
 
-              <input
-                type="tel"
-                name="phone"
-                placeholder="Telefonszám"
-                className="w-full p-3 rounded-xl border"
-              />
+              <input type="tel" name="phone" placeholder="Telefonszám" className="w-full p-3 rounded-xl border" />
 
-              <textarea
-                name="message"
-                placeholder="Miben tudok segíteni?"
-                rows={4}
-                className="w-full p-3 rounded-xl border"
-              />
+              <textarea name="message" placeholder="Miben tudok segíteni?" rows={4} className="w-full p-3 rounded-xl border" />
 
-              <button
-                type="submit"
-                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold"
-              >
+              <button type="submit" className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold">
                 Jelentkezem
               </button>
 
