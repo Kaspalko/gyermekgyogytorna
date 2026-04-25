@@ -39,13 +39,13 @@ Hozzáértő támogatás a baba mozgásfejlődésében
             <p>Forduljon hozzám, ha:</p>
 
             <ul className="text-left inline-block">
-              <li>✔ bizonytalan a mozgásfejlődésben</li>
-              <li>✔ úgy érzi, valami „nem teljesen szimmetrikus”</li>
-              <li>✔ szeretne megnyugtató, szakmai választ kapni</li>
+              <li> bizonytalan a mozgásfejlődésben</li>
+              <li> úgy érzi, valami „nem teljesen szimmetrikus”</li>
+              <li> szeretne megnyugtató, szakmai választ kapni</li>
             </ul>
 
             <p className="font-medium text-gray-800">
-              ➡️ Egyéni vizsgálat Budapesten – akár 1 héten belül
+              ➡️ Egyéni vizsgálat Budapesten – 1 héten belül
             </p>
           </div>
 
@@ -68,7 +68,7 @@ Hozzáértő támogatás a baba mozgásfejlődésében
 
           {/* BIZALOM MINI */}
           <p className="text-sm text-gray-500 mb-12">
-            ✔ Gyors időpont &nbsp; • &nbsp; ✔ Egyéni figyelem &nbsp; • &nbsp; ✔ Érthető magyarázat
+            ✔ Gyors időpont &nbsp; ✔ Egyéni figyelem &nbsp; ✔ Érthető magyarázat
           </p>
 
           {/* FEATURE BOXOK */}
