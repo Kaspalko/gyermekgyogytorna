@@ -42,9 +42,9 @@ export default function Qualifications() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {qualifications.map((qual, index) => (
+           {qualifications.map((qual, i) => (
               <div
-                key={index}
+         key={i}
                 className="bg-gradient-to-br from-amber-50 to-yellow-50 rounded-2xl p-6 hover:shadow-lg transition-all transform hover:-translate-y-1 border border-amber-100"
               >
                 <div className="flex items-start gap-4">
