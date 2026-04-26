@@ -1,4 +1,5 @@
 import { Clock, Check } from 'lucide-react';
+import { scrollToSection } from "../utils/scrollToSection";
 
 export default function Pricing() {
   return (
@@ -75,14 +76,14 @@ export default function Pricing() {
             </div>
 
             {/* CTA */}
-            <div className="mt-10 text-center">
-              <a
-                href="#jelentkezes"
-                className="inline-block bg-amber-700 text-white px-10 py-4 rounded-full text-lg font-medium hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
-              >
-                Időpontot kérek
-              </a>
-            </div>
+            <p className="text-center">
+  <button
+    onClick={() => scrollToSection('kapcsolat')}
+    className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
+  >
+    Időpontot kérek →
+  </button>
+</p>
 
           </div>
 
