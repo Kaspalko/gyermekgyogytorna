@@ -41,10 +41,9 @@ export default function About() {
 
                 {/* MINI CTA */}
                 <p className="text-center">
-                  <a
-                    href="#jelentkezes"
-                    className="text-amber-700 font-semibold hover:underline"
-                  >
+                   onClick={() => scrollToSection('kapcsolat')}
+              className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
+            >
                     Időpontot kérek →
                   </a>
                 </p>
