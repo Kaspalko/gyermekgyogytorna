@@ -1,13 +1,7 @@
 import { Baby, Heart, Home } from 'lucide-react';
+import { scrollToSection } from "../utils/scrollToSection";
 
 export default function Hero() {
-  const scrollToContact = () => {
-    const element = document.getElementById('kapcsolat');
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
-  };
-
   return (
     <section className="pt-24 pb-16 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50">
       <div className="container mx-auto px-4">
@@ -23,7 +17,7 @@ export default function Hero() {
 
           {/* FŐ CÍM */}
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 leading-tight">
-Hozzáértő támogatás a baba mozgásfejlődésében
+            Hozzáértő támogatás a baba mozgásfejlődésében
             <br />
             <span className="text-amber-700">
               gyermek gyógytorna és korai fejlesztés
@@ -52,7 +46,7 @@ Hozzáértő támogatás a baba mozgásfejlődésében
           {/* CTA */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
             <button
-              onClick={scrollToContact}
+              onClick={() => scrollToSection('kapcsolat')}
               className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
               👉 Időpontot kérek
