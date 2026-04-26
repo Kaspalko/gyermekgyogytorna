@@ -78,9 +78,9 @@ export default function FAQ() {
 
           {/* CTA */}
           <div className="text-center mt-10">
-            <a
-              href="#jelentkezes"
-              className="inline-block text-amber-700 font-semibold hover:underline"
+           <button
+              onClick={() => scrollToSection('kapcsolat')}
+              className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
               Időpontot kérek →
             </a>
