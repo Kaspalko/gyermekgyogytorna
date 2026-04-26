@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
+import { scrollToSection } from "../utils/scrollToSection";
 
 const faqs = [
   {
@@ -36,7 +37,6 @@ export default function FAQ() {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
 
-          {/* CÍM */}
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
               Gyakori kérdések
@@ -46,7 +46,6 @@ export default function FAQ() {
             </p>
           </div>
 
-          {/* FAQ LISTA */}
           <div className="space-y-4">
             {faqs.map((item, index) => (
               <div
@@ -76,13 +75,13 @@ export default function FAQ() {
             ))}
           </div>
 
-          {/* CTA */}
           <div className="text-center mt-10">
-           <button
-  onClick={() => scrollToSection('kapcsolat')}
->
-  Időpontot kérek →
-</button>
+            <button
+              onClick={() => scrollToSection('kapcsolat')}
+              className="bg-amber-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
+            >
+              Időpontot kérek →
+            </button>
           </div>
 
         </div>
