@@ -1,78 +1,112 @@
-import { Phone } from 'lucide-react';
-import { scrollToSection } from "@/utils/scrollToSection";
+import { Baby, Heart, Home } from 'lucide-react';
+import { scrollToSection } from "../utils/scrollToSection";
 
-export default function Header() {
+export default function Hero() {
   return (
-    <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
-      <div className="container mx-auto px-4 py-4">
+    <section className="pt-24 pb-16 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50">
+      <div className="container mx-auto px-4">
+        <div className="max-w-6xl mx-auto text-center">
 
-        <div className="flex items-center justify-between">
-
-          <div className="flex items-center gap-3">
-            <a href="/" className="text-2xl font-bold text-amber-700">
-              Kasparek Pál
-            </a>
-
-            <div className="hidden md:block text-sm text-gray-600">
-              Gyermek gyógytornász
+          {/* TOP BADGE */}
+          <div className="inline-block mb-4">
+            <div className="flex items-center gap-2 bg-amber-100 text-amber-700 px-4 py-2 rounded-full text-sm font-medium">
+              <Baby size={18} />
+              <span>Gyermek gyógytornász | 0–6 éves korig | Budapest</span>
             </div>
           </div>
 
-          <nav className="hidden md:flex items-center gap-6">
+          {/* FŐ CÍM */}
+          <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 leading-tight">
+            Hozzáértő támogatás a baba mozgásfejlődésében
+            <br />
+            <span className="text-amber-700">
+              gyermek gyógytorna és korai fejlesztés
+            </span>
+          </h1>
 
-            <button
-              onClick={() => scrollToSection('szolgaltatasok')}
-              className="text-gray-700 hover:text-amber-700 transition-colors"
-            >
-              Szolgáltatások
-            </button>
+          {/* SZÖVEG */}
+          <div className="text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed space-y-3">
+            <p>
+              Minden gyermek saját ütemben fejlődik – de néha jól jön egy szakértői visszajelzés.
+            </p>
 
-            <button
-              onClick={() => scrollToSection('rolam')}
-              className="text-gray-700 hover:text-amber-700 transition-colors"
-            >
-              Rólam
-            </button>
+            <p>Forduljon hozzám, ha:</p>
 
-            <button
-              onClick={() => scrollToSection('tanfolyamok')}
-              className="text-gray-700 hover:text-amber-700 transition-colors"
-            >
-              Képzettség
-            </button>
+            <ul className="text-left inline-block">
+              <li> bizonytalan a mozgásfejlődésben</li>
+              <li> úgy érzi, valami „nem teljesen szimmetrikus”</li>
+              <li> szeretne megnyugtató, szakmai választ kapni</li>
+            </ul>
 
+            <p className="font-medium text-gray-800">
+              ➡️ Egyéni vizsgálat Budapesten – 1 héten belül
+            </p>
+          </div>
+
+          {/* CTA */}
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
             <button
-              onClick={() => scrollToSection('arak')}
-              className="text-gray-700 hover:text-amber-700 transition-colors"
+              onClick={() => scrollToSection('kapcsolat')}
+              className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
-              Árak
+              👉 Időpontot kérek
             </button>
 
             <a
-              href="/tudastar"
-              className="text-gray-700 hover:text-amber-700 transition-colors"
+              href="tel:+36705540283"
+              className="border-2 border-amber-700 text-amber-700 px-8 py-4 rounded-full text-lg font-medium hover:bg-amber-50 transition-colors"
             >
-              Tudástár
-            </a>
-
-            <button
-              onClick={() => scrollToSection('kapcsolat')}
-              className="bg-amber-700 text-white px-6 py-2 rounded-full hover:bg-amber-800 transition-colors"
-            >
-              Kapcsolat
-            </button>
-
-          </nav>
-
-          <div className="md:hidden flex items-center gap-3">
-            <a href="tel:+36705540283" className="text-amber-700">
-              <Phone size={24} />
+              +36 70 554 0283
             </a>
           </div>
 
-        </div>
+          {/* BIZALOM MINI */}
+          <p className="text-sm text-gray-500 mb-12">
+            ✔ Gyors időpont &nbsp; ✔ Egyéni figyelem &nbsp; ✔ Érthető magyarázat
+          </p>
 
+          {/* FEATURE BOXOK */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+
+            <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-shadow">
+              <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Heart className="text-amber-700" size={28} />
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-2">
+                Családközpontú szemlélet
+              </h3>
+              <p className="text-gray-600 text-sm">
+                A vizsgálat során a szülők is pontos, érthető útmutatást kapnak
+              </p>
+            </div>
+
+            <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-shadow">
+              <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Home className="text-amber-700" size={28} />
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-2">
+                Otthoni környezet
+              </h3>
+              <p className="text-gray-600 text-sm">
+                A gyermek számára biztonságos, megszokott térben történik a vizsgálat
+              </p>
+            </div>
+
+            <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-shadow">
+              <div className="bg-amber-100 w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Baby className="text-amber-700" size={28} />
+              </div>
+              <h3 className="font-semibold text-gray-800 mb-2">
+                Korai támogatás
+              </h3>
+              <p className="text-gray-600 text-sm">
+                A korai felismerés segíti a harmonikus fejlődést
+              </p>
+            </div>
+
+          </div>
+        </div>
       </div>
-    </header>
+    </section>
   );
 }
