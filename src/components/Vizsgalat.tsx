@@ -1,5 +1,5 @@
 import { Search, MessageCircle, ClipboardList, Home } from "lucide-react";
-import { scrollToSection } from "@/utils/scrollToSection";
+import { scrollToSection } from "../utils/scrollToSection";
 
 export default function Vizsgalat() {
   return (
@@ -7,6 +7,7 @@ export default function Vizsgalat() {
       <div className="container mx-auto px-4">
         <div className="max-w-5xl mx-auto">
 
+          {/* CÍM */}
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
               Hogyan zajlik a vizsgálat?
@@ -18,6 +19,7 @@ export default function Vizsgalat() {
             </p>
           </div>
 
+          {/* LÉPÉSEK */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
             <div className="bg-amber-50 rounded-2xl p-6 flex gap-4">
@@ -78,6 +80,7 @@ export default function Vizsgalat() {
 
           </div>
 
+          {/* INFO */}
           <div className="mt-12 bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
             <p className="text-gray-700 text-lg">
               Nem minden eltérés jelent problémát – de egy vizsgálat segít tisztán látni.
@@ -88,6 +91,7 @@ export default function Vizsgalat() {
             </p>
           </div>
 
+          {/* CTA */}
           <div className="text-center mt-10">
             <button
               onClick={() => scrollToSection('kapcsolat')}
