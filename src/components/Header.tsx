@@ -1,17 +1,7 @@
 import { Phone } from 'lucide-react';
+import { scrollToSection } from "@/utils/scrollToSection";
 
 export default function Header() {
-
-  const scrollToSection = (id: string) => {
-    const element = document.getElementById(id);
-
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    } else {
-      window.location.href = `/#${id}`;
-    }
-  };
-
   return (
     <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
       <div className="container mx-auto px-4 py-4">
