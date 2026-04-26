@@ -1,4 +1,5 @@
 import { Search, MessageCircle, ClipboardList, Home } from "lucide-react";
+import { scrollToSection } from "@/utils/scrollToSection";
 
 export default function Vizsgalat() {
   return (
@@ -6,7 +7,6 @@ export default function Vizsgalat() {
       <div className="container mx-auto px-4">
         <div className="max-w-5xl mx-auto">
 
-          {/* CÍM */}
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
               Hogyan zajlik a vizsgálat?
@@ -18,10 +18,8 @@ export default function Vizsgalat() {
             </p>
           </div>
 
-          {/* LÉPÉSEK */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
-            {/* 1 */}
             <div className="bg-amber-50 rounded-2xl p-6 flex gap-4">
               <div className="bg-amber-600 text-white w-12 h-12 rounded-full flex items-center justify-center">
                 <Search size={24} />
@@ -36,7 +34,6 @@ export default function Vizsgalat() {
               </div>
             </div>
 
-            {/* 2 */}
             <div className="bg-amber-50 rounded-2xl p-6 flex gap-4">
               <div className="bg-amber-600 text-white w-12 h-12 rounded-full flex items-center justify-center">
                 <MessageCircle size={24} />
@@ -51,7 +48,6 @@ export default function Vizsgalat() {
               </div>
             </div>
 
-            {/* 3 */}
             <div className="bg-amber-50 rounded-2xl p-6 flex gap-4">
               <div className="bg-amber-600 text-white w-12 h-12 rounded-full flex items-center justify-center">
                 <ClipboardList size={24} />
@@ -66,7 +62,6 @@ export default function Vizsgalat() {
               </div>
             </div>
 
-            {/* 4 */}
             <div className="bg-amber-50 rounded-2xl p-6 flex gap-4">
               <div className="bg-amber-600 text-white w-12 h-12 rounded-full flex items-center justify-center">
                 <Home size={24} />
@@ -83,25 +78,23 @@ export default function Vizsgalat() {
 
           </div>
 
-          {/* MEGNYUGTATÓ RÉSZ */}
           <div className="mt-12 bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
             <p className="text-gray-700 text-lg">
               Nem minden eltérés jelent problémát – de egy vizsgálat segít tisztán látni.
             </p>
 
             <p className="mt-3 text-gray-700">
-              ✔ Megnyugtató válasz &nbsp; ; ✔ Szükség esetén időben elkezdett fejlesztés
+              ✔ Megnyugtató válasz &nbsp; ✔ Szükség esetén időben elkezdett fejlesztés
             </p>
           </div>
 
-          {/* CTA */}
           <div className="text-center mt-10">
-            <a
-              href="#jelentkezes"
+            <button
+              onClick={() => scrollToSection('kapcsolat')}
               className="inline-block bg-amber-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-amber-700 transition"
             >
               Időpontot kérek
-            </a>
+            </button>
           </div>
 
         </div>
