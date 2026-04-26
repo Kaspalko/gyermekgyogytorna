@@ -90,7 +90,7 @@ export default function Vizsgalat() {
             </p>
 
             <p className="mt-3 text-gray-700">
-              ✔ Megnyugtató válasz &nbsp; • &nbsp; ✔ Szükség esetén időben elkezdett fejlesztés
+              ✔ Megnyugtató válasz &nbsp; ; ✔ Szükség esetén időben elkezdett fejlesztés
             </p>
           </div>
 
