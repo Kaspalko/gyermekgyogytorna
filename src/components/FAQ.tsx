@@ -79,11 +79,10 @@ export default function FAQ() {
           {/* CTA */}
           <div className="text-center mt-10">
            <button
-              onClick={() => scrollToSection('kapcsolat')}
-              className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
-            >
-              Időpontot kérek →
-            </a>
+  onClick={() => scrollToSection('kapcsolat')}
+>
+  Időpontot kérek →
+</button>
           </div>
 
         </div>
