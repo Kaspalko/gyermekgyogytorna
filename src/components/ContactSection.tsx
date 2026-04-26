@@ -1,3 +1,4 @@
+import { scrollToSection } from "../utils/scrollToSection";
 export default function ContactSection() {
   return (
     <section className="py-16 bg-gray-50">
@@ -38,12 +39,12 @@ export default function ContactSection() {
         </p>
 
         {/* MINI CTA */}
-        <a
-          href="#jelentkezes"
-          className="inline-block text-amber-700 font-semibold hover:underline"
-        >
-          Vagy kérjen időpontot itt →
-        </a>
+        <button
+  onClick={() => scrollToSection('kapcsolat')}
+  className="inline-block text-amber-700 font-semibold hover:underline"
+>
+  Vagy kérjen időpontot itt →
+</button>
 
       </div>
     </section>
