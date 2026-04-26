@@ -30,8 +30,8 @@ function Home() {
       <Qualifications />
       <Pricing />
       <FAQ />
-      <Contact />
       <ContactSection />
+      <Contact />
       <BlogPreview />
     </>
   );
