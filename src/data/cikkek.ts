@@ -2061,5 +2061,189 @@ Gyermekek mozgásfejlődésével és fejlődési eltéréseivel foglalkozom. A k
 Gyermek gyógytorna Budapesten – gyors állapotfelmérés és személyre szabott segítség
 </a>
 </p>
-`}
+`},
+  {
+  slug: "sni-btmn-jelentese",
+  title: "SNI és BTMN jelentése – útmutató szülőknek",
+  description:
+    "Mit jelent az SNI és a BTMN? Ki állapítja meg, milyen jogok és kedvezmények járnak, és mikor van szükség vizsgálatra.",
+  image: "/images/SNI-BTMN szakszolgalat.jpg",
+
+  date: "2026. január",
+  readingTime: "5 perc",
+
+  content: `
+<h2>SNI és BTMN – mit jelentenek ezek a rövidítések?</h2>
+
+<p><strong>Rövid válasz:</strong> Az SNI (sajátos nevelési igény) és a BTMN (beilleszkedési, tanulási, magatartási nehézség) olyan hivatalos kategóriák, amelyek segítenek abban, hogy a gyermek megkapja a számára szükséges fejlesztést és támogatást.</p>
+
+<p>Szülőként sokszor ijesztő lehet ezekkel a fogalmakkal találkozni. Fontos azonban tudni: ezek nem címkék, hanem olyan szakmai kategóriák, amelyek a gyermek fejlődésének támogatását szolgálják.</p>
+
+<h2>Mit jelent az SNI?</h2>
+
+<p>A sajátos nevelési igény (SNI) jogszabályban meghatározott kategória. Ide azok a gyermekek tartoznak, akiknél tartós, szakértő által megállapított eltérés áll fenn.</p>
+
+<p>Ilyen lehet például:</p>
+
+<ul>
+<li>mozgásszervi eltérés</li>
+<li>érzékszervi problémák (látás, hallás)</li>
+<li>autizmus spektrum zavar</li>
+<li>beszéd- vagy tanulási zavar</li>
+<li>értelmi fejlődési eltérés</li>
+</ul>
+
+<p>
+A mozgásfejlődés részleteiről itt:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
+
+<p>Az SNI státusz hosszabb távú, komplex fejlesztést igényelhet.</p>
+
+<h2>Mit jelent a BTMN?</h2>
+
+<p>A BTMN a beilleszkedési, tanulási, magatartási nehézséget jelenti.</p>
+
+<p>Ide azok a gyermekek tartoznak, akik:</p>
+
+<ul>
+<li>nehezebben illeszkednek közösségbe,</li>
+<li>figyelmi nehézségeik vannak,</li>
+<li>tanulási problémákkal küzdenek,</li>
+<li>és/vagy viselkedési nehézségeket mutatnak.</li>
+</ul>
+
+<p>Ez egy enyhébb kategória, és nem feltétlenül jelent tartós állapotot.</p>
+
+<h2>Ki állapítja meg az SNI vagy BTMN státuszt?</h2>
+
+<p>A diagnózist nem a szülő vagy az intézmény hozza meg, hanem szakemberek.</p>
+
+<p>
+A fejlődési eltérések korai felismeréséről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
+
+<p>A folyamat általában így zajlik:</p>
+
+<ul>
+<li>szülő vagy pedagógus jelzi az eltérést</li>
+<li>vizsgálat történik a pedagógiai szakszolgálatnál</li>
+<li>szükség esetén szakértői bizottság vizsgálja a gyermeket</li>
+<li>elkészül a hivatalos szakvélemény</li>
+</ul>
+
+<p>A szakértői bizottság komplex vizsgálat alapján állapítja meg az SNI státuszt.</p>
+
+<h2>Mivel jár ez a diagnózis?</h2>
+
+<p>Az SNI vagy BTMN nem hátrány, hanem lehetőség arra, hogy a gyermek célzott támogatást kapjon.</p>
+
+<p>A gyermek számára ez jelentheti:</p>
+
+<ul>
+<li>egyéni fejlesztést</li>
+<li>differenciált oktatást</li>
+<li>több időt számonkérésnél</li>
+<li>szakemberek bevonását (pl. gyógypedagógus, gyógytornász)</li>
+</ul>
+
+<h2>Milyen típusai vannak?</h2>
+
+<p>Az SNI több területet foglalhat magában:</p>
+
+<ul>
+<li>mozgásszervi érintettség</li>
+<li>érzékszervi eltérés</li>
+<li>autizmus spektrum zavar</li>
+<li>beszédzavar</li>
+<li>tanulási zavarok</li>
+</ul>
+
+<p>A BTMN inkább a tanulási és viselkedési területeket érinti.</p>
+
+<h2>Milyen kedvezmények járnak?</h2>
+
+<p>Az SNI státusz esetén különböző támogatások érhetők el, például:</p>
+
+<ul>
+<li>emelt családi pótlék</li>
+<li>utazási kedvezmények</li>
+<li>fejlesztő foglalkozások biztosítása</li>
+</ul>
+
+<h2>Mi szükséges a diagnózis megállapításához?</h2>
+
+<p>A diagnózis komplex vizsgálat alapján történik, amely több területet érint.</p>
+
+<ul>
+<li>szülői beszélgetés</li>
+<li>pedagógiai jellemzés</li>
+<li>pszichológiai vizsgálat</li>
+<li>mozgásvizsgálat</li>
+<li>szükség esetén orvosi vizsgálat</li>
+</ul>
+
+<p>A cél nem a gyermek minősítése, hanem az állapot pontos megismerése.</p>
+
+<h2>Miért fontos ez a gyógytorna szempontjából?</h2>
+
+<p>Sok esetben a tanulási vagy viselkedési nehézségek mögött mozgásfejlődési eltérés is állhat vagy mellé is társulhat.</p>
+
+<p>A mozgásfejlesztés segítheti:</p>
+
+<ul>
+<li>az idegrendszer érését,</li>
+<li>a figyelem fejlődését,</li>
+<li>és a tanulási folyamatokat.</li>
+</ul>
+
+<h2>Összegzés</h2>
+
+<p>Az SNI és a BTMN nem bélyeg, hanem segítség. A megfelelő időben történő felismerés és támogatás jelentősen hozzájárulhat a gyermek fejlődéséhez.</p>
+
+<h2>Gyakori kérdések (GYIK)</h2>
+
+<h3>Mi a különbség az SNI és a BTMN között?</h3>
+<p>Az SNI (sajátos nevelési igény) tartós, szakértő által megállapított állapotot jelent, amely komplex fejlesztést igényel. A BTMN enyhébb kategória, amely tanulási, viselkedési vagy beilleszkedési nehézségeket jelöl, és gyakran jól fejleszthető.</p>
+
+<h3>Ki állapítja meg, hogy a gyermek SNI vagy BTMN?</h3>
+<p>A diagnózist szakemberek végzik. A pedagógiai szakszolgálat állapíthat meg BTMN státuszt, míg az SNI diagnózist szakértői bizottság adja ki komplex vizsgálat alapján.</p>
+
+<h3>Mennyi ideig érvényes a szakvélemény?</h3>
+<p>A szakvélemény általában meghatározott időre szól, és időszakos felülvizsgálat szükséges. Ez azért fontos, mert a gyermek fejlődése változhat.</p>
+
+<h3>Kinőheti a gyermek a BTMN-et?</h3>
+<p>Sok esetben igen. Megfelelő fejlesztéssel és támogatással a nehézségek jelentősen csökkenhetnek vagy megszűnhetnek.</p>
+
+<h3>Az SNI állapot javulhat?</h3>
+<p>Az SNI mögött álló alapállapot általában tartós, de a fejlesztések hatására a gyermek képességei sokat fejlődhetnek, és a mindennapi működése jelentősen javulhat.</p>
+
+<h3>Mikor érdemes vizsgálatot kérni?</h3>
+<p>Ha a szülő vagy a pedagógus úgy látja, hogy a gyermek fejlődése eltér a megszokottól, vagy tartós nehézségek jelentkeznek tanulásban, viselkedésben vagy mozgásban, érdemes szakemberhez fordulni.</p>
+
+<h3>Mit tehet a szülő, ha bizonytalan?</h3>
+<p>A legfontosabb, hogy ne várjon túl sokáig. Egy vizsgálat segíthet megnyugodni, vagy időben elindítani a szükséges támogatást.</p>
+
+<h3>Segíthet a gyógytorna SNI vagy BTMN esetén?</h3>
+<p>Igen, sok esetben a mozgásfejlesztés támogatja az idegrendszer érését, ami pozitív hatással lehet a figyelemre, tanulásra és viselkedésre is.</p>
+
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és fejlődési eltéréseivel foglalkozom. A korai felismerés és a célzott fejlesztés segíthet abban, hogy a gyermek a saját ütemében, harmonikusan fejlődjön.
+</p>
+<h2>Mikor érdemes segítséget kérni?</h2>
+
+<p><strong>Ha bizonytalan a gyermek fejlődésével kapcsolatban, ne várjon hónapokat a rendszerben.</strong></p>
+
+<p>
+<a href="/gyermek-gyogytorna-budapest">
+Gyermek gyógytorna Budapesten – gyors állapotfelmérés és személyre szabott segítség
+</a>
+</p>
+`
+}
 ];
