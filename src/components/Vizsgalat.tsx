@@ -94,7 +94,7 @@ export default function Vizsgalat() {
           {/* CTA */}
           <div className="text-center mt-10">
             <button
-              onClick={() => scrollToSection('kapcsolat')}
+              onClick={() => scrollToSection('jelentkezes')}
               className="inline-block bg-amber-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-amber-700 transition"
             >
               Időpontot kérek
