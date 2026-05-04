@@ -40,7 +40,7 @@ export default function ContactSection() {
 
         {/* MINI CTA */}
         <button
-  onClick={() => scrollToSection('kapcsolat')}
+  onClick={() => scrollToSection('jelentkezes')}
   className="inline-block text-amber-700 font-semibold hover:underline"
 >
   Vagy kérjen időpontot itt →
