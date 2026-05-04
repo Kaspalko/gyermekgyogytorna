@@ -31,7 +31,12 @@ function Home() {
       <Qualifications />
       <Pricing />
       <FAQ />
-      <Contact />
+
+      {/* 🔥 EZ A FIX */}
+      <section id="jelentkezes">
+        <Contact />
+      </section>
+
       <ContactSection />
       <BlogPreview />
     </>
@@ -56,11 +61,7 @@ function AnalyticsTracker() {
 function App() {
   return (
     <BrowserRouter>
-
-      {/* ✅ Analytics */}
       <AnalyticsTracker />
-
-      {/* ✅ Scroll fix IDE */}
       <ScrollToHash />
 
       <div className="min-h-screen">
