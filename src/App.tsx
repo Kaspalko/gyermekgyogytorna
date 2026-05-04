@@ -18,6 +18,7 @@ import Cikk from "./pages/Cikk";
 import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 import Koszonjuk from "./pages/Koszonjuk";
 import Contact from "./components/Contact";
+import ScrollToHash from "./components/ScrollToHash";
 
 function Home() {
   return (
@@ -67,6 +68,13 @@ function App() {
 
             <Route path="/tudastar" element={<Tudastar />} />
             <Route path="/tudastar/:slug" element={<Cikk />} />
+            <BrowserRouter>
+  <ScrollToHash />
+
+  <div className="min-h-screen">
+    ...
+  </div>
+</BrowserRouter>
 
             <Route
               path="/gyermek-gyogytorna-budapest"
