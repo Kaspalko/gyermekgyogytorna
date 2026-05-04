@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function Registration() {
+export default function Contact() {
   const [status, setStatus] = useState("");
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -24,70 +24,55 @@ export default function Registration() {
   };
 
   return (
-    <section id="kapcsolat" className="py-20 bg-amber-50">
-      <div className="container mx-auto px-4">
-        <div className="max-w-2xl mx-auto">
+    <form onSubmit={handleSubmit} className="space-y-4 max-w-xl mx-auto">
 
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">
-            Jelentkezés gyermek gyógytornára
-          </h2>
+      <input type="hidden" name="_subject" value="Új jelentkezés a weboldalról" />
 
-          <div className="bg-white rounded-2xl shadow-md p-6">
+      <input
+        type="text"
+        name="name"
+        placeholder="Név"
+        required
+        className="w-full p-3 rounded-xl border bg-gray-800 text-white border-gray-600"
+      />
 
-            <form onSubmit={handleSubmit} className="space-y-4">
+      <input
+        type="email"
+        name="email"
+        placeholder="Email"
+        required
+        className="w-full p-3 rounded-xl border bg-gray-800 text-white border-gray-600"
+      />
 
-              <input
-                type="hidden"
-                name="_subject"
-                value="Új jelentkezés a weboldalról"
-              />
+      <input
+        type="tel"
+        name="phone"
+        placeholder="Telefonszám"
+        className="w-full p-3 rounded-xl border bg-gray-800 text-white border-gray-600"
+      />
 
-              <input
-                type="text"
-                name="name"
-                placeholder="Név"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+      <textarea
+        name="message"
+        placeholder="Miben tudok segíteni?"
+        rows={4}
+        className="w-full p-3 rounded-xl border bg-gray-800 text-white border-gray-600"
+      />
 
-              <input
-                type="email"
-                name="email"
-                placeholder="Email"
-                required
-                className="w-full p-3 rounded-xl border"
-              />
+      <p className="text-gray-400 text-sm text-center">
+        24 órán belül visszahívom
+      </p>
 
-              <input
-                type="tel"
-                name="phone"
-                placeholder="Telefonszám"
-                className="w-full p-3 rounded-xl border"
-              />
+      <button
+        type="submit"
+        className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold hover:bg-amber-700 transition"
+      >
+        Jelentkezem
+      </button>
 
-              <textarea
-                name="message"
-                placeholder="Miben tudok segíteni?"
-                rows={4}
-                className="w-full p-3 rounded-xl border"
-              />
+      {status && (
+        <p className="text-red-400 text-center">{status}</p>
+      )}
 
-              <button
-                type="submit"
-                className="w-full bg-amber-600 text-white py-3 rounded-xl font-semibold"
-              >
-                Jelentkezem
-              </button>
-
-              {status && (
-                <p className="text-red-500 text-center">{status}</p>
-              )}
-
-            </form>
-
-          </div>
-        </div>
-      </div>
-    </section>
+    </form>
   );
 }
