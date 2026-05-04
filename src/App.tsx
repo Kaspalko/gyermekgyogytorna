@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { useEffect } from "react";
 
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -18,7 +19,6 @@ import GyermekGyogytornaBudapest from "./pages/GyermekGyogytornaBudapest";
 import Koszonjuk from "./pages/Koszonjuk";
 import Contact from "./components/Contact";
 
-
 function Home() {
   return (
     <>
@@ -31,40 +31,55 @@ function Home() {
       <Pricing />
       <FAQ />
       <Contact />
-       <ContactSection />
+      <ContactSection />
       <BlogPreview />
     </>
   );
 }
 
+/* ✅ GOOGLE ANALYTICS TRACKER */
+function AnalyticsTracker() {
+  const location = useLocation();
+
+  useEffect(() => {
+    if (typeof window.gtag === "function") {
+      window.gtag("config", "G-VQJ1C0C5Z2", {
+        page_path: location.pathname + location.search,
+      });
+    }
+  }, [location]);
+
+  return null;
+}
 
 function App() {
   return (
-      <BrowserRouter>
-        <div className="min-h-screen">
-          <Header />
+    <BrowserRouter>
+      {/* ✅ FONTOS: Routeron BELÜL */}
+      <AnalyticsTracker />
 
-          <main>
-            <Routes>
+      <div className="min-h-screen">
+        <Header />
 
-              <Route path="/" element={<Home />} />
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
 
-              <Route path="/tudastar" element={<Tudastar />} />
-              <Route path="/tudastar/:slug" element={<Cikk />} />
+            <Route path="/tudastar" element={<Tudastar />} />
+            <Route path="/tudastar/:slug" element={<Cikk />} />
 
-              <Route
-                path="/gyermek-gyogytorna-budapest"
-                element={<GyermekGyogytornaBudapest />}
-              />
+            <Route
+              path="/gyermek-gyogytorna-budapest"
+              element={<GyermekGyogytornaBudapest />}
+            />
 
-              <Route path="/koszonjuk" element={<Koszonjuk />} />
+            <Route path="/koszonjuk" element={<Koszonjuk />} />
+          </Routes>
+        </main>
 
-            </Routes>
-          </main>
-
-          <Footer />
-        </div>
-      </BrowserRouter>
+        <Footer />
+      </div>
+    </BrowserRouter>
   );
 }
 
