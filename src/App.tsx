@@ -56,8 +56,12 @@ function AnalyticsTracker() {
 function App() {
   return (
     <BrowserRouter>
-      {/* ✅ FONTOS: Routeron BELÜL */}
+
+      {/* ✅ Analytics */}
       <AnalyticsTracker />
+
+      {/* ✅ Scroll fix IDE */}
+      <ScrollToHash />
 
       <div className="min-h-screen">
         <Header />
@@ -68,13 +72,6 @@ function App() {
 
             <Route path="/tudastar" element={<Tudastar />} />
             <Route path="/tudastar/:slug" element={<Cikk />} />
-            <BrowserRouter>
-  <ScrollToHash />
-
-  <div className="min-h-screen">
-    ...
-  </div>
-</BrowserRouter>
 
             <Route
               path="/gyermek-gyogytorna-budapest"
