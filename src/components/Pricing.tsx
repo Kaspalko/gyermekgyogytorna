@@ -78,7 +78,7 @@ export default function Pricing() {
             {/* CTA */}
             <p className="text-center">
   <button
-    onClick={() => scrollToSection('kapcsolat')}
+    onClick={() => scrollToSection('jelentkezes')}
     className="bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl"
   >
     Időpontot kérek →
