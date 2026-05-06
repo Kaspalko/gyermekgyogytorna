@@ -2245,5 +2245,170 @@ Gyermek gyógytorna Budapesten – gyors állapotfelmérés és személyre szabo
 </a>
 </p>
 `
+},
+  {
+  slug: "w-ules-gyerekeknel",
+  title: "W-ülés gyerekeknél – mikor normális és mikor érdemes foglalkozni vele?",
+  description:
+    "Mit jelent a W-ülés, miért alakul ki, és mikor érdemes szakemberhez fordulni? Közérthető, szakmailag alátámasztott útmutató szülőknek.",
+  image: "/images/baby-sitting.jpg",
+
+  date: "2026. január",
+  readingTime: "5 perc",
+
+  content: `
+<h2>W-ülés gyerekeknél – probléma vagy természetes testhelyzet?</h2>
+
+<p><strong>Rövid válasz:</strong> A W-ülés önmagában nem feltétlenül probléma, de ha a gyermek szinte kizárólag így ül, vagy más mozgásfejlődési eltérések is társulnak hozzá, érdemes szakemberrel konzultálni.</p>
+
+<p>A W-ülés egy gyakori ülőhelyzet kisgyermekkorban. Ilyenkor a gyermek a talajon ül, térdei behajlítva előre néznek, lábszárai pedig két oldalt helyezkednek el, „W” alakot formálva.</p>
+
+<p>Sok gyermek időnként felveszi ezt a testhelyzetet játék közben, mert stabilnak és kényelmesnek érzi. A kérdés inkább az, hogy milyen gyakran használja, és mi állhat a háttérben.</p>
+
+<h2>Miért alakulhat ki a W-ülés?</h2>
+
+<p>A W-ülés kialakulásának több oka is lehet. Kisgyermekkorban bizonyos fokig természetes jelenség, különösen nagyobb ízületi lazaság mellett.</p>
+
+<p>Gyakori okok lehetnek:</p>
+
+<ul>
+<li>csípő ízület fokozott befele fordulása,</li>
+<li>laza ízületek, hypermobilitás,</li>
+<li>gyengébb törzsizomzat,</li>
+<li>egyensúlyi bizonytalanság,</li>
+<li>megkésett vagy eltérő mozgásfejlődés,</li>
+<li>alacsonyabb izomtónus.</li>
+</ul>
+
+<p>
+A mozgásfejlődési eltérések korai felismeréséről itt olvashat:
+<a href="/tudastar/korai-felismeres">korai felismerés</a>.
+</p>
+
+<p>A W-ülés sok gyermek számára azért kényelmes, mert széles alátámasztási felületet biztosít, így kevesebb aktív törzsizom-munkára van szükség.</p>
+
+<h2>Miért figyelnek erre a szakemberek?</h2>
+
+<p>Hosszabb távon a gyakori W-ülés befolyásolhatja a testtartást és a mozgásminták fejlődését.</p>
+
+<p>Egyes kutatások szerint összefügghet:</p>
+
+<ul>
+<li>a gyengébb törzsstabilitással,</li>
+<li>egyensúlyi nehézségekkel,</li>
+<li>koordinációs problémákkal,</li>
+<li>csökkent keresztmozgásokkal.</li>
+</ul>
+
+<p>A szakirodalom ugyanakkor hangsúlyozza, hogy önmagában a W-ülés nem diagnózis, hanem egy megfigyelhető mozgásminta, amelyet mindig a gyermek teljes mozgásállapotával együtt kell értékelni.</p>
+
+<h2>Milyen jelek esetén érdemes jobban odafigyelni?</h2>
+
+<p>Érdemes szakember véleményét kérni, ha a gyermek:</p>
+
+<ul>
+<li>szinte mindig W-ülésben játszik,</li>
+<li>nehezen ül más testhelyzetben,</li>
+<li>ügyetlenebbnek tűnik mozgás közben,</li>
+<li>gyakran elesik,</li>
+<li>kerüli a mászást vagy mozgásos játékokat,</li>
+<li>tartáshibák jelei láthatók.</li>
+</ul>
+
+<p>
+A mozgásfejlődés mérföldköveiről itt olvashat részletesebben:
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
+
+<h2>Milyen izmok és területek fejlesztése lehet fontos?</h2>
+
+<p>A fejlesztés célja általában nem pusztán a W-ülés „leszoktatása”, hanem a háttérben álló mozgásminták támogatása.</p>
+
+<p>Gyakran fontos szerepet kap:</p>
+
+<ul>
+<li>a törzsizomzat erősítése,</li>
+<li>az egyensúly fejlesztése,</li>
+<li>a csípő körüli izmok erősítése,</li>
+<li>a keresztmozgások gyakorlása,</li>
+<li>és a koordináció fejlesztése.</li>
+</ul>
+
+<p>A mozgásos játékok, mászás, egyensúlyi feladatok és életkornak megfelelő aktív mozgásformák sokat segíthetnek.</p>
+
+<h2>Kihez érdemes fordulni?</h2>
+
+<p>Ha a W-ülés tartósan fennáll vagy más mozgásfejlődési eltérések is társulnak hozzá, érdemes szakember segítségét kérni.</p>
+
+<p>Ilyen szakember lehet:</p>
+
+<ul>
+<li>gyermek gyógytornász</li>
+<li>Dévény-terapeuta</li>
+<li>konduktor</li>
+<li>gyermekneurológus</li>
+<li>pedagógiai szakszolgálat szakembere</li>
+</ul>
+
+<p>A vizsgálat célja annak megállapítása, hogy a W-ülés életkori sajátosság-e, vagy olyan mozgásmintára utal, amely támogatást igényel.</p>
+
+<p>
+Ha bizonytalan a gyermek mozgásfejlődésével kapcsolatban, egy állapotfelmérés segíthet a helyzet pontosabb megítélésében, például
+<a href="/" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a> keretében.
+</p>
+
+<h2>Mit mond a szakirodalom?</h2>
+
+<p>A nemzetközi szakirodalom szerint a W-ülés önmagában nem feltétlenül káros, ugyanakkor tartós fennállása esetén érdemes figyelni a törzsstabilitásra, az izomtónusra és a mozgáskoordinációra.</p>
+
+<p>A gyermek mozgásának megfigyelése mindig komplex szemléletet igényel, ezért a szakemberek nem egyetlen testhelyzet alapján vonnak le következtetéseket.</p>
+
+<h2>Gyakori kérdések</h2>
+
+<h3>Baj, ha a gyermek néha W-ülésben ül?</h3>
+<p>Nem feltétlenül. Sok kisgyermek időnként felveszi ezt a testhelyzetet. Inkább az számít, hogy kizárólagosan használja-e, illetve társulnak-e más mozgásfejlődési eltérések.</p>
+
+<h3>Le kell szoktatni a W-ülésről?</h3>
+<p>Erőltetett tiltás helyett inkább a változatos ülőhelyzetek és mozgásformák támogatása javasolt.</p>
+
+<h3>Milyen üléshelyzetek lehetnek kedvezőbbek?</h3>
+<p>Hasznos lehet a törökülés, nyújtott ülés, kisszéken ülés vagy az aktív mozgással járó játékhelyzetek váltogatása.</p>
+
+<h3>Összefügghet a W-ülés az ügyetlenséggel?</h3>
+<p>Egyes esetekben igen, különösen gyengébb törzsstabilitás vagy koordinációs nehézségek mellett.</p>
+
+<h2>Összegzés</h2>
+
+<p>A W-ülés önmagában nem feltétlenül jelent problémát, de ha tartósan fennáll vagy más mozgásfejlődési eltérések is társulnak hozzá, érdemes szakemberrel konzultálni.</p>
+
+<p>A megfelelő mozgásfejlesztés segíthet a stabilitás, koordináció és testtartás támogatásában.</p>
+
+<h2>Szakmai háttér és források</h2>
+
+<ul>
+<li>American Academy of Pediatrics – motor development recommendations</li>
+<li>Case-Smith J.: Occupational Therapy for Children and Adolescents</li>
+<li>Shumway-Cook A., Woollacott M.: Motor Control: Translating Research into Clinical Practice</li>
+<li>Pediatric Physical Therapy Journal publikációi</li>
+<li>Magyar Gyógytornász-Fizioterapeuták Társaságának szakmai ajánlásai</li>
+</ul>
+
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>
+Gyermekek mozgásfejlődésével és fejlődési eltéréseivel foglalkozom. A korai felismerés és a célzott fejlesztés segíthet abban, hogy a gyermek a saját ütemében, harmonikusan fejlődjön.
+</p>
+<h2>Mikor érdemes segítséget kérni?</h2>
+
+<p><strong>Ha bizonytalan a gyermek fejlődésével kapcsolatban, ne várjon hónapokat a rendszerben.</strong></p>
+
+<p>
+<a href="/gyermek-gyogytorna-budapest">
+Gyermek gyógytorna Budapesten – gyors állapotfelmérés és személyre szabott segítség
+</a>
+</p>
+`
 }
 ];
