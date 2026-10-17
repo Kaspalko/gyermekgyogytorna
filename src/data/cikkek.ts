@@ -171,7 +171,7 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
 
 <p>A szülő által készített videó lehetőséget adhat arra, hogy a szakember a csecsemő spontán mozgásait ne kizárólag a személyes vizsgálat időpontjában figyelje meg. Ez különösen a fejlődés követése során lehet hasznos, amennyiben a felvétel megfelelő minőségű, és a vizsgálat a GMA szakmai követelményeinek megfelelően történik.</p>
 
-<p>Peyton és munkatársai 2024-ben a Baby Moves alkalmazással gyűjtött, szülők által készített GMA-videók megvalósíthatóságát vizsgálták. A négy chicagói újszülött-intenzív osztályhoz kapcsolódó vizsgálatban 261 csecsemő vett részt, és a családok 70%-a küldött be videófelvételt. Az eredmények arra utalnak, hogy a szülői videófelvételek gyűjtése megvalósítható lehet a klinikai utánkövetésben, ugyanakkor a részvételi arányok különbségei a digitális megoldások hozzáférhetőségének kihívásaira is felhívták a figyelmet (Peyton et al., 2024).</p>
+<p>Peyton és munkatársai által gyűjtött, szülők által készített GMA-videók megvalósíthatóságát vizsgálták. A négy chicagói újszülött-intenzív osztályhoz kapcsolódó vizsgálatban 261 csecsemő vett részt, és a családok 70%-a küldött be videófelvételt. Az eredmények arra utalnak, hogy a szülői videófelvételek gyűjtése megvalósítható lehet a klinikai utánkövetésben, ugyanakkor a részvételi arányok különbségei a digitális megoldások hozzáférhetőségének kihívásaira is felhívták a figyelmet (Peyton et al., 2024).</p>
 
 <p>A kutatás nem jelenti azt, hogy bármilyen módon rögzített vagy megosztott videó automatikusan alkalmas GMA-értékelésre. A megfelelő felvételi körülmények, a szakember képzettsége és az eredmény klinikai összefüggésekben történő értelmezése továbbra is alapvető.</p>
 
