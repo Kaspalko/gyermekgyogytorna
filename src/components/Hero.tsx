@@ -11,7 +11,7 @@ export default function Hero() {
           <div className="inline-block mb-4">
             <div className="flex items-center gap-2 bg-amber-100 text-amber-700 px-4 py-2 rounded-full text-sm font-medium">
               <Baby size={18} />
-              <span>Gyermek gyógytornász | 0–6 éves korig | Budapest</span>
+              <span>Gyermek gyógytornász | 0–3 éves korig | Budapest</span>
             </div>
           </div>
 
