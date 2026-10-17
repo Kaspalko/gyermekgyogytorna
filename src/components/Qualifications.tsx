@@ -6,8 +6,8 @@ const qualifications = [
     description: 'Idegrendszer fejlesztésére fókuszáló terápia',
   },
   {
-    title: 'Kinesio tape',
-    description: 'Kinesio tape technika alkalmazása a mozgásoktatásban',
+    title: 'Prechtl General Movement Assesment',
+    description: 'Videoalapú baba-mozgáselemzés',
   },
    {
     title: 'Babamasszázs',
