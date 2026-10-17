@@ -37,7 +37,7 @@ export default function About() {
                 </p>
 
                 <p className="text-gray-800 font-medium">
-                  Célom, hogy a szülők ne bizonytalansággal, hanem megértéssel és konkrét iránnyal menjenek haza.
+                  Fontos, hogy a szülőkkel ne bizonytalansággal, hanem megértéssel és biztonsággal kezdjünk bele a folyamatokba.
                 </p>
 
                 {/* MINI CTA */}
@@ -116,7 +116,7 @@ export default function About() {
           {/* BIZALMI SOR */}
           <div className="mt-10 text-center">
             <p className="text-sm text-gray-500">
-              ✔ Egyéni figyelem &nbsp; • &nbsp; ✔ Érthető magyarázat &nbsp; • &nbsp; ✔ Gyakorlatias segítség
+              ✔ Egyéni figyelem &nbsp; ✔ Érthető magyarázat &nbsp; ✔ Gyakorlatias segítség
             </p>
           </div>
 
