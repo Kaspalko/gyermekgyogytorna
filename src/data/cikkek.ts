@@ -107,19 +107,34 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
   },
 {
   slug: "prechtl-gma-vizsgalat",
-  title: "Prechtl-féle GMA vizsgálat – a baba mozgásfejlődése",
+  title: "Prechtl-féle GMA-vizsgálat: mit mutat meg a baba mozgása?",
   description:
-    "Mi a Prechtl-féle GMA vizsgálat? Ismerd meg a csecsemők spontán mozgásainak videóalapú elemzését és a korai felismerés szerepét.",
+    "Mi a Prechtl-féle GMA-vizsgálat? Ismerd meg, hogyan segíti a csecsemők spontán mozgásainak elemzése a korai neurológiai kockázatok felismerését.",
   image: "/images/precht.jpg",
 
   date: "2026. október",
   readingTime: "7 perc",
-
   content: `
-<h2>Mi a Prechtl-féle GMA vizsgálat?</h2>
+ <h2>Mi a Prechtl-féle GMA-vizsgálat?</h2>
 
-<p><strong>Rövid válasz:</strong> A Prechtl-féle General Movements Assessment (GMA) a csecsemők spontán mozgásainak minőségét értékelő, standardizált módszer. Videófelvétel alapján, megfelelő képzettséggel rendelkező szakember vizsgálhatja a mozgások változatosságát, folyamatosságát és komplexitását. A GMA fontos szerepet tölthet be a korai idegrendszeri kockázat, különösen a cerebrális parézis (CP) kockázatának felismerését segítő vizsgálatok között.</p>
+<p>A Prechtl-féle General Movements Assessment (GMA) a csecsemők spontán mozgásainak minőségét értékelő, standardizált módszer. Videófelvétel alapján, megfelelő képzettséggel rendelkező szakember vizsgálhatja a mozgások változatosságát, folyamatosságát és komplexitását. A GMA fontos szerepet tölthet be a korai idegrendszeri kockázat, különösen a cerebrális parézis (CP) kockázatának felismerését segítő vizsgálatok között.</p>
 
+<figure class="article-image">
+  <img src="/images/precht.jpg" alt="Csecsemő spontán mozgásainak megfigyelése a korai mozgásfejlődés értékeléséhez" loading="eager" fetchpriority="high" />
+  <figcaption>A GMA során a szakember a csecsemő spontán mozgásainak minőségét értékeli.</figcaption>
+</figure>
+
+<p class="article-lead"><strong>Röviden:</strong> A Prechtl-féle GMA-vizsgálat a csecsemő spontán mozgásainak minőségét értékelő módszer, amely képzett szakember kezében segítheti a korai neurológiai kockázatok felismerését.</p>
+
+<div class="info-box">
+  <h2>A cikkből megtudhatod</h2>
+  <ul>
+    <li>mit figyel a szakember a baba spontán mozgásaiban;</li>
+    <li>mikor különösen fontos a GMA, és mit jelentenek a fidgety mozgások;</li>
+    <li>milyen szerepe lehet a videófelvételnek és az utánkövetésnek;</li>
+    <li>miért nem helyettesíti a GMA a komplex klinikai vizsgálatot.</li>
+  </ul>
+</div>
 <p>A baba mozgásfejlődésének megfigyelése nem csupán azt jelenti, hogy mikor fordul át, mikor kezd kúszni vagy mikor ül fel. A spontán mozgások minősége is értékes információkat hordozhat a korai idegrendszeri működésről. A Prechtl-féle General Movements Assessment, röviden GMA, ezt a mozgásminőséget vizsgálja.</p>
 
 <p>A módszer különlegessége, hogy a szakember nem egyetlen mozgás meglétét vagy hiányát értékeli, hanem a csecsemő spontán mozgásainak teljes mintázatát. A vizsgálat megfelelő képzettséget és az életkorhoz igazodó szakmai szempontok alkalmazását igényli.</p>
@@ -193,7 +208,7 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
 
 <p>A baba mozgásfejlődésének főbb állomásairól itt olvashatsz részletesebben: <a href="/tudastar/baba-mozgasfejlodes">a baba mozgásfejlődése 0–18 hónapos korig</a>.</p>
 
-<h2>Gyakori kérdések a Prechtl-féle GMA vizsgálatról</h2>
+<h2>Gyakori kérdések a Prechtl-féle GMA-vizsgálatról</h2>
 
 <p><strong>Fájdalommal jár a GMA vizsgálat?</strong><br>
 Nem. A GMA a csecsemő spontán mozgásainak megfigyelésén alapuló, noninvazív módszer.</p>
