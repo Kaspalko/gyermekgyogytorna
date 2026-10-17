@@ -14,7 +14,7 @@ export default function Pricing() {
               Gyermek gyógytorna ára
             </h2>
             <p className="text-lg text-gray-600">
-              Átlátható, fix díjazás – rejtett költségek nélkül
+              Átlátható, fix díjazás 
             </p>
           </div>
 
@@ -100,7 +100,7 @@ export default function Pricing() {
                 </h3>
 
                 <div className="text-4xl md:text-5xl font-bold text-gray-800 mb-3">
-                  16.000 Ft
+                  15.000 Ft
                 </div>
 
                 <div className="flex items-center justify-center gap-2 text-gray-600">
