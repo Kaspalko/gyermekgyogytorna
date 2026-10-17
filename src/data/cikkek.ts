@@ -105,6 +105,138 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
 <p><strong>A cikket készítette:</strong> Kasparek Pál, gyermek gyógytornász</p>
 `
   },
+{
+  slug: "prechtl-gma-vizsgalat",
+  title: "Prechtl-féle GMA vizsgálat – a baba mozgásfejlődése",
+  description:
+    "Mi a Prechtl-féle GMA vizsgálat? Ismerd meg a csecsemők spontán mozgásainak videóalapú elemzését és a korai felismerés szerepét.",
+  image: "/images/prechtl-gma-vizsgalat.jpg",
+
+  date: "2026. október",
+  readingTime: "7 perc",
+
+  content: `
+<h2>Mi a Prechtl-féle GMA vizsgálat?</h2>
+
+<p><strong>Rövid válasz:</strong> A Prechtl-féle General Movements Assessment (GMA) a csecsemők spontán mozgásainak minőségét értékelő, standardizált módszer. Videófelvétel alapján, megfelelő képzettséggel rendelkező szakember vizsgálhatja a mozgások változatosságát, folyamatosságát és komplexitását. A GMA fontos szerepet tölthet be a korai idegrendszeri kockázat, különösen a cerebrális parézis (CP) kockázatának felismerését segítő vizsgálatok között.</p>
+
+<p>A baba mozgásfejlődésének megfigyelése nem csupán azt jelenti, hogy mikor fordul át, mikor kezd kúszni vagy mikor ül fel. A spontán mozgások minősége is értékes információkat hordozhat a korai idegrendszeri működésről. A Prechtl-féle General Movements Assessment, röviden GMA, ezt a mozgásminőséget vizsgálja.</p>
+
+<p>A módszer különlegessége, hogy a szakember nem egyetlen mozgás meglétét vagy hiányát értékeli, hanem a csecsemő spontán mozgásainak teljes mintázatát. A vizsgálat megfelelő képzettséget és az életkorhoz igazodó szakmai szempontok alkalmazását igényli.</p>
+
+<h2>Mit vizsgál a General Movements Assessment?</h2>
+
+<p>A General Movements Assessment a csecsemő spontán, összetett mozgásainak kvalitatív értékelésére szolgál. Ezekben a mozgásokban a törzs, a nyak, a karok és a lábak változatos mintázatokban vesznek részt.</p>
+
+<p>A szakember többek között a következő jellemzőket figyeli:</p>
+
+<ul>
+<li><strong>Változatosság:</strong> mennyire változatosak a mozgásmintázatok.</li>
+<li><strong>Komplexitás:</strong> hogyan kapcsolódnak össze a test különböző részeinek mozgásai.</li>
+<li><strong>Folyamatosság:</strong> mennyire folyamatosak és gördülékenyek a mozdulatok.</li>
+<li><strong>A mozgások összképe:</strong> milyen általános minőség jellemzi a csecsemő spontán mozgását.</li>
+</ul>
+
+<p>A GMA során a mozgásokat mindig a csecsemő életkorának megfelelő fejlődési szakaszban kell értékelni. A módszer alapja, hogy a spontán mozgások minősége a korai idegrendszeri működés egyik fontos megfigyelhető jelzője lehet (Einspieler &amp; Prechtl, 2005).</p>
+
+<h2>Miért fontos a GMA a korai felismerésben?</h2>
+
+<p>A csecsemők idegrendszere az első hónapokban gyorsan fejlődik. Bizonyos neurológiai eltérésekre már korán utalhatnak olyan mozgásmintázatok, amelyek a hagyományos fejlődési mérföldkövek megjelenése előtt is megfigyelhetők.</p>
+
+<p>A Prechtl-féle GMA a cerebrális parézis kockázatának korai felismerését segítő módszerek közé tartozik. Novak és munkatársai bizonyítékokat összegző áttekintése a GMA-t a korrigált 5 hónapos életkor előtt alkalmazható, magas prediktív értékű eszközök között említi. A korai diagnosztikai folyamatban ugyanakkor a klinikai előzmények, a neurológiai vizsgálat és szükség esetén a képalkotó vizsgálatok eredményeit is figyelembe kell venni (Novak et al., 2017).</p>
+
+<p><strong>Fontos:</strong> A GMA nem helyettesíti a komplex klinikai vizsgálatot, és önmagában nem alkalmas minden fejlődési eltérés kizárására. Az eredményeket a gyermek kórelőzményével, aktuális állapotával és más vizsgálatok eredményeivel együtt kell értelmezni.</p>
+
+<p>A korai felismerés jelentőségéről részletesebben is olvashatsz a <a href="/tudastar/korai-felismeres">korai felismerés szerepéről szóló cikkben</a>.</p>
+
+<h2>Melyik életkorban különösen fontos a GMA?</h2>
+
+<p>A General Movements Assessment a korai fejlődés során megfigyelhető spontán mozgások értékelésére épül. A mozgásmintázatok az életkor előrehaladtával változnak, ezért a vizsgálat időzítésének meghatározásakor a csecsemő aktuális fejlődési szakaszát is figyelembe kell venni.</p>
+
+<p>A GMA egyik kiemelt időszaka a <strong>fidgety mozgások időszaka</strong>, amely jellemzően a 3–5 hónapos életkorban figyelhető meg. Ezek apró, változó sebességű és gyorsulású mozgások, amelyek a nyakat, a törzset és a végtagokat is érintik.</p>
+
+<p>A megfelelő időszakban végzett, szakszerű értékelés fontos információt adhat a neuromotoros fejlődés kockázatáról. A fidgety mozgások hiánya megfelelő körülmények között, képzett szakember által értékelve fontos kockázati jel lehet.</p>
+
+<p>Korábban született csecsemőknél a korrigált életkort is figyelembe kell venni. Ezért a vizsgálat időpontját nem kizárólag a születés óta eltelt hetek alapján célszerű meghatározni.</p>
+
+<h2>Hogyan történik a videóalapú GMA vizsgálat?</h2>
+
+<p>A GMA egyik előnye, hogy a csecsemő spontán mozgásai videófelvételen is értékelhetők. A felvételt a megfelelő útmutatás alapján a szülő is elkészítheti, a szakember pedig később, megfelelő körülmények között elemezheti.</p>
+
+<p>A megbízható értékeléshez fontos, hogy a baba mozgása jól látható legyen, és a felvétel lehetővé tegye a spontán mozgások megfigyelését. A sírás, a jelentős nyugtalanság vagy a testet takaró tárgyak korlátozhatják az értékelhetőséget.</p>
+
+<p>A felvétel elkészítéséhez ezért célszerű előzetes, egyértelmű útmutatást adni a szülőknek. A videóelemzés nem egyszerűen a felvétel megtekintését jelenti: a mozgások szakszerű megítéléséhez megfelelő képzettség, standardizált értékelés és az életkor figyelembevétele szükséges (Einspieler &amp; Prechtl, 2005).</p>
+
+<h2>Lehet-e a szülő által készített videó alapján értékelni a baba mozgásait?</h2>
+
+<p>A szülő által készített videó lehetőséget adhat arra, hogy a szakember a csecsemő spontán mozgásait ne kizárólag a személyes vizsgálat időpontjában figyelje meg. Ez különösen a fejlődés követése során lehet hasznos, amennyiben a felvétel megfelelő minőségű, és a vizsgálat a GMA szakmai követelményeinek megfelelően történik.</p>
+
+<p>Peyton és munkatársai 2024-ben a Baby Moves alkalmazással gyűjtött, szülők által készített GMA-videók megvalósíthatóságát vizsgálták. A négy chicagói újszülött-intenzív osztályhoz kapcsolódó vizsgálatban 261 csecsemő vett részt, és a családok 70%-a küldött be videófelvételt. Az eredmények arra utalnak, hogy a szülői videófelvételek gyűjtése megvalósítható lehet a klinikai utánkövetésben, ugyanakkor a részvételi arányok különbségei a digitális megoldások hozzáférhetőségének kihívásaira is felhívták a figyelmet (Peyton et al., 2024).</p>
+
+<p>A kutatás nem jelenti azt, hogy bármilyen módon rögzített vagy megosztott videó automatikusan alkalmas GMA-értékelésre. A megfelelő felvételi körülmények, a szakember képzettsége és az eredmény klinikai összefüggésekben történő értelmezése továbbra is alapvető.</p>
+
+<h2>Miért lehet fontos a mozgásfejlődés időbeli követése?</h2>
+
+<p>A csecsemő mozgásfejlődése dinamikus folyamat. Egyetlen felvétel fontos információkat adhat, de nem minden esetben mutatja meg a mozgásmintázatok teljes időbeli alakulását.</p>
+
+<p>Az életkorhoz igazodó, különböző időpontokban készült videók összehasonlítása segíthet megítélni, hogy a korábban megfigyelt mozgásjellemzők tartósan fennállnak-e, vagy változnak a fejlődés során. Einspieler és Prechtl is hangsúlyozta a fejlődési pálya követésének jelentőségét (Einspieler &amp; Prechtl, 2005).</p>
+
+<p>Amennyiben a gyermek kórelőzménye, a vizsgálat eredménye vagy a szakmai megítélés indokolja, további videófelvételek is kérhetők. Az utánkövetés gyakoriságát azonban egyénileg kell meghatározni: a két hetenkénti felvétel nem általánosan kötelező GMA-protokoll, és nem minden csecsemő esetében szükséges.</p>
+
+<h2>Hogyan kapcsolódhat a GMA a csecsemőgyógytornához?</h2>
+
+<p>A Prechtl-féle GMA a csecsemő mozgásfejlődésének megítélését segítő eszköz lehet a korai ellátásban. A személyes gyermekgyógytorna-vizsgálat során a szakember megismerheti a gyermek kórelőzményét, megfigyelheti aktuális mozgását, és mérlegelheti, hogy indokolt-e a spontán mozgások strukturált videóelemzése.</p>
+
+<p>A videóalapú értékelés kiegészítheti a személyes vizsgálat során szerzett információkat, illetve megfelelő szakmai indikáció esetén a későbbi utánkövetést is támogathatja. Az eredmények alapján felmerülhet további vizsgálat vagy szakorvosi konzultáció szükségessége.</p>
+
+<p>A GMA nem helyettesíti a teljes körű mozgásfejlődési és neurológiai vizsgálatot. A vizsgálati eredményeket minden esetben a gyermek egyéni állapotával és a rendelkezésre álló klinikai információkkal együtt kell értelmezni.</p>
+
+<p>A baba mozgásfejlődésének főbb állomásairól itt olvashatsz részletesebben: <a href="/tudastar/baba-mozgasfejlodes">a baba mozgásfejlődése 0–18 hónapos korig</a>.</p>
+
+<h2>Gyakori kérdések a Prechtl-féle GMA vizsgálatról</h2>
+
+<p><strong>Fájdalommal jár a GMA vizsgálat?</strong><br>
+Nem. A GMA a csecsemő spontán mozgásainak megfigyelésén alapuló, noninvazív módszer.</p>
+
+<p><strong>Minden csecsemőnek szüksége van GMA vizsgálatra?</strong><br>
+Nem feltétlenül. A vizsgálat szükségességét a gyermek életkora, kórelőzménye, fejlődési jellemzői és a szakmai szempontok alapján kell mérlegelni.</p>
+
+<p><strong>Elég egyetlen videó a mozgásfejlődés megítéléséhez?</strong><br>
+Egy megfelelő felvétel értékes információt adhat, de bizonyos esetekben az időbeli követés és további vizsgálatok is szükségesek lehetnek.</p>
+
+<p><strong>A GMA meg tudja állapítani, hogy a gyermeknek cerebrális parézise van-e?</strong><br>
+A GMA fontos információt nyújthat a CP kockázatának megítéléséhez, de az eredmény nem értelmezhető a klinikai összefüggésektől függetlenül. A diagnosztikai folyamatban további vizsgálatokra is szükség lehet.</p>
+
+<p><strong>Korábban született babánál is alkalmazható a GMA?</strong><br>
+Igen, a módszer a koraszülött csecsemők vizsgálatában is fontos szerepet kap. Az értékelés során a gesztációs kort, a korrigált életkort és a megfelelő vizsgálati időszakot is figyelembe kell venni.</p>
+
+<h2>Összegzés</h2>
+
+<p>A Prechtl-féle General Movements Assessment a csecsemők spontán mozgásainak minőségét értékelő, standardizált módszer. Különösen fontos lehet a korai neurológiai kockázat felismerését segítő vizsgálatok között, és videófelvétel alapján is elvégezhető, ha a felvétel megfelelő minőségű, és az értékelést megfelelő képzettségű szakember végzi.</p>
+
+<p>A videóalapú GMA kiegészítheti a csecsemő személyes vizsgálatát és bizonyos esetekben támogathatja a fejlődés időbeli követését. Nem helyettesíti azonban a komplex klinikai vizsgálatot, és nem alkalmas minden fejlődési eltérés kizárására.</p>
+
+<p>Ha bizonytalan gyermeke mozgásfejlődésével kapcsolatban, érdemes megfelelő szakemberrel konzultálni. A csecsemők mozgásfejlődésének megítélésében a korai megfigyelés, az egyéni szükségletek figyelembevétele és a megfelelő szakmai vizsgálat egyaránt fontos.</p>
+
+<p>Ha további információt szeretne a gyermekgyógytornáról, itt tájékozódhat: <a href="/gyermek-gyogytorna-budapest" title="Gyermek gyógytorna Budapest">gyermek gyógytorna Budapesten</a>.</p>
+
+<h2>Szakirodalom</h2>
+
+<p>Einspieler, C., &amp; Prechtl, H. F. R. (2005). Prechtl’s assessment of general movements: A diagnostic tool for the functional assessment of the young nervous system. <em>Mental Retardation and Developmental Disabilities Research Reviews, 11</em>(1), 61–67.</p>
+
+<p>Novak, I., Morgan, C., Adde, L., Blackman, J., Boyd, R. N., Brunstrom-Hernandez, J., Cioni, G., Damiano, D., Darrah, J., Eliasson, A.-C., de Vries, L. S., Einspieler, C., Fahey, M., Fehlings, D., Ferriero, D. M., Fetters, L., Fiori, S., Forssberg, H., Gordon, A. M., ... Badawi, N. (2017). Early, accurate diagnosis and early intervention in cerebral palsy: Advances in diagnosis and treatment. <em>JAMA Pediatrics, 171</em>(9), 897–907.</p>
+
+<p>Peyton, C., Frazier, M., Aaby, D., Millman, R., Rodriguez, S., Boswell, L., Msall, M. E., Spittle, A., de Regnier, R.-A., Barbosa, V. M., &amp; Sukal-Moulton, T. (2024). Assessing NICU graduates across varied settings: A study on the feasibility of the Baby Moves App. <em>The Journal of Pediatrics, 269</em>, 113979.</p>
+
+<h2>Szerző</h2>
+
+<p><strong>Kasparek Pál – gyermek gyógytornász</strong></p>
+
+<p>Munkám során a gyermekek mozgásfejlődésével, a fejlődési eltérések korai felismerésével és az egyéni szükségletekhez igazított támogatással foglalkozom.</p>
+
+<p>Ha gyermeke mozgásfejlődésével kapcsolatban kérdése merül fel, itt tájékozódhat a lehetőségekről: <a href="/gyermek-gyogytorna-budapest">gyermek gyógytorna Budapest</a>.</p>
+`
+},
   {
     slug: "hason-fekves",
     title: "Miért fontos a hason fekvés a babáknál?",
