@@ -110,7 +110,7 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
   title: "Prechtl-féle GMA vizsgálat – a baba mozgásfejlődése",
   description:
     "Mi a Prechtl-féle GMA vizsgálat? Ismerd meg a csecsemők spontán mozgásainak videóalapú elemzését és a korai felismerés szerepét.",
-  image: "/images/prechtl-gma-vizsgalat.jpg",
+  image: "/images/prechtl.jpg",
 
   date: "2026. október",
   readingTime: "7 perc",
