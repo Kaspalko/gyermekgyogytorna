@@ -15,12 +15,12 @@ const qualifications = [
   {
     title: 'Babamasszázs',
     description:
-      'Az érintésen keresztüli kapcsolódás és a szülő–csecsemő kapcsolat támogatása.',
+      'A szülő–csecsemő kapcsolat támogatása.',
   },
   {
     title: 'Neuro-Hidroterápia 1. (NHT 1.)',
     description:
-      'Speciális, vízben végzett terápiás megközelítés.',
+      'Speciális, vízben végzett terápiás neuroterápia.',
   },
   {
     title: 'Huple® program',
@@ -96,11 +96,9 @@ export default function Qualifications() {
             </div>
 
             <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto">
-              Fontosnak tartom a folyamatos szakmai fejlődést és az
-              ismeretek tudatos bővítését. A különböző módszerek közül
-              mindig a gyermek állapotához, szükségleteihez és a
-              terápiás célokhoz illeszkedő megközelítés kiválasztására
-              törekszem.
+             A különböző módszerek közü mindig a gyermek állapotához, 
+              szükségleteihez és a terápiás célokhoz illeszkedő megközelítés 
+              kiválasztására törekszem.
             </p>
           </div>
 
