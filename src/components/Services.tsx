@@ -1,25 +1,42 @@
-import { Check } from 'lucide-react';
+
+import { Check, ArrowRight } from 'lucide-react';
+import { scrollToSection } from "../utils/scrollToSection";
 
 const services = [
   {
-    title: 'Nem fordul át, késik a mozgásfejlődés',
-    description: 'Ha úgy érzi, gyermeke lassabban halad a mozgásfejlődési lépésekben',
+    title: 'A mozgásfejlődés elmaradása vagy lassabb üteme',
+    description:
+      'Ha gyermeke később sajátít el bizonyos mozgásformákat, vagy bizonytalan abban, hogyan halad a fejlődése.',
   },
   {
     title: 'Aszimmetrikus mozgás vagy testtartás',
-    description: 'Ha a baba gyakran egy irányba fordul, vagy nem használja egyformán a két oldalát',
+    description:
+      'Ha a baba gyakran ugyanabba az irányba fordul, vagy feltűnően eltérően használja a két testfelét.',
   },
   {
-    title: 'Kimarad a mászás vagy szokatlan a mozgás',
-    description: 'Ha bizonyos mozgásformák kimaradnak, vagy a mozgás nem tűnik koordináltnak',
+    title: 'Szokatlan mozgásminták',
+    description:
+      'Ha egy mozgásforma kimarad, a mozgás kivitelezése szokatlannak tűnik, vagy kérdése van gyermeke koordinációjával kapcsolatban.',
   },
   {
-    title: 'Feszes vagy laza izomzat',
-    description: 'Ha a baba mozgása túl merevnek vagy éppen túl „puha” jellegűnek tűnik',
+    title: 'Feszesnek vagy lazának tűnő izomzat',
+    description:
+      'Ha gyermeke izomzatát merevnek, vagy épp ellenkezőleg pettyhüdtnek érzékeli.',
   },
   {
-    title: 'Koraszülöttség vagy születés körüli nehézségek',
-    description: 'Koraszülött babák és speciális fejlődési helyzetek egyéni követése',
+    title: 'Koraszülöttség és születés körüli nehézségek',
+    description:
+      'Ha a koraszülöttség vagy a születés körüli események miatt fontos a mozgásfejlődés fokozott figyelemmel kísérése.',
+  },
+  {
+    title: 'Neurológiai érintettség',
+    description:
+      'Ha gyermeke idegrendszeri érintettséggel él, és személyre szabott gyógytornára, funkcionális támogatásra van szüksége.',
+  },
+  {
+    title: 'Már meglévő diagnózis melletti fejlesztés',
+    description:
+      'Ha gyermeke ismert fejlődési vagy mozgásszervi állapotához igazodó terápiás célokat szeretne kialakítani.',
   },
 ];
 
@@ -32,20 +49,23 @@ export default function Services() {
           {/* CÍM */}
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Mikor érdemes gyermek gyógytornászhoz fordulni?
+              Mikor érdemes gyermekgyógytornászhoz fordulni?
             </h2>
 
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Sok esetben nehéz eldönteni, hogy egy eltérés még belefér-e a természetes fejlődésbe.
-              Az alábbi helyzetekben érdemes szakemberhez fordulni:
+            <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
+              A gyermekek mozgásfejlődése egyéni ütemben zajlik.
+              Ha kérdése vagy aggodalma van gyermeke mozgásával,
+              testtartásával vagy fejlődésével kapcsolatban, egy
+              szakmai vizsgálat segíthet jobban megérteni a helyzetet
+              és meghatározni a következő lépéseket.
             </p>
           </div>
 
-          {/* LISTA */}
+          {/* SZOLGÁLTATÁSI TERÜLETEK */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {services.map((service, index) => (
+            {services.map((service) => (
               <div
-                key={index}
+                key={service.title}
                 className="bg-gradient-to-br from-amber-50 to-yellow-50 rounded-2xl p-6 hover:shadow-lg transition-all transform hover:-translate-y-1"
               >
                 <div className="flex gap-4">
@@ -60,7 +80,7 @@ export default function Services() {
                       {service.title}
                     </h3>
 
-                    <p className="text-gray-600">
+                    <p className="text-gray-600 leading-relaxed">
                       {service.description}
                     </p>
                   </div>
@@ -69,31 +89,39 @@ export default function Services() {
             ))}
           </div>
 
-          {/* EXTRA BLOKK – KOMOLYABB ESETEK */}
+          {/* SPECIÁLIS ESETEK */}
           <div className="mt-12 bg-amber-50 rounded-2xl p-8 text-center border border-amber-200 space-y-3">
-            <p className="text-gray-700 text-lg font-medium">
-              Speciális esetekkel is foglalkozom
+            <p className="text-gray-800 text-xl font-semibold">
+              Eltérő fejlődési szükséglet esetén is
             </p>
 
-            <p className="text-gray-700">
-              Koraszülött gyermekek, illetve idegrendszeri érintettség esetén is
-              egyéni vizsgálat és fejlesztési terv készül.
-            </p>
-
-            <p className="text-gray-600 text-sm">
-              Ha bizonytalan, érdemes egy vizsgálattal tisztázni a helyzetet.
+            <p className="text-gray-700 max-w-3xl mx-auto leading-relaxed">
+              Idegrendszeri érintettséggel vagy összetettebb mozgásfejlődési
+              nehézséggel élő gyermekek esetében a terápia céljait mindig
+              az egyéni állapothoz, funkcionális képességekhez és a család
+              mindennapi szükségleteihez igazítom.
             </p>
           </div>
 
           {/* MEGNYUGTATÓ BLOKK */}
-          <div className="mt-6 bg-amber-50 rounded-2xl p-8 text-center border border-amber-200">
-            <p className="text-gray-700 text-lg">
-              Nem minden eltérés jelent problémát – de egy hozzáértő vizsgálat segít tisztán látni.
+          <div className="mt-6 bg-white rounded-2xl p-8 text-center border border-amber-200">
+            <p className="text-gray-800 text-lg font-medium">
+              Nem minden eltérés jelez problémát – de nem kell egyedül
+              mérlegelnie, mikor érdemes segítséget kérni.
             </p>
 
-            <p className="mt-3 text-gray-700">
-              ✔ Megnyugtató válasz vagy ✔ időben elkezdett fejlesztés
+            <p className="mt-3 text-gray-600">
+              A cél a gyermek egyéni szükségleteinek megértése és a megfelelő
+              következő lépések meghatározása.
             </p>
+
+            <button
+              onClick={() => scrollToSection('jelentkezes')}
+              className="mt-6 inline-flex items-center justify-center gap-2 bg-amber-700 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800 transition-all shadow-lg hover:shadow-xl"
+            >
+              Kapcsolatfelvétel
+              <ArrowRight size={20} />
+            </button>
           </div>
 
         </div>
@@ -101,3 +129,4 @@ export default function Services() {
     </section>
   );
 }
+
