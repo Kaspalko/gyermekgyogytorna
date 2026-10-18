@@ -14,7 +14,7 @@ export default function Footer() {
               </h3>
               <p className="text-gray-300">Gyermek gyógytornász</p>
               <p className="text-gray-400 text-sm mt-2">
-                0-6 éves korig
+                0-3 éves korig
               </p>
             </div>
 
