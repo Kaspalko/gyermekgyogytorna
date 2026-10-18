@@ -138,6 +138,11 @@ Ha felmerül a mozgásfejlődés eltérésének lehetősége, egy szakember seg�
 
 <p>A módszer különlegessége, hogy a szakember nem egyetlen mozgás meglétét vagy hiányát értékeli, hanem a csecsemő spontán mozgásainak teljes mintázatát. A vizsgálat megfelelő képzettséget és az életkorhoz igazodó szakmai szempontok alkalmazását igényli.</p>
 
+<p>
+A mozgásfejlődési mérföldkövekről részletesen itt olvashat: 
+<a href="/tudastar/baba-mozgasfejlodes">baba mozgásfejlődése</a>.
+</p>
+
 <h2>Mit vizsgál a General Movements Assessment?</h2>
 
 <p>A General Movements Assessment a csecsemő spontán, összetett mozgásainak kvalitatív értékelésére szolgál. Ezekben a mozgásokban a törzs, a nyak, a karok és a lábak változatos mintázatokban vesznek részt.</p>
