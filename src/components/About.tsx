@@ -59,7 +59,7 @@ export default function About() {
                 </p>
 
                 <p className="text-gray-800 font-medium">
-                  Hiszem, hogy a szülők számára a szakmai segítség akkor igazán
+                  A szülők számára a szakmai segítség akkor igazán
                   hasznos, ha a vizsgálat mellett megértést, világos
                   magyarázatot és a mindennapokban is alkalmazható útmutatást kapnak.
                 </p>
