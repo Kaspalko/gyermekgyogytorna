@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
-
+import SEO from "./components/SEO";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
@@ -23,6 +23,11 @@ import ScrollToHash from "./components/ScrollToHash";
 function Home() {
   return (
     <>
+       <SEO
+        title="Gyermek gyógytorna Budapest | Kasparek Pál"
+        description="Gyermekgyógytorna Budapesten, csecsemők és kisgyermekek számára. Mozgásfejlődési vizsgálat, személyre szabott gyógytorna és szülői tanácsadás."
+        path="/"
+      />
       <Hero />
       <Services />
       <About />
