@@ -85,10 +85,6 @@ export default function Vizsgalat() {
             <p className="text-gray-700 text-lg">
               Nem minden eltérés jelent problémát – de egy vizsgálat segít tisztán látni.
             </p>
-
-            <p className="mt-3 text-gray-700">
-              ✔ Megnyugtató válasz &nbsp; ✔ Szükség esetén időben elkezdett fejlesztés
-            </p>
           </div>
 
           {/* CTA */}
