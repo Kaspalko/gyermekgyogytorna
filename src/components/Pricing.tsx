@@ -179,7 +179,7 @@ export default function Pricing() {
                     13.500 Ft / alkalom
                   </p>
                   <p className="text-sm text-gray-600 mt-1">
-                    10.000 Ft megtakarítás
+                    6.000 Ft megtakarítás
                   </p>
                 </div>
               </div>
