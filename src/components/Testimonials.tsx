@@ -1,4 +1,7 @@
+
 import { useState } from "react";
+import { ArrowLeft, ArrowRight, MessageCircle } from "lucide-react";
+import { scrollToSection } from "../utils/scrollToSection";
 
 const testimonials = [
   {
@@ -27,48 +30,105 @@ export default function Testimonials() {
   const [index, setIndex] = useState(0);
 
   const prev = () => {
-    setIndex((prev) => (prev === 0 ? testimonials.length - 1 : prev - 1));
+    setIndex((current) =>
+      current === 0 ? testimonials.length - 1 : current - 1
+    );
   };
 
   const next = () => {
-    setIndex((prev) => (prev === testimonials.length - 1 ? 0 : prev + 1));
+    setIndex((current) =>
+      current === testimonials.length - 1 ? 0 : current + 1
+    );
   };
 
+  const testimonial = testimonials[index];
+
   return (
-    <section className="py-20 bg-amber-50">
+    <section
+      id="velemenyek"
+      className="py-20 bg-amber-50"
+      aria-labelledby="testimonials-heading"
+    >
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
 
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
-            Szülők mondták
-          </h2>
+          {/* CÍM */}
+          <div className="mb-10">
+            <div className="inline-flex items-center justify-center gap-2 text-amber-700 font-medium mb-3">
+              <MessageCircle size={20} />
+              <span>Valódi szülői tapasztalatok</span>
+            </div>
 
-          <div className="bg-white rounded-2xl p-8 shadow-md border border-amber-100 min-h-[180px] flex flex-col justify-center">
+            <h2
+              id="testimonials-heading"
+              className="text-3xl md:text-4xl font-bold text-gray-800 mb-4"
+            >
+              Szülők mondták
+            </h2>
 
-            <p className="text-gray-700 text-lg italic mb-4">
-              „{testimonials[index].text}”
+            <p className="text-gray-600 leading-relaxed">
+              A közös munka során fontos a bizalom, az érthető magyarázat
+              és a család mindennapjaiban is használható segítség.
             </p>
-
-            <p className="text-sm text-gray-500">
-              – {testimonials[index].name}
-            </p>
-
           </div>
 
-          {/* NAV */}
-          <div className="flex justify-center gap-4 mt-6">
+          {/* VÉLEMÉNY */}
+          <div
+            className="bg-white rounded-2xl p-6 md:p-10 shadow-md border border-amber-100 min-h-[240px] flex flex-col justify-center"
+            aria-live="polite"
+            aria-atomic="true"
+          >
+            <div className="text-amber-700 text-4xl leading-none mb-4" aria-hidden="true">
+              “
+            </div>
+
+            <p className="text-gray-700 text-lg italic leading-relaxed mb-6">
+              {testimonial.text}
+            </p>
+
+            <p className="text-sm font-semibold text-gray-600">
+              – {testimonial.name}
+            </p>
+          </div>
+
+          {/* NAVIGÁCIÓ */}
+          <div className="flex items-center justify-center gap-5 mt-6">
             <button
+              type="button"
               onClick={prev}
-              className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-100"
+              aria-label="Előző szülői vélemény"
+              className="w-11 h-11 flex items-center justify-center bg-white border border-amber-200 rounded-full hover:bg-amber-100 transition-colors focus:outline-none focus:ring-2 focus:ring-amber-600"
             >
-              ←
+              <ArrowLeft size={20} />
             </button>
 
+            <span className="text-sm text-gray-600 min-w-[70px]">
+              {index + 1} / {testimonials.length}
+            </span>
+
             <button
+              type="button"
               onClick={next}
-              className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-100"
+              aria-label="Következő szülői vélemény"
+              className="w-11 h-11 flex items-center justify-center bg-white border border-amber-200 rounded-full hover:bg-amber-100 transition-colors focus:outline-none focus:ring-2 focus:ring-amber-600"
             >
-              →
+              <ArrowRight size={20} />
+            </button>
+          </div>
+
+          {/* KAPCSOLATFELVÉTEL */}
+          <div className="mt-10">
+            <p className="text-gray-700 mb-4">
+              Kérdése van gyermeke mozgásfejlődésével kapcsolatban?
+            </p>
+
+            <button
+              type="button"
+              onClick={() => scrollToSection("jelentkezes")}
+              className="inline-flex items-center justify-center gap-2 bg-amber-700 text-white px-8 py-4 rounded-full font-semibold hover:bg-amber-800 transition-all shadow-md hover:shadow-lg"
+            >
+              Kapcsolatfelvétel
+              <ArrowRight size={18} />
             </button>
           </div>
 
@@ -77,3 +137,4 @@ export default function Testimonials() {
     </section>
   );
 }
+
