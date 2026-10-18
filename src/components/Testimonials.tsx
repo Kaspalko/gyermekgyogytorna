@@ -55,8 +55,6 @@ export default function Testimonials() {
           {/* CÍM */}
           <div className="mb-10">
             <div className="inline-flex items-center justify-center gap-2 text-amber-700 font-medium mb-3">
-              <MessageCircle size={20} />
-              <span>Szülői tapasztalatok</span>
             </div>
 
             <h2
