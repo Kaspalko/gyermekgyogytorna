@@ -5,15 +5,27 @@ export default function ScrollToHash() {
   const location = useLocation();
 
   useEffect(() => {
-    if (location.hash) {
-      const el = document.getElementById(location.hash.replace("#", ""));
-      if (el) {
-        setTimeout(() => {
-          el.scrollIntoView({ behavior: "smooth" });
-        }, 100);
+    if (!location.hash) return;
+
+    const id = location.hash.replace("#", "");
+
+    const timer = setTimeout(() => {
+      const element = document.getElementById(id);
+
+      if (element) {
+        const headerOffset = 100;
+        const elementPosition =
+          element.getBoundingClientRect().top + window.scrollY;
+
+        window.scrollTo({
+          top: elementPosition - headerOffset,
+          behavior: "smooth",
+        });
       }
-    }
-  }, [location]);
+    }, 200);
+
+    return () => clearTimeout(timer);
+  }, [location.hash]);
 
   return null;
 }
